@@ -1,35 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
+title: SGN Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/sgn-logo-main.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Subscribe to our newsletter
 sections:
     - hero:
-        title: WHERE DO YOU FIT IN?
+        title: Where do you fit in?
         subtitle: Been to Singapore? Worked here a couple of years? Grew up here? Join us as we build a network to connect individuals around the globe who share experiences of Singapore in one way or another. 
-        background: /images/singapore.jpg
+        background: /images/jewel-background.jpg
         button: Find Out
         url: /contact-us/
         key_highlights:
-            - title: Resources
-              description: 
-              url: /resources/preparation/
-            - title: Events
-              description: 
-              url: /events/page1/
             - title: Stories
               description: 
               url: /stories/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
+            - title: Events
+              description: 
+              url: /events/page1/
+            - title: Resources
+              description: 
+              url: /resources/preparation/
+              
+     - resources:
         title: Stories
         subtitle: Learn more
-        button: View More
+        button: Read All Stories
+        
+    - infobar:
+        title: Events
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: See All Events
+        url: /faq/
+
 ---

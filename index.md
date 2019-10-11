@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: SGN Site
+title: Isomer Site
 description: Brief site description here
-image: /images/sgn-logo-main.svg
+image: /images/isomer-logo.svg
 permalink: /
 notification: Subscribe to our newsletter
 sections:

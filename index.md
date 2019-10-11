@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Where do you fit in?
         subtitle: Been to Singapore? Worked here a couple of years? Grew up here? Join us as we build a network to connect individuals around the globe who share experiences of Singapore in one way or another. 
-        background: /images/Jewel-Background.jpg
+        background: /images/singapore-aerial-night.jpg
         button: Find out
         url: /contact-us/
         key_highlights:

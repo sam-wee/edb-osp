@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
+title: SGN Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Subscribe to our newsletter
+notification: 
 sections:
     - hero:
         title: Where do you fit in?

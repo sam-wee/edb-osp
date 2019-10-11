@@ -1,5 +1,5 @@
 ---
-title: Singapore Night! Crazy Rich Asians
+title: Singapore Night! Crazy Rich Asians - Happening Now!
 permalink: /events/singapore-night/
 ---
 

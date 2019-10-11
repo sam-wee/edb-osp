@@ -22,12 +22,10 @@ sections:
             - title: Resources
               description: 
               url: /resources/preparation/
-              
      - resources:
         title: Stories
         subtitle: Learn more
         button: Read All Stories
-        
     - infobar:
         title: Events
         subtitle: Subtitle

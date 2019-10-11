@@ -9,8 +9,8 @@ sections:
     - hero:
         title: Where do you fit in?
         subtitle: Been to Singapore? Worked here a couple of years? Grew up here? Join us as we build a network to connect individuals around the globe who share experiences of Singapore in one way or another. 
-        background: /images/jewel-background.jpg
-        button: Find Out
+        background: /images/Jewel-Background.jpg
+        button:
         url: /contact-us/
         key_highlights:
             - title: Stories

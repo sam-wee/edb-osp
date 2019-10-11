@@ -7,10 +7,10 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Finding your Home away from Home.
-        subtitle: 
+        title: WHERE DO YOU FIT IN?
+        subtitle: Been to Singapore? Worked here a couple of years? Grew up here? Join us as we build a network to connect individuals around the globe who share experiences of Singapore in one way or another. 
         background: /images/singapore.jpg
-        button: 
+        button: Find Out
         url: /contact-us/
         key_highlights:
             - title: Resources

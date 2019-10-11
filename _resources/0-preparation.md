@@ -16,3 +16,4 @@ Depending on which country you are heading to, these may include items such as f
 
 There are export requirements for pets travelling out of Singapore. All exports of personal animals are regulated by the Agri-Food and Veterinary Authority of Singapore (AVA). You are required to abide by AVA's export licence and pets quarantine requirements. Additional permits are required if the pet is a CITES-listed species. Please visit the AVA website for more details. There are also Customs requirements for bringing your personal pet out of Singapore. Please visit Singapore Custom's website for more details.
 
+test change

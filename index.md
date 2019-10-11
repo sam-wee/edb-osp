@@ -13,25 +13,24 @@ sections:
         button: Find out
         url: /contact-us/
         key_highlights:
-            - title: Resources
-              description: 
-              url: /resources/preparation/
-            - title: Events
-              description: 
-              url: /events/page1/
             - title: Stories
               description: 
               url: /stories/
-
-    - infobar:
-        title: Infobar Title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-
+            - title: Events
+              description: 
+              url: /events/page1/
+            - title: Resources
+              description: 
+              url: /resources/preparation/
     - resources:
         title: Stories
         subtitle: Learn more
-        button: View more
+        button: Read All Stories  
+    - infobar:
+        title: Events
+        subtitle: Subtitle
+        description: About a sentence worth of description here
+        button: See All Events
+        url: /faq/
+       
 ---

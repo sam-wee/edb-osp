@@ -9,12 +9,11 @@ logo: /images/sgn-logo-main.svg
 links:
   - title: Stories
     resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
+  - title: Events
+    collection: events 
   - title: Resources
     collection: resources
-  - title: Events
-    collection: events    
-
+  - title: About
+    url: /about/
+  - title: Contact Us
+    url: /contact-us/

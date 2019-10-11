@@ -22,7 +22,7 @@ sections:
             - title: Resources
               description: 
               url: /resources/preparation/
-     - resources:
+    - resources:
         title: Stories
         subtitle: Learn more
         button: Read All Stories

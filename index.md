@@ -26,6 +26,7 @@ sections:
         title: Food for Thought
         subtitle: Stories that invoke, provoke and evoke
         button: Read All Stories  
+        url: /food-for-thought/
     - infobar:
         title: Things to do
         subtitle: Latest happenings around the world

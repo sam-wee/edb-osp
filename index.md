@@ -33,5 +33,4 @@ sections:
         description: This is a test sentence
         button: Check out all events
         url: /faq/
-       
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Love, Actually
-permalink: /stories/from-the-community/love-actually
+permalink: /food-for-thought/from-the-community/love-actually
 ---
 # Love, actually
 

@@ -18,11 +18,15 @@ links:
       url: /food-for-thought/gateway-to-asean/
     - title: Tech Me to SG
       url: /food-for-thought/tech-me-to-sg/
+      
   - title: Things to Do
     collection: events 
+    
   - title: Practical Tips & Guides
     collection: resources
+    
   - title: About
     url: /about/
+    
   - title: Contact Us
     url: /contact-us/

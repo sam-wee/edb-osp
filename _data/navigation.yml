@@ -8,7 +8,12 @@ logo: /images/sgn-logo-main.svg
 
 links:
   - title: Food for Thought
-    resource_room: true
+    url:  /food-for-thought/
+    sub-links:
+    - title: All
+      url: /food-for-thought/
+    - title: Gateway to ASEAN
+      url: /food-for-thought/gateway-to-asean/
   - title: Things to Do
     collection: events 
   - title: Practical Tips & Guides

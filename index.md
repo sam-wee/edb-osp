@@ -13,21 +13,21 @@ sections:
         button: Find out
         url: /contact-us/
         key_highlights:
-            - title: Stories
+            - title: Food for Thought
               description: 
               url: /stories/
-            - title: Events
+            - title: Things to do
               description: 
               url: /events/page1/
-            - title: Resources
+            - title: Practical Tips & Guides
               description: 
               url: /resources/preparation/
     - resources:
-        title: Stories
+        title: Food for Thought
         subtitle: Learn more
         button: Read All Stories  
     - infobar:
-        title: Events
+        title: Things to do
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: See All Events

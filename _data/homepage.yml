@@ -1,0 +1,33 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-govtech.ico
+
+# Agency logo
+agency-logo: /images/logo_govtech_hort.gif
+
+# Google analytics
+google-analytics: 
+
+# AskJamie
+ask-jamie: non-empty string
+
+# Hero Banner
+hero-title: From SG, with love.
+hero-subtitle: ou've been to our little red dot. Visited on a stopover, stayed a couple of months, lived here all your life. We want to get to know you. Connect you with others around the globe like yourself who share experiences of Singapore in one way or another. Join us, as we build our network. 
+hero-banner: /images/singapore-aerial-night.jpg
+
+#Call to Action Button
+button:
+  - text: Find out how
+    url:
+
+# Resources Section
+resources-title: Food For Thought
+resources-subtitle: Stories that invoke, provoke and evoke.
+resources-more-button: Read All Stories
+resources-more-button-url: /food-for-thought/?utm_source=food-for-thought_homepage

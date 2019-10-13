@@ -7,16 +7,7 @@
 logo: /images/sgn-logo-main.svg
 
 - title: Food for Thought
-  url:  /food-for-thought/
-  sub-links:
-  - title: All
-    url: /food-for-thought/
-  - title: From the Community
-    url: /food-for-thought/from-the-community/
-  - title: Gateway to ASEAN
-    url: /food-for-thought/gateway-to-asean/
-  - title: Tech Me to SG
-    url: /food-for-thought/tech-me-to-sg/  
+  resource_room: true
       
 - title: Things to Do
   collection: events 

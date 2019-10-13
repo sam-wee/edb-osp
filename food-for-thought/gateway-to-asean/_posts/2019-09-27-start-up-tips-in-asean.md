@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  5 tips on surviving the competitive start-up industry in ASEAN
-permalink: /stories/gateway-to-asean/start-up-tips-in-asean
+permalink: /food-for-thought/gateway-to-asean/start-up-tips-in-asean
 ---
 # 5 tips on surviving the competitive start-up industry in ASEAN
 

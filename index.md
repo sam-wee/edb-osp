@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Finding your Home away from Home.
+        title: Test Title Phrase
         subtitle: 
         background: /images/singapore.jpg
         button: 

@@ -7,11 +7,11 @@
 logo: /images/sgn-logo-main.svg
 
 links:
-  - title: Stories
+  - title: Food for Thought
     resource_room: true
-  - title: Events
+  - title: Things to Do
     collection: events 
-  - title: Resources
+  - title: Practical Tips & Guides
     collection: resources
   - title: About
     url: /about/

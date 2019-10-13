@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: Food for Thought
               description: 
-              url: /stories/
+              url: /food-for-thought/
             - title: Things to do
               description: 
               url: /events/page1/

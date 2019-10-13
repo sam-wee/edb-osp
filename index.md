@@ -2,7 +2,7 @@
 layout: homepage
 title: SGN Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/sgn-main-logo.svg
 permalink: /
 notification: 
 sections:

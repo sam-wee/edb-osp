@@ -24,11 +24,11 @@ sections:
               url: /resources/preparation/
     - resources:
         title: Food for Thought
-        subtitle: Learn more
+        subtitle: Stories to invoke, provoke and evoke.
         button: Read All Stories  
     - infobar:
         title: Things to do
-        subtitle: Subtitle
+        subtitle: Latest happenings around the world.
         description: About a sentence worth of description here
         button: See All Events
         url: /faq/

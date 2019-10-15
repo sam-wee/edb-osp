@@ -1,6 +1,7 @@
 ---
 title: Singapore Night! Crazy Rich Asians - Happening Now!
 permalink: /events/singapore-night/
+third_nav_title: October'19
 ---
 
 ![images](/images/singapore-night.jpg)

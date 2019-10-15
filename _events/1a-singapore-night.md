@@ -1,15 +1,15 @@
 ---
 title: Singapore Night! Crazy Rich Asians - Happening Now!
 permalink: /events/singapore-night/
-third_nav_title: October'19
+third_nav_title: April'19
 ---
 
 ![images](/images/singapore-night.jpg)
 
 ### Time & Location
-10 באפר׳ 2020, 19:30 – 22:30 GMT-3‎
-New York University, NYU Kimmel Rosenthal Pavilion 10th Floor
 
+New York University, NYU Kimmel Rosenthal Pavilion 10th Floor
+10 April 2020, 7.30pm - 10.30pm ADT
 ### About the Event
 Come celebrate Singapore Night with the NYU Singaporean Students' Association! A night where we celebrate Singaporean culture and all it has to offer!
 

@@ -4,7 +4,7 @@ title: SGN Site
 description: Brief site description here
 image: /images/sgn-logo-main.svg
 permalink: /
-notification: 
+notification: We are currently in beta mode. Stay tuned for our official launch, coming to you in 2020!
 sections:
     - hero:
         title: From SG, with love.

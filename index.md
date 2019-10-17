@@ -12,7 +12,6 @@ sections:
         background: /images/singapore-aerial-night.jpg
         button: Read All Stories  
         url: /food-for-thought/
-        [Keep in Touch](https://beautifulforms.typeform.com/c/E986zu)
         key_highlights:
             - title: Food for Thought
               description: 

@@ -10,7 +10,7 @@ sections:
         title: From SG, with love.
         subtitle: You've been to our little red dot. Visited on a stopover, stayed a couple of months, lived here all your life. We want to get to know you. Connect you with others around the globe like yourself who share experiences of Singapore in one way or another. Join us, as we build our network. 
         background: /images/singapore-aerial-night.jpg
-        <button name="Keep In Touch" onclick="https://beautifulforms.typeform.com/c/E986zu">Keep in Touch</button>
+        [Keep in Touch](https://beautifulforms.typeform.com/c/E986zu){: .btn}
         key_highlights:
             - title: Food for Thought
               description: 

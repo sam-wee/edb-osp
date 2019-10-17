@@ -7,8 +7,8 @@ permalink: /
 notification: We are currently in beta mode. Stay tuned for our official launch, coming to you in 2020!
 sections:
     - hero:
-        title: From SG, with love.
-        subtitle: You've been to our little red dot. Visited on a stopover, stayed a couple of months, lived here all your life. We want to get to know you. Connect you with others around the globe like yourself who share experiences of Singapore in one way or another. Join us, as we build our network. 
+        title: Shoutout from Singapore
+        subtitle: You have heard about Singapore. You might have visited us briefly, stayed a couple of months, or lived here all your life. We want to get to know you. Yes, you. Connect with like-minded individuals around the globe like yourself who would like to share your experiences of Singapore in one way or another. Join us, as we build our network. 
         background: /images/singapore-aerial-night.jpg
         button: Keep in Touch
         url: /(https://beautifulforms.typeform.com/c/E986zu)/

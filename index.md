@@ -19,7 +19,8 @@ sections:
             - title: Things to do
               description: 
               url: /events/page1/
-            - title: Practical Tips & Guides
+            - title: Resources
+              subtitle: Things you need to know
               description: 
               url: /resources/preparation/
     - resources:

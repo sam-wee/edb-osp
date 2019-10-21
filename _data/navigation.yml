@@ -18,6 +18,6 @@ links:
     collection: resources
   - title: Funding
     url: /funding/
-  - title: Contact us
-    url: /contact-us/
+  #- title: Contact us
+    #url: /contact-us/
 

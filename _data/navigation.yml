@@ -8,14 +8,16 @@ logo: /images/sgn-logo-main.svg
 
 
 links:
+  - title: About
+    url: /about/
   - title: Food for thought
     resource_room: true
   - title: Things to do
     collection: events
-  - title: Practical Tips & Guides
+  - title: Resources
     collection: resources
-  - title: About
-    url: /about/
+  - title: Funding
+    url: /funding/
   - title: Contact Us
     url: /contact-us/
 

@@ -4,7 +4,7 @@ title: Singapore Global Network
 description: Brief site description here
 image: /images/sgn-logo-main.svg
 permalink: /
-notification: The Overseas Singaporean Unit has moved to the Singapore Global Network. Our site is currently in beta mode. Stay tuned for our official launch in 2020! Find out more here.
+notification: The Overseas Singaporean Unit has moved to the Singapore Global Network. Our site is currently in beta mode. Stay tuned for our official launch in 2020!
 sections:
     - hero:
         title: Shoutout from Singapore
@@ -14,14 +14,13 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: Food for Thought
-              description: 
+              description: Stories to share
               url: /food-for-thought/
             - title: Things to do
-              description: 
+              description: Events to connect
               url: /events/page1/
             - title: Resources
-              subtitle: Things you need to know
-              description: 
+              description: Be in the know
               url: /resources/preparation/
     - resources:
         title: Food for Thought

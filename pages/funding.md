@@ -1,8 +1,8 @@
 ---
 title: Funding
-permalink: /Funding/
+permalink: /funding/
 ---
 
-The Overseas Singaporean Unit (OSU) plans and coordinates a whole-of-government effort to engage overseas Singaporeans to keep them emotionally connected to Singapore. We work with many partners to organise and support a suite of programmes to reach a wide demographic of overseas Singaporeans.
+Homesick? Missing the company of fellow Singaporeans? Want to organise events to galvanise the community? If you have an idea that will help to bring fellow Singaporeans closer together, we will be happy to support. You can make it happen through the Overseas Singaporean Funding Programme (OSFP). We provide seed funding for ground-up initiatives that promote a sense of community and connection to home.
 
-## Funding Description
+## How to apply for Funding

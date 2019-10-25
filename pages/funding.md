@@ -9,8 +9,8 @@ The Overseas Singaporean Funding Programme (OSFP), previously administered by th
     Do you have ideas on how to grow Singapore’s global network of family and friends? Whether you are an individual,
     organisation or a business entity, we would like to hear from you! 
     
-    We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of
-    Singapore, and to strengthen these networks. Help us better understand your interest and needs [here]       (https://form.gov.sg/#!/5d9eb98e4073c80012833a21)!
+We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of
+Singapore, and to strengthen these networks. Help us better understand your interest and needs [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21)!
 
 ## Terms and Conditions
 ### Eligibility

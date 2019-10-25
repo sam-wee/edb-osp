@@ -84,7 +84,7 @@ voided, reduction of the disbursement amount, delay in disbursement of funds or 
 
 You may download the following forms, templates or guides to facilitate your application submission via the online system.
 ⋅⋅* Event Attendees Excel Template
-    ![alt text](/documents/Event Attendees Template.xls"Event Attendees Excel Template")
+    ![alt text](documents/Event Attendees Template.xls"Event Attendees Excel Template")
 ⋅⋅* GIRO Form
     *For credit of funds into both a foreign and Singapore bank account
 ⋅⋅* Guide on Posting Photos on Overseas Singaporean Facebook

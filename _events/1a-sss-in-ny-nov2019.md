@@ -14,11 +14,14 @@ A complimentary dinner and networking will follow. Seats are limited, register t
 ### Event Details
 
 >Date:   4 November 2019 (Monday)
+>
 >Time:   6:30pm – 9:30pm*
+>
 >Venue:  The Westin New York at Times Square Majestic Ballroom (5th floor)
->        270 West 43rd Street
->        New York, NY 10036
->        *Registration starts at 6pm and the event is free.
+>
+>270 West 43rd Street, New York, NY 10036
+>
+>*Registration starts at 6pm and the event is free.
 
 **Interested in opportunities in GIC?** 
 

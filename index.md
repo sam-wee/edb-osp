@@ -21,7 +21,7 @@ sections:
               url: /events/page1/
             - title: Resources
               description: Be in the know
-              url: /resources/preparation/
+              url: /resources/useful-links/
     - resources:
         title: Food for Thought
         subtitle: Stories that invoke, provoke and evoke

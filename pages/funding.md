@@ -6,10 +6,11 @@ permalink: /funding/
 
 The Overseas Singaporean Funding Programme (OSFP), previously administered by the Overseas Singaporean Unit, is a seed-funding programme, which aims to support ground-up initiatives that promote a sense of community and connection to Singapore.
 
-    Do you have ideas on how to grow Singapore’s global network of family and friends? Whether you are an individual,
-    organisation or a business entity, we would like to hear from you! 
-    
-We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of
+>Do you have ideas on how to grow Singapore’s global network of family and friends?
+>
+>Whether you are an individual, organisation or a business entity, we would like to hear from you! 
+>
+> We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of
 Singapore, and to strengthen these networks. Help us better understand your interest and needs [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21)!
 
 ## Terms and Conditions
@@ -83,9 +84,11 @@ voided, reduction of the disbursement amount, delay in disbursement of funds or 
 **Downloadable forms/templates/guide**
 
 You may download the following forms, templates or guides to facilitate your application submission via the online system.
-⋅⋅* Event Attendees Excel Template
-    ![alt text](documents/Event Attendees Template.xls"Event Attendees Excel Template")
-⋅⋅* GIRO Form
+* Event Attendees Excel Template
+![Event Attendees Excel Template](documents/Event Attendees Template.xls)
+
+* GIRO Form
     *For credit of funds into both a foreign and Singapore bank account
-⋅⋅* Guide on Posting Photos on Overseas Singaporean Facebook
+
+* Guide on Posting Photos on Overseas Singaporean Facebook
     *For uploading of photos on Overseas Singaporean FaceBook Page

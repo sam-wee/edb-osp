@@ -4,8 +4,9 @@
 #                                #
 ##################################
 
-logo: /images/sgn-logo-main.svg
+logo: /images/sgn-logo.svg
 
+favicon: /images/favicon-globe.ico
 
 links:
   - title: About us

@@ -20,7 +20,6 @@ A suite of events has been planned for our network of overseas Singaporeans and 
 
 Find out more on our upcoming programmes at http://singaporeglobalnetwork.com (jumplink)
 
-
 ## Meet Our Overseas Liaisons
 <table style="width: 100%;" border="0" cellpadding="10">
 <tr>
@@ -51,7 +50,5 @@ Find out more on our upcoming programmes at http://singaporeglobalnetwork.com (j
 <td style="width: 180px;"><img src="/images/leanne.png" alt="Leanne" /></td>
 <td><strong>Leanne Lim</strong><br/><i>Melbourne</i><br/>Leanne gravitates towards the great outdoors and loves going on walks, cycling, and playing tennis and football. In fact, she is capable of holding her own even as the only girl on the futsal pitch. As a lover of arts, she enjoys going to museums and watching Singapore plays. While Leanne loves the coffee in Melbourne, in her humble opinion, nothing can beat a kopi siu dai back home.<br /></td>
 </tr>
-
-
 
 </table>

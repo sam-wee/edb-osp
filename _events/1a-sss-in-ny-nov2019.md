@@ -1,6 +1,6 @@
 ---
 title: Singapore Speakers Series in New York (4 Nov)
-permalink: /events/sss-in-ny-4nov2019/
+permalink: /events/sss-in-ny-nov2019/
 third_nav_title: November 2019
 ---
 The Singapore Speaker Series featuring Mr Lim Chow Kiat, Chief Executive Officer of GIC, is coming to New York this 4th November 2019!

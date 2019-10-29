@@ -2,8 +2,24 @@
 title: About
 permalink: /about/
 ---
+## Who we are, and what we do
 
-The Overseas Singaporean Unit (OSU) plans and coordinates a whole-of-government effort to engage overseas Singaporeans to keep them emotionally connected to Singapore. We work with many partners to organise and support a suite of programmes to reach a wide demographic of overseas Singaporeans.
+**Who is SGN and what does SGN do?**
+
+The Singapore Global Network (SGN) is a division in the Economic Development Board (EDB). The SGN will broaden and deepen our overseas networks, comprising Overseas Singaporeans as well as friends and fans of Singapore.
+
+**What can I look forward to by connecting with SGN?**
+
+You will be regularly updated with the latest news and developments relating to Singapore and our network of Singaporeans and friends of Singapore living abroad. You will also be invited to attend events, workshops and seminars relevant to you in your area.
+
+Find out more on our upcoming programmes at http://singaporeglobalnetwork.com (jumplink)
+
+**What are the programmes that SGN has in-store for me?**
+
+A suite of events has been planned for our network of overseas Singaporeans and friends of Singapore living in the various cities.
+
+Find out more on our upcoming programmes at http://singaporeglobalnetwork.com (jumplink)
+
 
 ## Meet Our Overseas Liaisons
 <table style="width: 100%;" border="0" cellpadding="10">

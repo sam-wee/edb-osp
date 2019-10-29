@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Singapore Global Network
-description: Brief site description here
-image: /images/sgn-logo-main-words.png
+<!--description: Brief site description here-->
+image: /images/sgn-logo.jpg
 permalink: /
 notification: The Overseas Singaporean Unit has been rebranded as the Singapore Global Network. Our site is currently in beta mode. Stay tuned for our official launch in 2020!
 sections:

@@ -25,12 +25,12 @@ sections:
     - resources:
         title: Food for Thought
         subtitle: Stories that invoke, provoke and evoke
-        button: Read All Stories  
+        button: Read our Stories  
         url: /food-for-thought/
     - infobar:
         title: Things to do
         subtitle: Latest happenings around the world
-        description: This is a test sentence
-        button: Check out all events
-        url: /faq/
+        <!--description: This is a test sentence-->
+        button: Discover our events
+        url: /events/
 ---

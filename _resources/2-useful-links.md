@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /resources/Useful Links/
+permalink: /resources/useful-links/
 ---
 
 ## CAREER, BUSINESS & EMPLOYMENT

@@ -19,9 +19,9 @@ Seats are limited, register today!
 >
 >Venue:  Sheraton Grand Sydney Hyde Park (Ballroom) 
 >
->        161 Elizabeth Street, Sydney NSW 2000, Australia
+>161 Elizabeth Street, Sydney NSW 2000, Australia
 >
->        *Registration starts at 6pm and the event is free.
+>*Registration starts at 6pm and the event is free.
 
 
 ### About the Singapore Speakers Series

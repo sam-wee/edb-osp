@@ -62,104 +62,113 @@ Thomas Kopankiewicz studied in Singapore, served NS and represented the country 
 
 See the world through new eyes with real life stories
 
-**Raffles: An Icon Reborn**
+**RenovAID S8**                  
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/RenovAID S8.jpg)
 
-What does it take to restore a 132-year-old heritage hotel? Hard work, plenty of surprises and a 9-month delay. This is an exclusive look at Raffles Hotel's first major overhaul in 30 years. (English)
+Six different families. Six different homes. All in need of hope. Join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes. (English, with Chinese and Malay subtitles)
 
-[WATCH HERE]()
+[WATCH HERE](https://video.toggle.sg/en/series/raffles-an-icon-reborn/ep1/833940?cid=mccy-osu_raffles-an-icon-reborn_1Nov2019_toggle)
 
 
-**A Medical Journey**
+**Tuesday Report: Be Myself**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/Be-Myself_2560x1440.jpg)
 
-It’s not easy providing medical care across the world. Journey from the A&E ward in Vietnam, to delivery wards in Manila and medical boats in India with our hosts. (Chinese, with English subtitles)
+Our future is nothing but bold. All about passion, these young adults aren’t afraid to face new challenges to realise their dreams. Be inspired by their stories today. (Chinese, with English subtitles)
 
-[WATCH HERE]()
+[WATCH HERE](https://video.toggle.sg/en/series/tuesday-report-be-myself/ep1/858491?cid=mccy-osu_tuesday-report-be-myself_1Nov2019_toggle)
  
 
 ##	DRAMA
 
 Go on an emotional rollercoaster ride with familiar faces and relatable stories.
 
-**128 Circle**                  
+**Last Madame**                  
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/LastMadame_2560x1440.jpg)
 
-Drama brews in the heart of the neighbourhood. Delve into the world of hawkers to see the ups and downs behind a cultural heritage that has endured generations. (English, with Chinese and Malay subtitles)
+A 1930s brothel owner and a modern successful woman. Fate can bring two generations together in unexpected ways. As she inherits her family’s shophouse, Chi Ling (Fiona Fussi) is about to uncover so much more about her great-grandmother. (English, with Chinese subtitles)
 
-[WATCH HERE]()
-
-
-**Kin**
-
-![Image](https://octodex.github.com/images/yaktocat.png)
-
-Family ties have never been more complicated. Years after switching back, Yoke and Ella have settled into their rightful families, but their futures remain uncertain. (English, with Chinese and Malay subtitles)  
-
-[WATCH HERE]()
+[WATCH HERE](https://video.toggle.sg/en/series/last-madame/ep1/835067)
 
 
-**The Driver**
+**Daybreak**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/Daybreak.jpg)
 
-No one can escape from their past. Starting afresh as a driver, a former yakuza gang member finds himself embroiled with criminals yet again, now as an urban vigilante. (Chinese, with English subtitles)
+This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuwu) and Zheng Weilong are about to be reunited once again, on opposite sides of the law. (Chinese, with English subtitles) 
 
-[WATCH HERE]()
- 
+[WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_1Nov2019_toggle)
+
+
+**128 Circle **
+
+![Image](/images/mediacorp/2019/128 Circle.jpg)
+
+Drama brews in the heart of the neighbourhood. Delve into the world of hawkers to see the ups and downs behind a cultural heritage that has endured generations. (English, with Chinese and Malay subtitles) 
+
+[WATCH HERE](https://video.toggle.sg/en/series/128-circle/ep1/839143?cid=mccy-osu_128-circle_1Nov2019_toggle)
+
+
+**Baru Nak Up**
+
+![Image](/images/mediacorp/2019/Baru Nak Up End Tag Landscape.jpg)
+
+All grown up, five best friends from school grapple with life’s changes as they begin to question the nature of their relationships with their family and one another. (Malay, with English subtitles) (Malay, with English subtitles)
+
+[WATCH HERE](https://video.toggle.sg/en/series/baru-nak-up/ep1/855297?cid=mccy-osu_baru-nak-up_1Nov2019_toggle)
+
 
 **Singa Airlines**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/Singa Airlines.jpg)
 
 A missing elite crew. A sole survivor. A hot-tempered cop. Uncover thrilling adventures as families left behind seek the truth behind a mysterious lost aircraft. (Tamil, with English subtitles)
 
-[WATCH HERE]()
- 
+[WATCH HERE](https://video.toggle.sg/en/series/singa-airlines/ep1/818644?cid=mccy-osu_singa-airlines_1Nov2019_toggle)
+
 
 ##	KIDS
 
 Let your young ones learn and enjoy from carefully curated edutainment programmes and popular cartoons.
  
-**Whoopie’s World S3**        
+**Make It Count S2**        
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/Make-It-Count-Season-2_2560x1440.jpg)
 
-All about doing what’s right, as friends old and new battle for a place at the grand theatre finale, Whoopie has to choose between winning and sticking to her ideals. (English)
+Living in a world filled with numbers, join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives.
 
-[WATCH HERE]()
+[WATCH HERE](https://video.toggle.sg/en/series/make-it-count-s2/ep1/855949?cid=mccy-osu_make-it-count-s2_1Nov2019_toggle)
 
 
 ##	PODCASTS
 
 Keep your ears peeled with our latest podcasts!
 
-**FRIED RICE PARADISE**
+**128 Circle**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/128_Circle_MeRadio.png)
 
-What secrets lie behind the stunning recipe of Fried Rice Paradise? Tune in to this exclusive MeRadio podcast as we spill the tea on all the behind-the-scenes gossip.
+Inspired by the drama series, be entertained by Gurmit Singh, Mark Lee and Fiza O, and all the flavours of everyday Singaporean life that makes us who we truly are.   
 
-[HEAR IT HERE]()
+[HEAR IT HERE](https://www.meradio.sg/podcast/playlist/128-Circle-Podcast-11978948?cid=mccy-osu_128-Circle_1Nov2019_meradio)
 
 
-**SINGA MAKSIMA x SG MANIA**
+**Growth Leaders**
  
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/Growth Leaders.JPG)
 
-Don’t miss the exclusive weekly interview with Hans Ashrie as he shares the journey and many challenges faced by hosts, contestants and judges of SG Mania!
+From leadership to driving performances and transforming business, join Dr. Alison Eyring as she talks to some of the world’s best leaders on long-term successful growth.
 
-[HEAR IT HERE]()
+[HEAR IT HERE](https://www.meradio.sg/podcast/playlist/Growth-Leaders-Podcast-12004414?cid=mccy-osu_Growth-Leaders_1Nov2019_meradio)
 
 - - - - -
 
 Don’t ever miss out on what your friends back home are talking about! Click on the following platforms to watch more of the latest entertainment and news in Singapore!
 
 
-#	Singapore Heartbeat and Singapore Pulse - A Straits Times Collaboration
+#	Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
 
 Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the overseas Singaporean student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
  
@@ -182,4 +191,4 @@ The e-newsletters are published monthly. News developments take place over days,
  
 4. How can I keep myself updated more frequently? 
  
-If you would like more news from home, visit the special Singapore Connect microsite for overseas Singaporeans at www.straitstimes.com/singapore-connect.
+If you would like more news from home, visit the special Singapore Connect microsite for overseas Singaporeans [here](www.straitstimes.com/singapore-connect).

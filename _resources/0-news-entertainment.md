@@ -3,7 +3,7 @@ title: News & Entertainment
 permalink: /resources/news-entertainment/
 ---
 
-# Mediacorp brings you a slice of home!
+# Bringing you a slice of home through Mediacorp!
 
 Hello friends!
 
@@ -13,48 +13,49 @@ Also, with the reopening of Singapore's iconic Raffles Hotel, take an exclusive 
 
 Get your daily fix of local entertainment, and we hope you enjoy them as much as we do!
 
-*Till next time,
-*Singapore Global Network
+*Till next time,*
+
+*Singapore Global Network*
 
 
 ## NEWS & CURRENT AFFAIRS
 
 Stay up to date with Singapore and the world today.
 
-**48 hours on the road: Life of a Malaysian trucker who delivers vegetables to Singapore**
+**How Singapore sees its millennials (and it's not a pretty picture)**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/regardless-of-generation-main.jpg)
 
-What’s it like working 48-hour shifts as a truck driver, delivering fresh veggies from Cameron Highlands to Singapore 3 times a week for a living? We rode with one trucker to better understand the challenges they face.
+A survey of 1,200 Singaporeans has uncovered cracks between people of different ages, raising questions on whether the young are being ignored. New CNA documentary Regardless of Generation tackles an "overlooked, yet particularly urgent divide" between the older and younger generation.
 
-[READ HERE]()
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/how-singapore-sees-its-millennials-regardless-of-generation-gap-12003764?cid=mccy-osu_news_1Nov2019_cna)
 
 
-**'We even thought of ending our lives': A family’s struggle with their child's OCD and how they came out on top**
+**This 25-year-old makes clothes for the disabled. She’s still finding acceptance in the design industry**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/will-and-well-elisa-lim-home-studio.jpg)
 
-As a teenager with OCD, Bruce would open and close the fridge door incessantly - or stand frozen in the bathroom for hours on end. It almost tore his family apart. They told CNA's Gaya Chandramohan their story - and how they overcame those challenges.
+Elisa Lim is spearheading inclusive fashion in Singapore, dressing people with disabilities or special needs. But during the fledgling months of her business, she faced a multitude of challenges.
 
-[READ HERE]()
+[READ HERE](https://www.channelnewsasia.com/news/singapore/clothes-disabled-fashion-design-will-and-well-elisa-lim-12038618?cid=mccy-osu_news_1Nov2019_cna)
 
  
-**Cabbies, CCTV and S$7 Coke: The inside story of how police cracked a S$1.5m fake cash scam**
+**Breaking free from his shades of grey: The visually impaired make-up artist**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/shawn-flower-make-up-artist-main.jpg)
 
-One night in Sep 2017, police were alerted to two men fleeing an office with S$1.5 million in cash. Investigators unravelled a transnational crime web involving the purchase of a cruise ship, a meeting in Paris with self-styled mobsters, and fake Euro notes. Here’s how they cracked the case.
+Iskandar Ibrahim’s cosmetics career was cut short when he could no longer tell shades of colours apart. But even as his vision deteriorated, his skill did not and he can now see that.
 
-[READ HERE]()
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/breaking-free-shades-of-grey-visually-impaired-make-up-artist-12037926?cid=mccy-osu_news_1Nov2019_cna)
 
 
-**'Once they are gone, it will really be a pity': Orchard Rd ice-cream carts could end with their owners**
+**‘It's my game to lose’: New passport for e-sports gamer going the extra mile in quest for SEA Games gold**
 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](/images/mediacorp/2019/thomas-kopankiewicz.jpg)
 
-"Ice cream uncles" like 71-year-old Chieng Puay Chui have been plying their trade on Singapore's Orchard Road for decades, but the street hawkers' carts - long deemed by tourists as a must-see attraction - could soon be a thing of the past. Here's why.
+Thomas Kopankiewicz studied in Singapore, served NS and represented the country in various e-sports tournaments. But to fly the national flag at the upcoming SEA Games, he had to give up his German passport - and he did exactly that.
 
-[READ HERE]()
+[READ HERE](https://www.channelnewsasia.com/news/sport/gamer-gives-up-german-passport-represent-singapore-sea-games-12013186?cid=mccy-osu_news_1Nov2019_cna)
 
 
 ##	INFO-ED     

@@ -10,7 +10,7 @@ The Overseas Singaporean Funding Programme (OSFP), previously administered by th
 
     Whether you are an individual, organisation or a business entity, we would like to hear from you! 
 
-    We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of Singapore, and to strengthen these networks. Help us better understand your interest and needs [here](https://form.gov.sg/#!/5d9da76c4073c80012831788)!
+    We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of Singapore, and to strengthen these networks. Help us better understand your interest and needs at !
 
 ## Terms and Conditions
 ### Eligibility
@@ -41,7 +41,7 @@ the final expenditure.
     
 Applications are open throughout the year and must be submitted to the SGN at least **3 weeks before the event**. Please       access the application form here and follow the steps below if you wish to apply. 
 
-![Funding Application Process](/images/funding/OSFP Process.jpg)
+![Funding Application Process](/images/funding/osfp-process.jpg)
 
 *   Note: Successful applicants will be informed of the allocated amount, which is based on the number of criteria met,
     indicative number of Singaporean attendees and budget forecasts. The final reimbursement amount may be reduced based on

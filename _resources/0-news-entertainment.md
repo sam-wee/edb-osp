@@ -7,14 +7,65 @@ permalink: /resources/news-entertainment/
 
 Hello friends!
 
-As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as [this 25-year-old makes clothes for the disabled](#clothes-for-the-disabled), and [a visually impaired make-up artist who did not lose hope in his craft](#visually-impaired-MUA). You can also catch [the 8th season of RenovAID](#renovaid-s8), where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
+As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as [this 25-year-old who makes clothes for the disabled](#clothes-for-the-disabled), and [a visually impaired make-up artist who did not lose hope in his craft](#visually-impaired-MUA). You can also catch [the 8th season of RenovAID](#renovaid-s8), where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
 
 We did forget the little ones as well! As we approach the holiday season, do check out [Make it Count Season 2](#make-it-count-s2), where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
 
 Have an amazing month ahead!
 
 _Cheers,_
-_Team SGN_
+_Team SGN & Mediacorp_
+
+| ![Image](/images/mediacorp/2019/toggle.jpg)  | ![Image](/images/mediacorp/2019/cna.jpg) | ![Image](/images/mediacorp/2019/meradio.jpg) |
+
+
+##	DRAMA
+
+Go on an emotional rollercoaster ride with familiar faces and relatable stories.
+
+**Last Madame**                  
+
+![Image](/images/mediacorp/2019/LastMadame_2560x1440.jpg)
+
+A 1930s brothel owner and a modern successful woman. Fate can bring two generations together in unexpected ways. As she inherits her family’s shophouse, Chi Ling (Fiona Fussi) is about to uncover so much more about her great-grandmother. (English, with Chinese subtitles)
+
+[WATCH HERE](https://video.toggle.sg/en/series/last-madame/ep1/835067)
+
+
+**Daybreak**
+
+![Image](/images/mediacorp/2019/Daybreak.jpg)
+
+This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuwu) and Zheng Weilong are about to be reunited once again, on opposite sides of the law. (Chinese, with English subtitles) 
+
+[WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_1Nov2019_toggle)
+
+
+**128 Circle**
+
+![Image](/images/mediacorp/2019/128 Circle.jpg)
+
+Drama brews in the heart of the neighbourhood. Delve into the world of hawkers to see the ups and downs behind a cultural heritage that has endured generations. (English, with Chinese and Malay subtitles) 
+
+[WATCH HERE](https://video.toggle.sg/en/series/128-circle/ep1/839143?cid=mccy-osu_128-circle_1Nov2019_toggle)
+
+
+**Baru Nak Up**
+
+![Image](/images/mediacorp/2019/Baru Nak Up End Tag Landscape.jpg)
+
+All grown up, five best friends from school grapple with life’s changes as they begin to question the nature of their relationships with their family and one another. (Malay, with English subtitles) (Malay, with English subtitles)
+
+[WATCH HERE](https://video.toggle.sg/en/series/baru-nak-up/ep1/855297?cid=mccy-osu_baru-nak-up_1Nov2019_toggle)
+
+
+**Singa Airlines**
+
+![Image](/images/mediacorp/2019/Singa Airlines.jpg)
+
+A missing elite crew. A sole survivor. A hot-tempered cop. Uncover thrilling adventures as families left behind seek the truth behind a mysterious lost aircraft. (Tamil, with English subtitles)
+
+[WATCH HERE](https://video.toggle.sg/en/series/singa-airlines/ep1/818644?cid=mccy-osu_singa-airlines_1Nov2019_toggle)
 
 
 ## NEWS & CURRENT AFFAIRS
@@ -79,55 +130,6 @@ Our future is nothing but bold. All about passion, these young adults aren’t a
 [WATCH HERE](https://video.toggle.sg/en/series/tuesday-report-be-myself/ep1/858491?cid=mccy-osu_tuesday-report-be-myself_1Nov2019_toggle)
  
 
-##	DRAMA
-
-Go on an emotional rollercoaster ride with familiar faces and relatable stories.
-
-**Last Madame**                  
-
-![Image](/images/mediacorp/2019/LastMadame_2560x1440.jpg)
-
-A 1930s brothel owner and a modern successful woman. Fate can bring two generations together in unexpected ways. As she inherits her family’s shophouse, Chi Ling (Fiona Fussi) is about to uncover so much more about her great-grandmother. (English, with Chinese subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/last-madame/ep1/835067)
-
-
-**Daybreak**
-
-![Image](/images/mediacorp/2019/Daybreak.jpg)
-
-This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuwu) and Zheng Weilong are about to be reunited once again, on opposite sides of the law. (Chinese, with English subtitles) 
-
-[WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_1Nov2019_toggle)
-
-
-**128 Circle**
-
-![Image](/images/mediacorp/2019/128 Circle.jpg)
-
-Drama brews in the heart of the neighbourhood. Delve into the world of hawkers to see the ups and downs behind a cultural heritage that has endured generations. (English, with Chinese and Malay subtitles) 
-
-[WATCH HERE](https://video.toggle.sg/en/series/128-circle/ep1/839143?cid=mccy-osu_128-circle_1Nov2019_toggle)
-
-
-**Baru Nak Up**
-
-![Image](/images/mediacorp/2019/Baru Nak Up End Tag Landscape.jpg)
-
-All grown up, five best friends from school grapple with life’s changes as they begin to question the nature of their relationships with their family and one another. (Malay, with English subtitles) (Malay, with English subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/baru-nak-up/ep1/855297?cid=mccy-osu_baru-nak-up_1Nov2019_toggle)
-
-
-**Singa Airlines**
-
-![Image](/images/mediacorp/2019/Singa Airlines.jpg)
-
-A missing elite crew. A sole survivor. A hot-tempered cop. Uncover thrilling adventures as families left behind seek the truth behind a mysterious lost aircraft. (Tamil, with English subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/singa-airlines/ep1/818644?cid=mccy-osu_singa-airlines_1Nov2019_toggle)
-
-
 ##	KIDS
 
 Let your young ones learn and enjoy from carefully curated edutainment programmes and popular cartoons.
@@ -164,16 +166,16 @@ From leadership to driving performances and transforming business, join Dr. Alis
 
 - - - - -
 
-Don’t ever miss out on what your friends back home are talking about! Click on the following platforms to watch more of the latest entertainment and news in Singapore!
-
 
 #	Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
 
 Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
  
 Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
- 
- 
+
+![Image](/images/sgheartbeat.jpg)
+![Image](/images/sgpulse.jpg)
+
 **Commonly asked questions**
  
 1. What is the difference between the Singapore Pulse and the Singapore Heartbeat?

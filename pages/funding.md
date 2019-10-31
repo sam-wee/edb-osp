@@ -6,12 +6,11 @@ permalink: /funding/
 
 The Overseas Singaporean Funding Programme (OSFP), previously administered by the Overseas Singaporean Unit, is a seed-funding programme, which aims to support ground-up initiatives that promote a sense of community and connection to Singapore.
 
->Do you have ideas on how to grow Singapore’s global network of family and friends?
->
->Whether you are an individual, organisation or a business entity, we would like to hear from you! 
->
-> We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of
-Singapore, and to strengthen these networks. Help us better understand your interest and needs [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21)!
+    Do you have ideas on how to grow Singapore’s global network of family and friends?
+
+    Whether you are an individual, organisation or a business entity, we would like to hear from you! 
+
+    We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of Singapore, and to strengthen these networks. Help us better understand your interest and needs [here](https://form.gov.sg/#!/5d9da76c4073c80012831788)!
 
 ## Terms and Conditions
 ### Eligibility
@@ -41,7 +40,9 @@ the final expenditure.
 ### Application Process
     
 Applications are open throughout the year and must be submitted to the SGN at least **3 weeks before the event**. Please       access the application form here and follow the steps below if you wish to apply. 
-    
+
+![Funding Application Process](/images/funding/OSFP Process.jpg)
+
 *   Note: Successful applicants will be informed of the allocated amount, which is based on the number of criteria met,
     indicative number of Singaporean attendees and budget forecasts. The final reimbursement amount may be reduced based on
     the final expenditure, income, sponsorship received and no. of Singaporean attendees.

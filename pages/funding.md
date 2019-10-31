@@ -10,7 +10,7 @@ The Overseas Singaporean Funding Programme (OSFP), previously administered by th
 
     Whether you are an individual, organisation or a business entity, we would like to hear from you! 
 
-    We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of Singapore, and to strengthen these networks. Help us better understand your interest and needs at !
+    We want to design suitable grants to enable you to connect with your overseas communities of Singaporeans and friends of Singapore, and to strengthen these networks. Help us better understand your interest and needs at go.gov.sg/fundingideas!
 
 ## Terms and Conditions
 ### Eligibility
@@ -39,7 +39,7 @@ the final expenditure.
     
 ### Application Process
     
-Applications are open throughout the year and must be submitted to the SGN at least **3 weeks before the event**. Please       access the application form here and follow the steps below if you wish to apply. 
+Applications are open throughout the year and must be submitted to the SGN at least **3 weeks before the event**. Please       access the application form [here](https://form.gov.sg/#!/5d9ea77a4073c8001283331b) and follow the steps below if you wish to apply. 
 
 ![Funding Application Process](/images/funding/osfp-process.jpg)
 
@@ -54,10 +54,10 @@ Disbursement of funds will take place after successful applicants have fulfilled
 **Post-event**
 
 1.	Post at least 3 photographs of the event on the Overseas Singaporean Facebook page together with a brief description of
-    the event, and consent to the photos for SGN's use for publicity purposes. Click here for a guide on posting photographs
+    the event, and consent to the photos for SGN's use for publicity purposes. Click [here](https://drive.google.com/file/d/1GRXV6CYvI6_9NVVaZ3eBomLsJ0MUElCL/view?usp=sharing) for a guide on posting photographs
     on the Overseas Singaporean Facebook page.
     
-2.	Complete and submit the Post Event Report here with the following supporting documents within 2 months after the event
+2.	Complete and submit the Post Event Report [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21) with the following supporting documents within 2 months after the event
     ends.
 a)	Receipts of expenditures
 b)	Attendance list of all Singaporean attendees including full name, email address and profession (student, professional,
@@ -86,10 +86,10 @@ voided, reduction of the disbursement amount, delay in disbursement of funds or 
 
 You may [download the following forms, templates or guides here](https://go.gov.sg/sgn-funding) to facilitate your application submission via the online system.
 
-* Event Attendees Excel Template
+* [Event Attendees Excel Template](https://drive.google.com/file/d/1JFwZxhwZ8LlkaCAcAytBm8dwH8M20NrZ/view?usp=sharing)
 
-* GIRO Form
+* [GIRO Form](https://drive.google.com/file/d/1G05MC91JgesACCXTdBf86o0UuUJcquOj/view?usp=sharing)
     *For credit of funds into both a foreign and Singapore bank account*
 
-* Guide on Posting Photos on Overseas Singaporean Facebook
+* [Guide on Posting Photos on Overseas Singaporean Facebook](https://drive.google.com/file/d/1GRXV6CYvI6_9NVVaZ3eBomLsJ0MUElCL/view?usp=sharing)
     *For uploading of photos on Overseas Singaporean FaceBook Page*

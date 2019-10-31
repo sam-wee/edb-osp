@@ -4,17 +4,21 @@
 #                                #
 ##################################
 
-logo: /images/sgn-logo-main.svg
+logo: /images/sgn-logo.svg
+
+favicon: /images/favicon-globe.ico
 
 links:
-  - title: Stories
+  - title: About us
+    url: /about-us/
+  - title: Things to do
+    collection: events
+  - title: Food for thought
     resource_room: true
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
   - title: Resources
     collection: resources
-  - title: Events
-    collection: events    
+  - title: Funding
+    url: /funding/
+  - title: Keep in touch
+    url: /keep-in-touch/
 

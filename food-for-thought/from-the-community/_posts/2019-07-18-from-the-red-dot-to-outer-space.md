@@ -3,6 +3,7 @@ layout: post
 title:  From the Red Dot to Outer Space: 5 Things We Learnt from a Singaporean NASA Researcher
 permalink: /food-for-thought/from-the-community/5-things-from-a-NASA-researcher
 ---
+
 # From the Red Dot to Outer Space: 5 Things We Learnt from a Singaporean NASA Researcher
 
 #### You don’t have to be a rocket scientist to do important work at the National Aeronautics and Space Administration, better known as NASA. That’s what Singaporean scientific researcher Poh Gang Kai discovered when he was hired by NASA to work at the Goddard Space Flight Centre in Greenbelt, Maryland. His role is studying the space environment on Mars so that humans can, as one famous television show proclaimed, boldly go where no one has gone before.

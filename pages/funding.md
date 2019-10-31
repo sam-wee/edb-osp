@@ -20,11 +20,9 @@ The Overseas Singaporean Funding Programme (OSFP), previously administered by th
 
 2.	The ground-up initiatives, events or activities must meet the following criteria:
 
-    a)	Celebrate Singapore’s culture and heritage;
-    
-    b)	Keep Singaporeans abroad abreast with developments in Singapore; and
-    
-    c)	Strengthen a sense of community amongst the Singaporeans abroad through meaningful projects and activities.
+    a.	Celebrate Singapore’s culture and heritage;
+    b.	Keep Singaporeans abroad abreast with developments in Singapore; and
+    c.	Strengthen a sense of community amongst the Singaporeans abroad through meaningful projects and activities.
 
 3.	The ground-up initiatives must target a mainly Singaporean audience with a minimum group size of 50 Singaporeans.
 
@@ -61,19 +59,15 @@ Disbursement of funds will take place after successful applicants have fulfilled
     
 2.	Complete and submit the Post Event Report [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21) with the following supporting documents **within 2 months after the event ends**.
 
-    a)	Receipts of expenditures
-    
-    b)	Attendance list of all Singaporean attendees including full name, email address and profession (student, professional, others)
-    
-c)	Completed GIRO Form
+    a.	Receipts of expenditures
+    b.	Attendance list of all Singaporean attendees including full name, email address and profession (student, professional, others)  
+    c.	Completed GIRO Form
 
 Disbursement of funds would be done via wire Bank transfer:
 
-a)	Incomplete details provided on the GIRO form may result in delays in disbursement of funds.
-
-b)	Applicants must also ensure that the bank account submitted is accurate and able to receive disbursement of funds in the currency stated in the funding application. SGN would not be able to disburse the funds again if the account details are inaccurate and reserves the right to disburse the funds in an alternative currency based on the prevailing financial regulations.
-
-c)	Currency conversion is based on the exchange rate listed on the Monetary Authority of Singapore’s website on the day of the event.
+a.	Incomplete details provided on the GIRO form may result in delays in disbursement of funds.
+b.	Applicants must also ensure that the bank account submitted is accurate and able to receive disbursement of funds in the currency stated in the funding application. SGN would not be able to disburse the funds again if the account details are inaccurate and reserves the right to disburse the funds in an alternative currency based on the prevailing financial regulations.
+c.	Currency conversion is based on the exchange rate listed on the Monetary Authority of Singapore’s website on the day of the event.
     
 ### Non-compliance
 
@@ -90,9 +84,7 @@ You may [download the following forms, templates or guides here](https://go.gov.
 * [Event Attendees Excel Template](https://drive.google.com/file/d/1JFwZxhwZ8LlkaCAcAytBm8dwH8M20NrZ/view?usp=sharing)
 
 * [GIRO Form](https://drive.google.com/file/d/1G05MC91JgesACCXTdBf86o0UuUJcquOj/view?usp=sharing)
-
     *For credit of funds into both a foreign and Singapore bank account*
 
 * [Guide on Posting Photos on Overseas Singaporean Facebook](https://drive.google.com/file/d/1GRXV6CYvI6_9NVVaZ3eBomLsJ0MUElCL/view?usp=sharing)
-
     *For uploading of photos on Overseas Singaporean FaceBook Page*

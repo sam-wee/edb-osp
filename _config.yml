@@ -1,6 +1,6 @@
-title: Title
+title: Singapore Global Network
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-globe.ico
 
 collections:
   resources:

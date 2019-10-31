@@ -5,17 +5,16 @@ permalink: /resources/news-entertainment/
 
 # Bringing you a slice of home through Mediacorp!
 
-Hello friends!
-
-With #worldmentalhealthday just over, it might be timely to read about how a family struggled through their child's OCD, which almost tore their family apart. Or, find out what will happen to our much loved 'ice cream uncles' in the future.
-
-Also, with the reopening of Singapore's iconic Raffles Hotel, take an exclusive look at Raffles: An Icon Reborn to find out what happened behind the scenes of this major overhaul. Or, you might want to catch 128 CIRCLE - where it tells the stories of hawkers at a fictitious food centre in Singapore that has been at the heart of the community’s lives for almost four decades.
-
-Get your daily fix of local entertainment, and we hope you enjoy them as much as we do!
-
-*Till next time,*
-
-*Singapore Global Network*
+>Hello friends!
+>
+>As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as this 25-year-old makes clothes for the disabled, and a visually impaired make-up artist who did not lose hope in his craft. You can also catch the 8th season of RenovAID, where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
+>
+>We did forget the little ones as well! As we approach the holiday season, do check out Make it Count, where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
+>
+>Have an amazing month ahead!
+>
+>_Cheers,_
+>_Team SGN_
 
 
 ## NEWS & CURRENT AFFAIRS

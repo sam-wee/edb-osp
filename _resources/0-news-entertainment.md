@@ -172,23 +172,23 @@ Catch up on a month’s news in under a minute with the Singapore Pulse and Sing
  
 Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
 
-![Image](/images/sgheartbeat.jpg)
-![Image](/images/sgpulse.jpg)
+![Image](/images/sgheartbeat.png)
+![Image](/images/sgpulse.png)
 
 **Commonly asked questions**
  
-1. What is the difference between the Singapore Pulse and the Singapore Heartbeat?
+1.  What is the difference between the Singapore Pulse and the Singapore Heartbeat?
+
+    The Singapore Pulse is designed for the student, with topics covering happenings at home, jobs and latest trends, amonnf       other themes. The Singapore Heartbeat is designed for the working professional, with topics covering happenings at home       and investment opportunities, among other themes. 
  
-The Singapore Pulse is designed for the student, with topics covering happenings at home, jobs and latest trends, among other themes. The Singapore Heartbeat is designed for the working professional, with topics covering happenings at home and investment opportunities, among other themes. 
+2.  How do I get the Singapore Pulse or Singapore Heartbeat?
  
-2. How do I get the Singapore Pulse or Singapore Heartbeat?
+    Keep in touch by joining our mailing list [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive either the         Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on     the appropriate links below.
  
-Keep in touch by joining our mailing list [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive either the Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on the appropriate links below.
- 
-3. When and Why are the e-newsletters published monthly?
- 
-The e-newsletters are published monthly. News developments take place over days, sometimes weeks. With the Singapore Pulse and Singapore Heartbeat, readers will get an overview of the key highlights without missing important updates.
+3.  When and Why are the e-newsletters published monthly?
+    
+    The e-newsletters are published monthly. News developments take place over days, sometimes weeks. With the Singapore Pulse     and Singapore Heartbeat, readers will get an overview of the key highlights without missing important updates.
  
 4. How can I keep myself updated more frequently? 
- 
-If you would like more news from home, visit the special Singapore Connect microsite for you [here](www.straitstimes.com/singapore-connect).
+   
+   If you would like more news from home, visit the special Singapore Connect microsite for you [here](www.straitstimes.com/singapore-connect).

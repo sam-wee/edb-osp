@@ -19,14 +19,16 @@ The Overseas Singaporean Funding Programme (OSFP), previously administered by th
     abroad, who wish to organise ground-up initiatives for Overseas Singaporean communities, are welcome to apply.
 
 2.	The ground-up initiatives, events or activities must meet the following criteria:
-a)	Celebrate Singapore’s culture and heritage;
-b)	Keep Singaporeans abroad abreast with developments in Singapore; and
-c)	Strengthen a sense of community amongst the Singaporeans abroad through meaningful projects and activities.
+
+    a)	Celebrate Singapore’s culture and heritage;
+    
+    b)	Keep Singaporeans abroad abreast with developments in Singapore; and
+    
+    c)	Strengthen a sense of community amongst the Singaporeans abroad through meaningful projects and activities.
 
 3.	The ground-up initiatives must target a mainly Singaporean audience with a minimum group size of 50 Singaporeans.
 
-4.	Application for OSFP has to be submitted at least 3 weeks before the event date. Ground-up initiatives that have already
-    taken place or generate profits will not be eligible for funding.
+4.	Application for OSFP has to be submitted **at least 3 weeks before the event date**. Ground-up initiatives that have already taken place or generate profits will not be eligible for funding.
     
 ### Funding Quantum
 
@@ -57,22 +59,21 @@ Disbursement of funds will take place after successful applicants have fulfilled
     the event, and consent to the photos for SGN's use for publicity purposes. Click [here](https://drive.google.com/file/d/1GRXV6CYvI6_9NVVaZ3eBomLsJ0MUElCL/view?usp=sharing) for a guide on posting photographs
     on the Overseas Singaporean Facebook page.
     
-2.	Complete and submit the Post Event Report [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21) with the following supporting documents within 2 months after the event
-    ends.
-a)	Receipts of expenditures
-b)	Attendance list of all Singaporean attendees including full name, email address and profession (student, professional,
-    others)
+2.	Complete and submit the Post Event Report [here](https://form.gov.sg/#!/5d9eb98e4073c80012833a21) with the following supporting documents **within 2 months after the event ends**.
+
+    a)	Receipts of expenditures
+    
+    b)	Attendance list of all Singaporean attendees including full name, email address and profession (student, professional, others)
+    
 c)	Completed GIRO Form
 
 Disbursement of funds would be done via wire Bank transfer:
 
 a)	Incomplete details provided on the GIRO form may result in delays in disbursement of funds.
-b)	Applicants must also ensure that the bank account submitted is accurate and able to receive disbursement of funds in the
-    currency stated in the funding application. SGN would not be able to disburse the funds again if the account details are
-    inaccurate and reserves the right to disburse the funds in an alternative currency based on the prevailing financial
-    regulations.
-c)	Currency conversion is based on the exchange rate listed on the Monetary Authority of Singapore’s website on the day of
-    the event.
+
+b)	Applicants must also ensure that the bank account submitted is accurate and able to receive disbursement of funds in the currency stated in the funding application. SGN would not be able to disburse the funds again if the account details are inaccurate and reserves the right to disburse the funds in an alternative currency based on the prevailing financial regulations.
+
+c)	Currency conversion is based on the exchange rate listed on the Monetary Authority of Singapore’s website on the day of the event.
     
 ### Non-compliance
 
@@ -80,7 +81,7 @@ Non-compliance with the terms and conditions for OSFP, including changes to even
 expenditures, number of Singaporean attendees or late submission of post-event documents may result in application to be
 voided, reduction of the disbursement amount, delay in disbursement of funds or affect future applications under the OSFP.
     
-    For enquiries on OSFP, please contact the SGN at overseas_singaporean@edb.gov.sg.
+    For enquiries on OSFP, please contact the SGN at singaporeglobalnetwork@edb.gov.sg.
 
 **Downloadable forms/templates/guide**
 
@@ -89,7 +90,9 @@ You may [download the following forms, templates or guides here](https://go.gov.
 * [Event Attendees Excel Template](https://drive.google.com/file/d/1JFwZxhwZ8LlkaCAcAytBm8dwH8M20NrZ/view?usp=sharing)
 
 * [GIRO Form](https://drive.google.com/file/d/1G05MC91JgesACCXTdBf86o0UuUJcquOj/view?usp=sharing)
+
     *For credit of funds into both a foreign and Singapore bank account*
 
 * [Guide on Posting Photos on Overseas Singaporean Facebook](https://drive.google.com/file/d/1GRXV6CYvI6_9NVVaZ3eBomLsJ0MUElCL/view?usp=sharing)
+
     *For uploading of photos on Overseas Singaporean FaceBook Page*

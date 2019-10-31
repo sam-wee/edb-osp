@@ -5,16 +5,16 @@ permalink: /resources/news-entertainment/
 
 # Bringing you a slice of home through Mediacorp!
 
->Hello friends!
->
->As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as this 25-year-old makes clothes for the disabled, and a visually impaired make-up artist who did not lose hope in his craft. You can also catch the 8th season of RenovAID, where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
->
->We did forget the little ones as well! As we approach the holiday season, do check out Make it Count, where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
->
->Have an amazing month ahead!
->
->_Cheers,_
->_Team SGN_
+Hello friends!
+
+As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as [this 25-year-old makes clothes for the disabled](#clothes-for-the-disabled), and [a visually impaired make-up artist who did not lose hope in his craft](#visually-impaired-MUA). You can also catch [the 8th season of RenovAID](#renovaid-s8), where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
+
+We did forget the little ones as well! As we approach the holiday season, do check out [Make it Count Season 2](#make-it-count-s2), where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
+
+Have an amazing month ahead!
+
+_Cheers,_
+_Team SGN_
 
 
 ## NEWS & CURRENT AFFAIRS
@@ -30,7 +30,7 @@ A survey of 1,200 Singaporeans has uncovered cracks between people of different 
 [READ HERE](https://www.channelnewsasia.com/news/cnainsider/how-singapore-sees-its-millennials-regardless-of-generation-gap-12003764?cid=mccy-osu_news_1Nov2019_cna)
 
 
-**This 25-year-old makes clothes for the disabled. She’s still finding acceptance in the design industry**
+**<a id="clothes-for-the-disabled"></a>This 25-year-old makes clothes for the disabled. She’s still finding acceptance in the design industry**
 
 ![Image](/images/mediacorp/2019/will-and-well-elisa-lim-home-studio.jpg)
 
@@ -39,7 +39,7 @@ Elisa Lim is spearheading inclusive fashion in Singapore, dressing people with d
 [READ HERE](https://www.channelnewsasia.com/news/singapore/clothes-disabled-fashion-design-will-and-well-elisa-lim-12038618?cid=mccy-osu_news_1Nov2019_cna)
 
  
-**Breaking free from his shades of grey: The visually impaired make-up artist**
+**<a id="visually-impaired-MUA"></a>Breaking free from his shades of grey: The visually impaired make-up artist**
 
 ![Image](/images/mediacorp/2019/shawn-flower-make-up-artist-main.jpg)
 
@@ -61,7 +61,7 @@ Thomas Kopankiewicz studied in Singapore, served NS and represented the country 
 
 See the world through new eyes with real life stories
 
-**RenovAID S8**                  
+**<a id="renovaid-s8"></a>RenovAID S8**                  
 
 ![Image](/images/mediacorp/2019/RenovAID S8.jpg)
 
@@ -101,7 +101,7 @@ This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuw
 [WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_1Nov2019_toggle)
 
 
-**128 Circle **
+**128 Circle**
 
 ![Image](/images/mediacorp/2019/128 Circle.jpg)
 
@@ -132,7 +132,7 @@ A missing elite crew. A sole survivor. A hot-tempered cop. Uncover thrilling adv
 
 Let your young ones learn and enjoy from carefully curated edutainment programmes and popular cartoons.
  
-**Make It Count S2**        
+**<a id="make-it-count-S2"></a>Make It Count S2**        
 
 ![Image](/images/mediacorp/2019/Make-It-Count-Season-2_2560x1440.jpg)
 
@@ -169,20 +169,20 @@ Don’t ever miss out on what your friends back home are talking about! Click on
 
 #	Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
 
-Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the overseas Singaporean student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
+Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
  
-Sign up now at the Overseas Singaporean Portal to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
+Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
  
  
 **Commonly asked questions**
  
 1. What is the difference between the Singapore Pulse and the Singapore Heartbeat?
  
-The Singapore Pulse is designed for the overseas Singaporean student, with topics covering happenings at home, jobs and latest trends, among other themes. The Singapore Heartbeat is designed for the overseas Singaporean working professional, with topics covering happenings at home, investment opportunities and news about over overseas Singaporeans, among other themes. 
+The Singapore Pulse is designed for the student, with topics covering happenings at home, jobs and latest trends, among other themes. The Singapore Heartbeat is designed for the working professional, with topics covering happenings at home and investment opportunities, among other themes. 
  
 2. How do I get the Singapore Pulse or Singapore Heartbeat?
  
-All overseas Singaporean students and working professionals on the OSU mailing list will receive either the Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on the appropriate links below.
+Keep in touch by joining our mailing list [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive either the Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on the appropriate links below.
  
 3. When and Why are the e-newsletters published monthly?
  
@@ -190,4 +190,4 @@ The e-newsletters are published monthly. News developments take place over days,
  
 4. How can I keep myself updated more frequently? 
  
-If you would like more news from home, visit the special Singapore Connect microsite for overseas Singaporeans [here](www.straitstimes.com/singapore-connect).
+If you would like more news from home, visit the special Singapore Connect microsite for you [here](www.straitstimes.com/singapore-connect).

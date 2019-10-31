@@ -75,7 +75,7 @@ Non-compliance with the terms and conditions for OSFP, including changes to even
 expenditures, number of Singaporean attendees or late submission of post-event documents may result in application to be
 voided, reduction of the disbursement amount, delay in disbursement of funds or affect future applications under the OSFP.
     
-    For enquiries on OSFP, please contact the SGN at singaporeglobalnetwork@edb.gov.sg.
+    For enquiries on OSFP, please contact us at singaporeglobalnetwork@edb.gov.sg.
 
 **Downloadable forms/templates/guide**
 

@@ -12,7 +12,7 @@ sections:
         subtitle: You have heard about Singapore. You might have visited us briefly, stayed a couple of months, or lived here all your life. We want to get to know you. Yes, you. Connect with like-minded individuals around the globe like yourself who would like to share your experiences of Singapore in one way or another. Join us, as we build our network.
         background: /images/singapore-aerial-night.jpg
         button: Keep in Touch
-        url: /contact-us/
+        url: /keep-in-touch/
         key_highlights:
             - title: Things to do
               description: Events to connect

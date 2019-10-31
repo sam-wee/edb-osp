@@ -9,7 +9,7 @@ notification: The Overseas Singaporean Unit has been rebranded as the Singapore 
 sections:
     - hero:
         title: Singapore Global Network
-        subtitle: You have heard about Singapore. You might have visited us briefly, stayed a couple of months, or lived here all your life. We want to get to know you. Yes, you. Connect with like-minded individuals around the globe like yourself who would like to share your experiences of Singapore in one way or another. Join us, as we build our network.
+        subtitle: You have heard about Singapore. You might have visited us briefly, stayed a couple of months, or lived here all your life. We want to get to know you. Yes, you! Connect with like-minded individuals around the globe like yourself, to share your experiences of Singapore with each other in one way or another. Join us, as we build our network.
         background: /images/singapore-aerial-night.jpg
         button: Keep in Touch
         url: /keep-in-touch/

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From the Red Dot to Outer Space: 5 Things We Learnt from a Singaporean NASA Researcher
+title: "From the Red Dot to Outer Space: 5 Things We Learnt from a Singaporean NASA Researcher"
 permalink: /food-for-thought/from-the-community/5-things-from-a-NASA-researcher
 ---
 

@@ -126,7 +126,7 @@ Six different families. Six different homes. All in need of hope. Join Belinda L
 
 Our future is nothing but bold. All about passion, these young adults aren’t afraid to face new challenges to realise their dreams. Be inspired by their stories today. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/tuesday-report-be-myself/ep1/858491?cid=mccy-osu_tuesday-report-be-myself_1Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/renovaid-s8/ep1/861366?cid=mccy-osu_renovaid-s8_1Nov2019_toggle)
  
 
 ##	KIDS

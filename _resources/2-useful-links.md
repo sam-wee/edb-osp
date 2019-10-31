@@ -107,5 +107,3 @@ For pre-enlistees and parents, learn more about NS registration, medical screeni
 *	[Eye on Asia](http://www.eyeonasia.sg/)
 
  Find useful resources on living and working aboard in ASEAN countries, China and India including emerging cities.
-
- #End of Document#

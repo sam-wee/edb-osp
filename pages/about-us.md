@@ -12,19 +12,13 @@ The Singapore Global Network (SGN) is a division in the Economic Development Boa
 
 You will be regularly updated with the latest news and developments relating to Singapore and our network of Singaporeans and friends of Singapore living abroad. You will also be invited to attend events, workshops and seminars relevant to you in your area.
 
-Find out more on our upcoming programmes at http://singaporeglobalnetwork.com (jumplink)
+Check out our upcoming programmes under "Things to Do" or get in touch with a [Regional Director](#regional-directors) near you for more information.
 
-**What are the programmes that SGN has in-store for me?**
-
-A suite of events has been planned for our network of overseas Singaporeans and friends of Singapore living in the various cities.
-
-Find out more on our upcoming programmes at http://singaporeglobalnetwork.com (jumplink)
-
-## Meet Our Overseas Liaisons
+## <a id="regional-directors"></a>Meet Our Regional Directors
 <table style="width: 100%;" border="0" cellpadding="10">
 <tr>
 <td style="width: 180px;"><img src="/images/michelle.png" alt="Michelle" /></td>
-<td><strong>Michelle Loh</strong><br/><i>New York</i><br/>Currently based in New York City, Michelle grew up in a typical Singaporean household in Bishan, and craves for simple things like kopi-c dabao whenever she’s away. To her, the sights, sounds and smells of a hawker centre encompass all that she loves about the little red dot. When not catching up with fellow Singaporeans in the US, she can be found Googling for interesting films or podcasts, or embarking on her next culinary adventure.<br /><br/> insert   </td>
+<td><strong>Michelle Loh</strong><br/><i>New York</i><br/>Currently based in New York City, Michelle grew up in a typical Singaporean household in Bishan, and craves for simple things like kopi-c dabao whenever she’s away. To her, the sights, sounds and smells of a hawker centre encompass all that she loves about the little red dot. When not catching up with fellow Singaporeans in the US, she can be found Googling for interesting films or podcasts, or embarking on her next culinary adventure.<br /><br/></td>
 </tr>
 
 <tr>

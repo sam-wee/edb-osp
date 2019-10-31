@@ -16,8 +16,7 @@ Have an amazing month ahead!
 _Cheers,_
 _Team SGN & Mediacorp_
 
-| ![Image](/images/mediacorp/2019/toggle.png)  | ![Image](/images/mediacorp/2019/cna.jpg) | ![Image](/images/mediacorp/2019/meradio.png) |
-
+![Image](/images/mediacorp/2019/mediacorp-sliceofhome.jpg)
 
 ##	DRAMA
 

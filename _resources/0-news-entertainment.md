@@ -9,7 +9,7 @@ Hello friends!
 
 As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as [this 25-year-old who makes clothes for the disabled](#clothes-for-the-disabled), and [a visually impaired make-up artist who did not lose hope in his craft](#visually-impaired-MUA). You can also catch [the 8th season of RenovAID](#renovaid-s8), where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
 
-We did forget the little ones as well! As we approach the holiday season, do check out [Make it Count Season 2](#make-it-count-s2), where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
+We didn't forget the little ones as well! As we approach the holiday season, do check out [Make it Count Season 2](#make-it-count-s2), where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
 
 Have an amazing month ahead!
 
@@ -126,7 +126,7 @@ Six different families. Six different homes. All in need of hope. Join Belinda L
 
 Our future is nothing but bold. All about passion, these young adults aren’t afraid to face new challenges to realise their dreams. Be inspired by their stories today. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/tuesday-report-be-myself/ep1/858491?cid=mccy-osu_tuesday-report-be-myself_1Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/renovaid-s8/ep1/861366?cid=mccy-osu_renovaid-s8_1Nov2019_toggle)
  
 
 ##	KIDS

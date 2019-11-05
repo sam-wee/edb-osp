@@ -8,7 +8,7 @@ permalink: /food-for-thought/from-the-community/love-actually
 
 *Expressing love through words is often difficult for Asians. Eve Wee-Ang shares why as she pens her own love letter to Singapore for National Day.*
 
-By Eve Wee-Ang
+By [Eve Wee-Ang](#eve-wee-ang)
 
 ---
 
@@ -55,3 +55,12 @@ Anyway, back to my teenage client. Before I left his home that day, I gave him a
 And now, I take my own advice.
 
 _To my home country whom I once complained about. Thank you, Singapore, for making me swell with pride whenever I say your name. I may not express it, but I hope you know that you are much loved, even from afar._
+
+---
+
+### About the Author
+
+#### <a id="eve-wee-ang"></a>Eve Wee-Ang
+
+![Eve Wee-Ang](/images/stories/authors/eve-wee-ang.png){:height="200px" width="200px"}
+Eve was a fashion publicist for luxury brands before she relocated to Shanghai as a trailing spouse. She started the TTT (Thursday Tai Tai) support group for Singaporean mothers in Shanghai which celebrates its 10-year anniversary this year. She is a columnist for Parents & Kids magazine and a KonMari tidying consultant-in-training whilst trying hard to be a cool mom to her tweens. Eve can be contacted at <shoes_fetish@yahoo.co.uk>.

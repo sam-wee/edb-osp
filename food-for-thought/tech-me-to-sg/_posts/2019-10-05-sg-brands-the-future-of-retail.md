@@ -10,7 +10,6 @@ _Disruption may be an empty buzzword these days, but when these Singapore busine
 By SGN
 
 ---
-
 The e-commerce industry is such an integral part of our lives today that it’s hard to imagine that as late as 2015, e-commerce was estimated at one per cent of total retail sales in Asia Pacific. Shopee, ShopBack and Ninja Van are excellent examples of visionary businesses that saw an opportunity and worked hard to succeed both in Singapore and the region.
 
 ### The success of a hyper-localised approach: Shopee

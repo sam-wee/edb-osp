@@ -12,6 +12,9 @@ By [Eve Wee-Ang](#eve-wee-ang)
 
 ---
 
+![Image](/images/stories/2019/love-actually-1.jpg)
+_Singapore’s glittering skyline at dusk. Photo by [Wei Kuan Tay](https://www.wkphotography.com.sg/)_
+
 “Why is it so difficult to tell our loved ones that we love them, Eve?”
 
 This was the question my 19-year-old client asked me, clearly frustrated with his parents. I’d been coaching him on tidying his belongings before he leaves for college in the summer.
@@ -21,6 +24,9 @@ This was the question my 19-year-old client asked me, clearly frustrated with hi
 Like him, I too mulled over the same question in my youth, especially when the families in my favourite Hollywood movies would hug, kiss or say “I love you’ at every opportunity. Growing up, my mother and grandparents who raised me never told me they loved me either. As a result, expressing love in words doesn’t come easily to me. When asked to pen a love letter to Singapore for this year’s National Day, I thought to myself, “_Love letter?_ So mushy!” My relationship with my home country isn’t exactly some Shakespearean play or Hollywood romance.
 
 I will be the first to admit I once took Singapore for granted. Like many of us who have never lived anywhere else, Singapore was just a place I happened to be born and raised in. I never second guessed why things were done or not done a certain way.
+
+![Image](/images/stories/2019/love-actually-2.jpg)
+_The writer in the iconic Singapore Airlines sarong kebaya uniform._
 
 Then I became a flight attendant with Singapore Airlines. My world opened, and, for the first time in my life, I felt Singapore paled in comparison to the countries where I stopped over. I found Singapore too hot, too strict, too small, too boring. It just wasn’t good enough for me any longer.
 
@@ -34,11 +40,17 @@ We land in Changi Airport, another world’s best for the seventh year running, 
 
 At the taxi stand, Singapore’s heat and humidity engulf us like a ball of fire but within moments, we are whisked into an air-conditioned cab. As the taxi driver journeys through the smooth highway, I admire the rows of trees that line the roadside.
 
+![Image](/images/stories/2019/love-actually-3.jpg)
+_Two modern Singapore landmarks - Gardens by the Bay and Marina Bay Sands. Photo by [Wei Kuan Tay](https://www.wkphotography.com.sg/)_
+
 Everywhere I turn, our city’s luscious greenery is a reminder of our government’s vision of a  _City in a Garden_. There is no graffiti or trash in sight, only what is necessary is permitted on the streets. Singapore learnt the magic of  _KonMari_ way before Marie Kondo did.
 
 Once home and nicely settled, my stomach growls. I change into a dress-and-Birkenstocks OOTD that will serve as my uniform during my entire stay here, regardless which month of the year I arrive. There is no need to pack seasonally for our year-long summer weather.
 
 I troop down to the hawker centre stall that serves my favourite wonton mee I’ve been eating since I was a child. My  _Ah Ma_  used to take me there for breakfast before walking me to my primary school. This stall has been selling wonton mee for the last 35 years and it is still only $3 a plate.
+
+![Image](/images/stories/2019/love-actually-4.jpg)
+_The familiar taste from her childhood at Tong Aik Wanton Noodle in Bedok North. Photo by [iEat&Eat](https://ieatandeat.sg/)_
 
 The wonton mee auntie instantly recognises me and gives me her biggest smile.
 
@@ -62,5 +74,4 @@ _To my home country whom I once complained about. Thank you, Singapore, for maki
 
 #### <a id="eve-wee-ang"></a>Eve Wee-Ang
 
-![Eve Wee-Ang](/images/stories/authors/eve-wee-ang.png){:height="200px" width="200px"}
 Eve was a fashion publicist for luxury brands before she relocated to Shanghai as a trailing spouse. She started the TTT (Thursday Tai Tai) support group for Singaporean mothers in Shanghai which celebrates its 10-year anniversary this year. She is a columnist for Parents & Kids magazine and a KonMari tidying consultant-in-training whilst trying hard to be a cool mom to her tweens. Eve can be contacted at <shoes_fetish@yahoo.co.uk>.

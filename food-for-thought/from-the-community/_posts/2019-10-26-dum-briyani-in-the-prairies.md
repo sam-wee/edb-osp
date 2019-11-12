@@ -22,20 +22,20 @@ I pursued my undergraduate degree in the University of Alberta, Augustana campus
 
 I made the decision to live off-campus so that I could have my own kitchen to cook all my favourite dishes. The first local dish that I learned to cook was chicken rice. Us Singaporeans would choose chicken rice over any dish, wouldn’t we? Well, most of us, at least. At that point of time, I was living with the family of an American Professor, who used to teach at the University that I was going to. I would cook for us at least thrice a week, and share the cost of groceries too. It was a great way to introduce Singaporean flavours to them. I also enjoyed having my friends over for weekend brunches and dinners.
 
-[!Images](/images/stories/2019/dum-briyani-in-the-prairies-1.jpg)
-[!Images](/images/stories/2019/dum-briyani-in-the-prairies2.jpg)
+![Images](/images/stories/2019/dum-briyani-in-the-prairies-1.jpg)
+![Images](/images/stories/2019/dum-briyani-in-the-prairies2.jpg)
 
 What I missed most while I was in Canada was celebrating Deepavali – the Festival of Lights with my family and friends. There were only a handful of Indian students in my university, but we would still come together to put up a small celebration. There would be dancing, presentations and lots of Indian food. Even the cafeteria would attempt to serve Indian dishes like “Butter Chicken” for the occasion.
 
-[!Images](/images/stories/2019/dum-briyani-in-the-prairies3.jpg)
+![Images](/images/stories/2019/dum-briyani-in-the-prairies3.jpg)
 
 As for me, I would whip up Dum Briyani – a one-pot dish of aromatic spices and delightful flavours, layered with Basmati rice and curried meat; the result of slow cooking the ingredients in a sealed, heavy-bottomed vessel for hours, even overnight. I would serve it up on a Paella pan, topped with boiled eggs, with yoghurt Raita on the side and – the last one is a must – Pappadums!
 
-[!Images](/images/stories/2019/dum-briyani-in-the-prairies-4.jpg)
+![Images](/images/stories/2019/dum-briyani-in-the-prairies-4.jpg)
 
 My mum’s Sugee cookies and Murukkus are also always a hit during this festive season. Murukkus can be tedious to make as each individual piece has to be meticulously piped out through a mould, and then deep fried. Instead, I have managed to replicate my mum’s Sugee cookies – shortbread-like delights made with luscious Ghee (clarified butter), powdered sugar, semolina and flour.
 
-[!Images](/images/stories/2019/dum-briyani-in-the-prairies-5.jpg)
+![Images](/images/stories/2019/dum-briyani-in-the-prairies-5.jpg)
 
 Here’s my version of Dum Briyani and my mum’s Sugee cookies:
 

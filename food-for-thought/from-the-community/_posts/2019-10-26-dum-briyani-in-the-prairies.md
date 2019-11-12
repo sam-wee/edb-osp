@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Love, Actually
+title:  Dum Briyani in The Prairies
 permalink: /food-for-thought/from-the-community/dum-briyani-in-the-prairies
 ---
 # Dum Briyani in The Prairies

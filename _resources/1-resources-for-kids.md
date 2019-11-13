@@ -3,12 +3,12 @@ title: Resources For Kids
 permalink: /resources/resources-for-kids/
 ---
 
-⋅⋅* [The A-Zs of Singapore]((#azsingapore)
-⋅⋅* [The Great Zodiac Race Colouring Book](#great-zodiac-race)
-⋅⋅* [Indoor Fun](#indoor-fun)
-⋅⋅* [Singapore's Hidden Gems](#sg-hidden-gems)
-⋅⋅* [Singapore Cityscape Pop-Up Display](#sg-cityscape)
-⋅⋅* [Snakes and Ladders - SG Edition!](#snakes-and-ladders)
+* [The A-Zs of Singapore]((#azsingapore)
+* [The Great Zodiac Race Colouring Book](#great-zodiac-race)
+* [Indoor Fun](#indoor-fun)
+* [Singapore's Hidden Gems](#sg-hidden-gems)
+* [Singapore Cityscape Pop-Up Display](#sg-cityscape)
+* [Snakes and Ladders - SG Edition!](#snakes-and-ladders)
 
 ## <a id="azsingapore"></a>The A-Zs of Singapore
 

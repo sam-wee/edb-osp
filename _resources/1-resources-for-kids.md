@@ -3,7 +3,14 @@ title: Resources For Kids
 permalink: /resources/resources-for-kids/
 ---
 
-## The A-Zs of Singapore
+* [The A-Zs of Singapore](#azsingapore)
+* [The Great Zodiac Race Colouring Book](#great-zodiac-race)
+* [Indoor Fun](#indoor-fun)
+* [Singapore's Hidden Gems](#sg-hidden-gems)
+* [Singapore Cityscape Pop-Up Display](#sg-cityscape)
+* [Snakes and Ladders - SG Edition!](#snakes-and-ladders)
+
+## <a id="azsingapore"></a>The A-Zs of Singapore
 
 ![A-Zs of Singapore](/images/kids-resources/a-z-guide-coverimage.png)
 
@@ -12,7 +19,7 @@ S-I-N-G-A-P-O-R-E! What makes our ‘Little Red Dot’ so unique? It’s all in 
 Here’s a look at Singapore’s A-Zs! Take time to recall the stories and memories from home as you read through each letter. Be sure to print out our A-Z list [here](https://drive.google.com/file/d/1xOEeKq1AhT3-rEJ78_PVcOHHzN_l5NWC/view?usp=sharing) and put it up on your wall or fridge door for your little ones to look at it, or for you to read through them together.
 
 
-## The Great Zodiac Race Colouring Book
+## <a id="great-zodiac-race"></a>The Great Zodiac Race Colouring Book
 
 ![The Great Zodiac Race Colouring Book](/images/kids-resources/great-zodia-race-coverimage.png)
 
@@ -21,20 +28,31 @@ Many are familiar with the 12-year Chinese Zodiac cycle, in which each year is r
 We’ve decided to put a fun, Singaporean twist to this folk tale! Round up your younger family members and friends to hear the story of how the Chinese Zodiac – as we know it – came to be. [Download](https://drive.google.com/file/d/1tXezBbNxxn5xws3SCjUfqYorG38LL7Sx/view?usp=sharing) the colouring book here and unleash your creative streak!
 
 
-##	Singapore's Hidden Gems
+## <a id="indoor-fun"></a>Indoor Fun
+
+![Indoor Fun](/images/kids-resources/indoor-fun.jpg)
+
+When it rains, and you have to stay indoors, it does not mean you have to get bored. Pull out a couple of classic board games like Aeroplane Chess, Chinese Checkers and Snakes & Ladders,  or those old-school card games: Old Maid, Donkey and Happy Family, and before you know it, the sun's out!
+
+If you like something a little more kinesthetically challenging, Five Stones is bound to throw any residual boredom out of the window.
+
+[Download](https://drive.google.com/file/d/1Wy6qFL9ccd201Bs2Q9KqpTa4OZ9A3AF2/view?usp=sharing) the Indoor Fun instructional and educational booklet for you and your kids!
+
+
+## <a id="sg-hidden-gems"></a>Singapore's Hidden Gems
 
 ![SG Hidden Gems](/images/kids-resources/sg-hidden-gem-coverimage.png)
 
 Singapore – we think we’ve seen it all, but there really is still much more to discover on our Little Red Dot! On your next trip home, why not bring your family on an adventure around Singapore? We’ve uncovered some ‘hidden gems’ in various parts of our island – take a look at what’s in your neighbourhood, or try going somewhere new! Bring out [this printable map](https://drive.google.com/file/d/1vAYzkmMCNfr7cZnr_gIr1-vYl2BTCOWh/view?usp=sharing) as you go exploring!
 
-##	Singapore Cityscape Pop-Up Display
+## <a id="sg-cityscape"></a>Singapore Cityscape Pop-Up Display
 
 ![Singapore Cityscape Pop-Up Display](/images/kids-resources/sg-cityscape-popup.png)
 
 How do you and your child envision the future cityscape of Singapore to look like in the years to come? Create your version of the Singapore cityscape and bring your imagination to life! Aside from familiar locations like Changi Airport, Marina Bay Sands and the Singapore Flyer, you can also draw your interpretations of Singapore’s future buildings and transportation. Display the finished work at home. Print the instructions and template [here](https://drive.google.com/file/d/1eBau02Qw6Zb4VrZAB9SO9CwGEwR5Qqr8/view?usp=sharing).
 
 
-## Snakes and Ladders - SG Edition!
+## <a id="snakes-and-ladders"></a>Snakes and Ladders - SG Edition!
 
 ![SG Snakes and Ladders](/images/kids-resources/snakes-ladders-coverimage.png)
 

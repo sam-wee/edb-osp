@@ -19,7 +19,8 @@ Machine learning is the field of study where computer systems can “learn” us
 
 Examples of machine learning are varied. There are small, subtle tasks such as determining what emails are considered spam and what aren’t, to curating and displaying specific shows on Netflix that you’ll probably want to watch. More complex types of machine learning include self-driving vehicles and automated medical diagnosis.
  
-![Image](/images/stories/2019/nurturing-ai-1.jpg) 
+![Image](/images/stories/2019/nurturing-ai-1.jpg)
+
 _Zhihao (left) giving a speech for the Strata Data conference at LinkedIn_
  
  
@@ -36,6 +37,7 @@ However, while many companies are open to developing AI technology, Zhihao feels
 Many companies also rush into implementing AI and machine learning, without considering other options. Zhihao recommends that companies should build their machine learning capability only when it gives them the right competitive advantage. If there’s no immediate need to build an internal AI infrastructure, companies should instead consider relying on the experience of external vendors to provide suitable, adequate solutions. This would save companies time and money.
  
 ![Image](/images/stories/2019/nurturing-ai-2.jpg)
+
 _Zhihao (on the right) with his colleagues from Teralytics._
  
 But perhaps the biggest concern about machine learning and AI is the inevitable job displacements due to automation. Zhihao empathises but also sees technology as an important enabler to be embraced, not something to be feared.
@@ -50,6 +52,7 @@ He believes that, if we are properly prepared for it, we can use these technolog
 Zhihao’s idealism stems from his large extended family back in Singapore. While he doesn’t miss Singaporean food as much thanks to the presence of Shiok! Singapore Kitchen in the Bay Area, he does miss the loud, chaotic but warm family gatherings. Several years ago, while based in Switzerland, twenty of his extended family members flew from Singapore to visit him!
  
 ![Image](/images/stories/2019/nurturing-ai-3.jpg)
+
 _Zhihao and his family enjoying a holiday trip at Switzerland._
  
 ### Building an AI and machine learning business in Asia

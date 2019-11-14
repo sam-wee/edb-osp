@@ -9,7 +9,10 @@ By SGN
 
 ---
 
+![Image](/images/stories/2019/5-tips-1.jpg)
 
+_As the APAC head of Wahed Inc., the world’s first robo-advisor Halal-focused investment firm, Syakir Hashim (above) is responsible for building up its business capabilities in Southeast Asia._
+ 
 Even when he was serving the army during National Service, social entrepreneur [Syakir Hashim](https://www.linkedin.com/in/syakirhashim/) — who is now in his late twenties — was always passionate about running his own business.
 
 “Right when I was serving my National Service, I co-founded a Social Enterprise which engages at-risk youths after school through befriending and enrichment programmes in Toa Payoh.”
@@ -52,6 +55,10 @@ Time is of the essence when it comes to going into a start-up business so Syakir
 
 And when they do, Syakir advises that settling the business’s financing matters should be their first order of business. “Make sure you find your way towards financial sustainability in your business as quickly as possible so you don’t have to rely too much on external funding because they may or may not come.”
 
+![Image](/images/stories/2019/5-tips-2.jpg)
+
+_While pursuing his studies in NUS, Syakir served as the president on the NUS Entrpreneurship Society, where he actively promoted the idea of becoming a technopreneur to his peers._
+
 5. **Never lose sight of your dreams**
 
 Running your own start up can be an arduous journey that will likely be filled with disappointments and setbacks. But through it all, start-up owners will find success if they remain focused and motivated to achieve their goals.
@@ -70,10 +77,4 @@ That said, Syakir, who is currently based in Malaysia, still reckons that Singap
 
 Syakir enthuses, “Ideation workshops, accelerators to late-stage investors are easy to come by here in Singapore. It is a great place to be!”
 
-Widening your social circles is vital to becoming a successful entrepreneur, so join  [**the OS in Tech LinkedIn group**](https://www.linkedin.com/groups/10403548/)  to connect with other like-minded individuals in Tech.
-
-**+++**
-
-Get inspired by similar stories like Syakir’s…
-
-Check out the profiles of Overseas Singaporeans such as our  [Stanford Sloan Fellow, Lin Zhihao](https://www.overseassingaporean.sg/en/stories?ArticleId=%7bDD54DB35-C307-4DAD-8BDF-412D035B5CDF%7d)  and  [Singaporean NASA Researcher, Poh Gang Kai](https://www.overseassingaporean.sg/en/stories?ArticleId=%7b1CC92654-11D9-446E-B6E0-14FBA02E98DA%7d).
+Widening your social circles is vital to becoming a successful entrepreneur, so join  [**the OS in Tech LinkedIn group**](https://www.linkedin.com/groups/10403548/) to connect with other like-minded individuals in Tech.

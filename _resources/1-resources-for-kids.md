@@ -52,7 +52,7 @@ Singapore – we think we’ve seen it all, but there really is still much more 
 How do you and your child envision the future cityscape of Singapore to look like in the years to come? Create your version of the Singapore cityscape and bring your imagination to life! Aside from familiar locations like Changi Airport, Marina Bay Sands and the Singapore Flyer, you can also draw your interpretations of Singapore’s future buildings and transportation. Display the finished work at home. Print the instructions and template [here](https://drive.google.com/file/d/1eBau02Qw6Zb4VrZAB9SO9CwGEwR5Qqr8/view?usp=sharing).
 
 
-## <a id="snakes-and-ladders"></a>Snakes and Ladders - SG Edition!
+## <a id="snakes-and-ladders"></a>Snakes and Ladders - Singapore Edition!
 
 ![SG Snakes and Ladders](/images/kids-resources/snakes-ladders-coverimage.png)
 

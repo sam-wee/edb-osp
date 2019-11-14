@@ -41,7 +41,7 @@ the final expenditure.
     
 Applications are open throughout the year and must be submitted to the SGN at least **3 weeks before the event**. Please       access the application form [here](https://form.gov.sg/#!/5d9ea77a4073c8001283331b) and follow the steps below if you wish to apply. 
 
-![Funding Application Process](/images/funding/osfp-process.jpg)
+![Funding Application Process](/images/funding/osfp-process-revised-071119.png)
 
 *   Note: Successful applicants will be informed of the allocated amount, which is based on the number of criteria met,
     indicative number of Singaporean attendees and budget forecasts. The final reimbursement amount may be reduced based on

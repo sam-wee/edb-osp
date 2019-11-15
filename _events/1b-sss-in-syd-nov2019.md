@@ -9,7 +9,7 @@ Join us for an exclusive evening with Mr Banerjee, as he shares his personal and
 
 Seats are limited, register today!
 
-[Register here](https://form.gov.sg/#!/5d75ce7d09f2840019c2e9fe)
+_Registration has closed._
 
 ### Event Details
 

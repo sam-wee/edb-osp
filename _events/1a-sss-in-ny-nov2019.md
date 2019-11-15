@@ -9,7 +9,7 @@ Join us for an enriching evening as Mr Lim shares GIC’s strategies to stay ahe
 
 A complimentary dinner and networking will follow. Seats are limited, register today!
 
-[Register here](https://form.gov.sg/#!/5d6b2bc7d6754c0012d77892)
+_Registration has closed._
 
 ### Event Details
 

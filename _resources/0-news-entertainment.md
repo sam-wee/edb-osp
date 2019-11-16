@@ -3,15 +3,20 @@ title: News & Entertainment
 permalink: /resources/news-entertainment/
 ---
 
-# Bringing you a slice of home through Mediacorp!
+* [This Month on Toggle](#this-month-on-toggle)
+* [Singapore Pulse and Heartbeat](#sgpulse-sgheartbeat)
+
+# <a id="this-month-on-toggle"></a>Bringing you a slice of home through Mediacorp!
 
 Hello friends!
 
-As we fast approach the end of the year, we have been welcoming much rain on our usually sunny island – our alternative to winter! However, we keep ourselves warm though heart-warming stories such as [this 25-year-old who makes clothes for the disabled](#clothes-for-the-disabled), and [a visually impaired make-up artist who did not lose hope in his craft](#visually-impaired-MUA). You can also catch [the 8th season of RenovAID](#renovaid-s8), where you can join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes that are in need of some hope.
+In a flash, we are down to our last couple of weeks of 2019. As the malls start decking out in Christmas cheer, we hope you all are keeping warm as the winter season approaches (or slathering on UV protection for those in the southern hemisphere haha!)
 
-We didn't forget the little ones as well! As we approach the holiday season, do check out [Make it Count Season 2](#make-it-count-s2), where the kids join Joakim and Charlotte as they go on an adventure each week to discover the many ways that Maths make it count in our lives!
+This month, catch local love story [Mixed Signals](#mixed-signals), as Victor and Vanda face a series of misadventures, or for some light hearted laughs, catch [I’m Madam](#i-m-mdm) to watch Pepper joining the army to win back her boyfriend’s heart.
 
-Have an amazing month ahead!
+Also, this season, [read about how boss of Stuff’d, Adrian Ang, started a programme to give free meals](#stuffd) to more than 140 children islandwide.
+
+We hope you have a great month ahead!
 
 _Cheers,_
 _Team SGN & Mediacorp_
@@ -22,118 +27,91 @@ _Team SGN & Mediacorp_
 
 Go on an emotional rollercoaster ride with familiar faces and relatable stories.
 
-**Last Madame**                  
+**<a id="mixed-signals"></a>Mixed Signals**                  
 
-![Image](/images/mediacorp/2019/LastMadame_2560x1440.jpg)
+![Image](/images/mediacorp/2019/mixed-signals.jpg)
 
-A 1930s brothel owner and a modern successful woman. Fate can bring two generations together in unexpected ways. As she inherits her family’s shophouse, Chi Ling (Fiona Fussi) is about to uncover so much more about her great-grandmother. (English, with Chinese subtitles)
+This is not your everyday love story. As tragedy tears them apart, Victor and Vanda now face a series of misadventures. Will fate bring them back together once again? (English, with Chinese and Malay subtitles) 
 
-[WATCH HERE](https://video.toggle.sg/en/series/last-madame/ep1/835067)
+[WATCH HERE](https://video.toggle.sg/en/series/michael-chiang-s-mixed-signals/ep1/861705?cid=mccy-osu_michael-chiang-s-mixed-signals_15Nov2019_toggle)
+
+
+**<a id="i-m-mdm"></a>I'm Madam**
+
+![Image](/images/mediacorp/2019/i-m-mdm.jpg)
+
+From No.1 girlfriend to No. 1 recruit. Joining the ranks in the army for love, Pepper strives to win back her boyfriend’s heart, no matter how tough things get. (Chinese, with English subtitles)
+
+[WATCH HERE](https://video.toggle.sg/en/series/i-m-madam/ep1/862098?cid=mccy-osu_i-m-madam_15Nov2019_toggle)
 
 
 **Daybreak**
 
-![Image](/images/mediacorp/2019/Daybreak.jpg)
-
-This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuwu) and Zheng Weilong are about to be reunited once again, on opposite sides of the law. (Chinese, with English subtitles) 
-
-[WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_1Nov2019_toggle)
-
-
-**128 Circle**
-
 ![Image](/images/mediacorp/2019/128 Circle.jpg)
 
-Drama brews in the heart of the neighbourhood. Delve into the world of hawkers to see the ups and downs behind a cultural heritage that has endured generations. (English, with Chinese and Malay subtitles) 
+This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuwu) and Zheng Weilong are about to be reunited once again, on opposite sides of the law. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/128-circle/ep1/839143?cid=mccy-osu_128-circle_1Nov2019_toggle)
-
-
-**Baru Nak Up**
-
-![Image](/images/mediacorp/2019/Baru Nak Up End Tag Landscape.jpg)
-
-All grown up, five best friends from school grapple with life’s changes as they begin to question the nature of their relationships with their family and one another. (Malay, with English subtitles) (Malay, with English subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/baru-nak-up/ep1/855297?cid=mccy-osu_baru-nak-up_1Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_15Nov2019_toggle)
 
 
-**Singa Airlines**
+**Arivaan**
 
-![Image](/images/mediacorp/2019/Singa Airlines.jpg)
+![Image](/images/mediacorp/2019/arivaan.jpg)
 
-A missing elite crew. A sole survivor. A hot-tempered cop. Uncover thrilling adventures as families left behind seek the truth behind a mysterious lost aircraft. (Tamil, with English subtitles)
+The past always comes back to haunt us. An ex-cop gets caught up in a brutal cat and mouse game as his nemesis resurfaces once again. What sacrifices must be made this time? (Tamil, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/singa-airlines/ep1/818644?cid=mccy-osu_singa-airlines_1Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/arivaan/ep1/864825?cid=mccy-osu_arivaan_15Nov2019_toggle)
 
 
 ## NEWS & CURRENT AFFAIRS
 
 Stay up to date with Singapore and the world today.
 
-**How Singapore sees its millennials (and it's not a pretty picture)**
+**E-scooter ban on footpaths: 5 things you need to know**
 
-![Image](/images/mediacorp/2019/regardless-of-generation-main.jpg)
+![Image](/images/mediacorp/2019/e-scooter-caught-in-punggol.jpg)
 
-A survey of 1,200 Singaporeans has uncovered cracks between people of different ages, raising questions on whether the young are being ignored. New CNA documentary Regardless of Generation tackles an "overlooked, yet particularly urgent divide" between the older and younger generation.
+Electric scooters will be banned from footpaths in Singapore from Tuesday (Nov 5), Senior Minister of State for Transport Lam Pin Min announced in Parliament on Monday.
 
-[READ HERE](https://www.channelnewsasia.com/news/cnainsider/how-singapore-sees-its-millennials-regardless-of-generation-gap-12003764?cid=mccy-osu_news_1Nov2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/singapore/e-scooter-ban-on-footpaths-singapore-lta-pmd-12061404?cid=mccy-osu_news_15Nov2019_cna)
 
 
-**<a id="clothes-for-the-disabled"></a>This 25-year-old makes clothes for the disabled. She’s still finding acceptance in the design industry**
+**CPF's Retirement Sum Scheme payouts to last till 90 years old, instead of 95**
 
-![Image](/images/mediacorp/2019/will-and-well-elisa-lim-home-studio.jpg)
+![Image](/images/mediacorp/2019/cpf-maxwell-service-centre.jpg)
 
-Elisa Lim is spearheading inclusive fashion in Singapore, dressing people with disabilities or special needs. But during the fledgling months of her business, she faced a multitude of challenges.
+From 2020, the payout duration of the Retirement Sum Scheme (RSS) will be changed to last until 90 years old, instead of the existing age of 95, following a review by the Ministry of Manpower (MOM) and the Central Provident Fund (CPF) Board.
 
-[READ HERE](https://www.channelnewsasia.com/news/singapore/clothes-disabled-fashion-design-will-and-well-elisa-lim-12038618?cid=mccy-osu_news_1Nov2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/singapore/cpf-s-retirement-sum-scheme-payouts-to-last-till-90-years-old-12062190?cid=mccy-osu_news_15Nov2019_cna)
 
  
-**<a id="visually-impaired-MUA"></a>Breaking free from his shades of grey: The visually impaired make-up artist**
+**<a id="stuffd"></a>He went hungry as a teen. Now Stuff’d boss is feeding kids who can’t afford a meal**
 
-![Image](/images/mediacorp/2019/shawn-flower-make-up-artist-main.jpg)
+![Image](/images/mediacorp/2019/stuffd-free-food-for-kids.jpg)
 
-Iskandar Ibrahim’s cosmetics career was cut short when he could no longer tell shades of colours apart. But even as his vision deteriorated, his skill did not and he can now see that.
+For a year, he had one meal a day and quaffed water to keep hunger at bay. It’s why Adrian Ang started a programme to give free meals to more than 140 children islandwide.
 
-[READ HERE](https://www.channelnewsasia.com/news/cnainsider/breaking-free-shades-of-grey-visually-impaired-make-up-artist-12037926?cid=mccy-osu_news_1Nov2019_cna)
-
-
-**‘It's my game to lose’: New passport for e-sports gamer going the extra mile in quest for SEA Games gold**
-
-![Image](/images/mediacorp/2019/thomas-kopankiewicz.jpg)
-
-Thomas Kopankiewicz studied in Singapore, served NS and represented the country in various e-sports tournaments. But to fly the national flag at the upcoming SEA Games, he had to give up his German passport - and he did exactly that.
-
-[READ HERE](https://www.channelnewsasia.com/news/sport/gamer-gives-up-german-passport-represent-singapore-sea-games-12013186?cid=mccy-osu_news_1Nov2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/stuffd-free-food-for-kids-hunger-food-insecurity-singapore-12073570?cid=mccy-osu_news_15Nov2019_cna)
 
 
 ##	INFO-ED     
 
 See the world through new eyes with real life stories
 
-**<a id="renovaid-s8"></a>RenovAID S8**                  
+**Missing**                  
 
-![Image](/images/mediacorp/2019/RenovAID S8.jpg)
+![Image](/images/mediacorp/2019/missing.jpg)
 
-Six different families. Six different homes. All in need of hope. Join Belinda Lee as she helps to renew, rebuild and revitalise these families and their homes. (English, with Chinese and Malay subtitles)
+8 million people vanish without a trace each year. Dig deeper into this painful social phenomenon to uncover why individuals disappear all around the world. (Chinese)
 
-[WATCH HERE](https://video.toggle.sg/en/series/raffles-an-icon-reborn/ep1/833940?cid=mccy-osu_raffles-an-icon-reborn_1Nov2019_toggle)
-
-
-**Tuesday Report: Be Myself**
-
-![Image](/images/mediacorp/2019/Be-Myself_2560x1440.jpg)
-
-Our future is nothing but bold. All about passion, these young adults aren’t afraid to face new challenges to realise their dreams. Be inspired by their stories today. (Chinese, with English subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/renovaid-s8/ep1/861366?cid=mccy-osu_renovaid-s8_1Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/missing/ep1/866886?cid=mccy-osu_missing_15Nov2019_toggle)
  
 
 ##	KIDS
 
 Let your young ones learn and enjoy from carefully curated edutainment programmes and popular cartoons.
  
-**<a id="make-it-count-S2"></a>Make It Count S2**        
+**Make It Count S2**        
 
 ![Image](/images/mediacorp/2019/Make-It-Count-Season-2_2560x1440.jpg)
 
@@ -165,12 +143,11 @@ From leadership to driving performances and transforming business, join Dr. Alis
 
 - - - - -
 
-
-#	Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
+# <a id="#sgpulse-sgheartbeat"></a>Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
 
 Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
  
-Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
+Sign up now [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
 
 ![Image](/images/sgheartbeat.png)
 ![Image](/images/sgpulse.png)
@@ -183,7 +160,7 @@ Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the
  
 2.  How do I get the Singapore Pulse or Singapore Heartbeat?
  
-    Keep in touch by joining our mailing list [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive either the         Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on     the appropriate links below.
+    Keep in touch by joining our mailing list [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to receive either the Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on the appropriate links below.
  
 3.  When and Why are the e-newsletters published monthly?
     

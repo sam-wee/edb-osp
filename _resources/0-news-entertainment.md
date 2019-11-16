@@ -161,7 +161,7 @@ Sign up now [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to rec
  
 2.  How do I get the Singapore Pulse or Singapore Heartbeat?
  
-    Keep in touch by joining our mailing list [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to receive either the         Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on     the appropriate links below.
+    Keep in touch by joining our mailing list [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to receive either the Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on the appropriate links below.
  
 3.  When and Why are the e-newsletters published monthly?
     

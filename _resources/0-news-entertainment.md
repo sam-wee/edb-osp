@@ -12,9 +12,9 @@ Hello friends!
 
 In a flash, we are down to our last couple of weeks of 2019. As the malls start decking out in Christmas cheer, we hope you all are keeping warm as the winter season approaches (or slathering on UV protection for those in the southern hemisphere haha!)
 
-This month, catch local love story [Mixed Signals] (#mixed-signals), as Victor and Vanda face a series of misadventures, or for some light hearted laughs, catch [I’m Madam] (#i-m-mdm) to watch Pepper joining the army to win back her boyfriend’s heart.
+This month, catch local love story [Mixed Signals](#mixed-signals), as Victor and Vanda face a series of misadventures, or for some light hearted laughs, catch [I’m Madam](#i-m-mdm) to watch Pepper joining the army to win back her boyfriend’s heart.
 
-Also, this season, [read about how boss of Stuff’d, Adrian Ang, started a programme to give free meals] (#stuffd) to more than 140 children islandwide.
+Also, this season, [read about how boss of Stuff’d, Adrian Ang, started a programme to give free meals](#stuffd) to more than 140 children islandwide.
 
 We hope you have a great month ahead!
 

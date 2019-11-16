@@ -144,11 +144,11 @@ From leadership to driving performances and transforming business, join Dr. Alis
 - - - - -
 
 
-#	<a id="#sgpulse-sgheartbeat">Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
+#	<a id="#sgpulse-sgheartbeat"></a>Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
 
 Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
  
-Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
+Sign up now [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to receive the Singapore Pulse or Singapore Heartbeat. It’s completely free.
 
 ![Image](/images/sgheartbeat.png)
 ![Image](/images/sgpulse.png)
@@ -161,7 +161,7 @@ Sign up now [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive the
  
 2.  How do I get the Singapore Pulse or Singapore Heartbeat?
  
-    Keep in touch by joining our mailing list [here](https://beautifulforms.typeform.com/to/S6z3s5) to receive either the         Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on     the appropriate links below.
+    Keep in touch by joining our mailing list [here](https://www.singaporeglobalnetwork.com/keep-in-touch/) to receive either the         Singapore Pulse or Singapore Heartbeat newsletters. To change which newsletter you would like to receive, please click on     the appropriate links below.
  
 3.  When and Why are the e-newsletters published monthly?
     

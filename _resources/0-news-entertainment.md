@@ -143,8 +143,7 @@ From leadership to driving performances and transforming business, join Dr. Alis
 
 - - - - -
 
-
-#	<a id="#sgpulse-sgheartbeat"></a>Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
+# <a id="#sgpulse-sgheartbeat"></a>Singapore Heartbeat & Singapore Pulse - A Straits Times Collaboration
 
 Catch up on a month’s news in under a minute with the Singapore Pulse and Singapore Heartbeat e-newsletters. Produced by The Straits Times and distributed by the Singapore Global Network, these free monthly e-newsletters include stories curated for the student and working professional, with topics spanning happenings in Singapore, policy announcements, business matters and information about internship opportunities, among others.
  

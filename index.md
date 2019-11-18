@@ -5,7 +5,7 @@ title: Singapore Global Network
 favicon: /images/favicon-globe.ico
 image: /images/sgn-logo.svg
 permalink: /
-notification: The Overseas Singaporean Unit has been rebranded as the Singapore Global Network. Our site is currently in beta mode. Stay tuned for our official launch in 2020!
+notification: The Overseas Singaporean Unit has become a part of the Singapore Global Network. Our site is currently in beta mode. Stay tuned for our official launch in 2020!
 sections:
     - hero:
         title: Singapore Global Network

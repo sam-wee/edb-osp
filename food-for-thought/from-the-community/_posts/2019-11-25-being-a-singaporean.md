@@ -8,7 +8,7 @@ permalink: /food-for-thought/from-the-community/being-a-singaporean
 
 _Living her entire life everywhere except for Singapore hasn't stopped Cheryl Low from adopting a Singaporean identity. Having moved halfway across the world from her family, Cheryl shares her story on how she has developed this strong sense of identity over her university years._
 
-By Cheryl Low
+By [Cheryl Low](#about-the-author)
 <hr>
 
 “Where are you from?” Such a short, simple question and yet I struggle with my answer every time it’s asked. 
@@ -38,4 +38,5 @@ One of the first events I attended as a student in the UK was hosted by the Viet
 >I didn’t have to physically grow up in Singapore to be a proud Singaporean.
 
 ---
+### <a id="#about-the-author"></a>About the Author
 ![Image](/images/stories/authors/cheryl-low.png)

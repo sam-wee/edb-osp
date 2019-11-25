@@ -19,19 +19,19 @@ Whenever I tell people this story, the most common question I get in response is
 
 When I moved to Leeds for university, I was excited to meet new people and experience a whole different culture. However, the transition for a minority race was difficult. I shared a house with 16 people – 15 British and 1 American.
 
-![Image](/images/stories/2019/being-a-singaporean.jpg)
+![Image](/images/stories/2019/being-a-singaporean-1.png)
 
 Even though I enjoyed spending time with them, I always felt something missing and I only realized what it was when I met some Singaporeans at a society event. It was that common understanding of culture, upbringing, the struggle of being miles away from home and the lack of access to similar foods we ate back home, that connected us. After that realization, I put in more effort to befriend other overseas Singaporeans as well. 
 
-![Image](/images/stories/2019/being-a-singaporean-2.jpg)
+![Image](/images/stories/2019/being-a-singaporean-2.png)
 
 Although I never physically grew up in Singapore, my Singaporean friends and I still shared similar childhood experiences. There were nights we spent reminiscing  our childhood – playing eraser wars, pick-up sticks, neopets; wanting beyblades for Christmas, or even keeping a sticker book and swapping stickers with friends at school. We would even laugh about the things we used to be ‘punished’ for, and how we used to hide canes from our parents. 
 
-![Image](/images/stories/2019/being-a-singaporean-3.jpg)
+![Image](/images/stories/2019/being-a-singaporean-3.png)
 
 We often talked about the food we missed back home and the inaccessibility to any of these dishes in Leeds. As a fresher, I didn’t even know how to mince garlic, but I had to learn how to cook at some point because eating out was simply too expensive. As my cooking improved over the years, I decided to challenge myself by attempting some typical hawker center food, such as chicken rice, hokkien mee and bak chor mee. 
 
-![Image](/images/stories/2019/being-a-singaporean-4.jpg)
+![Image](/images/stories/2019/being-a-singaporean-4.png)
 
 One of the first events I attended as a student in the UK was hosted by the Vietnamese society. While they were welcoming and friendly, I was surprised to find that the connections we’ve made were not as strong as ones I’ve found in my friendships with overseas Singaporeans. I was least expecting to vibe well with Singaporeans, primarily because I didn’t have many Singaporean friends growing up. However, they were the people I found easiest to be myself around, who really understood me and whom I could relate most to. They made me feel like I had a home away from home. It didn’t matter that I have never lived in Singapore, or that I sometimes couldn’t relate to the experiences they had growing up, but, what mattered most was that we had each other to rely on, especially when we missed home. 
 

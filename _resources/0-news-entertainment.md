@@ -10,11 +10,11 @@ permalink: /resources/news-entertainment/
 
 Hello friends!
 
-We're in the last leg of 2019! What're your plans for the holidays? How about snuggling up with some of local favorites?
+We're in the last leg of 2019! What're your plans for the holidays? How about snuggling up with some of our local favorites?
 
 In for some action, with a hint of romance? Catch local drama [The Good Fight](#the-good-fight), as Yichen (Rebecca Lim), Zheng Bin (Andie Chen) and Shu Ya (Paige Chua) seeks to restore glory to Yan Dongshan’s (Chen Tianwen) martial arts school.
 
-Ever wonder what makes Singapore unique? Join host Deborah Emmanuel in [Show Me The City](#show-me-the-city) as she uncovers the passions, lives and perspectives of unique individuals who call this little red dot home.
+Ever wonder what makes Singapore unique? Join host Deborah Emmanuel in [Show Me The City](#show-me-the-city) as she uncovers the passions, lives and perspectives of unique individuals who call our little red dot home.
 
 On the topic of passion, [read the heartwarming story of Mr Sim Kah Lim](#sim-kah-lim), a beacon of hope for all with mental illness, thanks to his sister and his art.
 

@@ -10,13 +10,15 @@ permalink: /resources/news-entertainment/
 
 Hello friends!
 
-In a flash, we are down to our last couple of weeks of 2019. As the malls start decking out in Christmas cheer, we hope you all are keeping warm as the winter season approaches (or slathering on UV protection for those in the southern hemisphere haha!)
+We're in the last leg of 2019! What're your plans for the holidays? How about snuggling up with some of our local favorites?
 
-This month, catch local love story [Mixed Signals](#mixed-signals), as Victor and Vanda face a series of misadventures, or for some light hearted laughs, catch [I’m Madam](#i-m-mdm) to watch Pepper joining the army to win back her boyfriend’s heart.
+In for some action, with a hint of romance? Catch local drama [The Good Fight](#the-good-fight), as Yichen (Rebecca Lim), Zheng Bin (Andie Chen) and Shu Ya (Paige Chua) seeks to restore glory to Yan Dongshan’s (Chen Tianwen) martial arts school.
 
-Also, this season, [read about how boss of Stuff’d, Adrian Ang, started a programme to give free meals](#stuffd) to more than 140 children islandwide.
+Ever wonder what makes Singapore unique? Join host Deborah Emmanuel in [Show Me The City](#show-me-the-city) as she uncovers the passions, lives and perspectives of unique individuals who call our little red dot home.
 
-We hope you have a great month ahead!
+On the topic of passion, [read the heartwarming story of Mr Sim Kah Lim](#sim-kah-lim), a beacon of hope for all with mental illness, thanks to his sister and his art.
+
+And with New Year just around the corner, maybe it's time to pen down some resolutions for 2020!
 
 _Cheers,_
 _Team SGN & Mediacorp_
@@ -27,84 +29,83 @@ _Team SGN & Mediacorp_
 
 Go on an emotional rollercoaster ride with familiar faces and relatable stories.
 
-**<a id="mixed-signals"></a>Mixed Signals**                  
+**<a id="the-good-fight"></a>The Good Fight**                  
 
-![Image](/images/mediacorp/2019/mixed-signals.jpg)
+![Image](/images/mediacorp/2019/the-good-fight.jpg)
 
-This is not your everyday love story. As tragedy tears them apart, Victor and Vanda now face a series of misadventures. Will fate bring them back together once again? (English, with Chinese and Malay subtitles) 
+Yichen (Rebecca Lim), Zheng Bin (Andie Chen) and Shu Ya (Paige Chua) are all raring to put up a good fight to restore glory to Yan Dongshan’s (Chen Tianwen) martial arts school. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/michael-chiang-s-mixed-signals/ep1/861705?cid=mccy-osu_michael-chiang-s-mixed-signals_15Nov2019_toggle)
-
-
-**<a id="i-m-mdm"></a>I'm Madam**
-
-![Image](/images/mediacorp/2019/i-m-mdm.jpg)
-
-From No.1 girlfriend to No. 1 recruit. Joining the ranks in the army for love, Pepper strives to win back her boyfriend’s heart, no matter how tough things get. (Chinese, with English subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/i-m-madam/ep1/862098?cid=mccy-osu_i-m-madam_15Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/the-good-fight/ep1/866374?cid=mccy-osu_the-good-fight_1Dec2019_toggle)
 
 
-**Daybreak**
+**Old is Gold - The Bliss Keeper**
 
-![Image](/images/mediacorp/2019/Daybreak.jpg)
+![Image](/images/mediacorp/2019/bliss-keeper.jpg)
 
-This friendship is about to be tested. Childhood friends Zhang Tianliang (Qi Yuwu) and Zheng Weilong are about to be reunited once again, on opposite sides of the law. (Chinese, with English subtitles)
+Tensions rise among Xinxin, Eliz and Ping Pong as new living arrangements and the mysterious reappearance of a long-lost relative spells trouble for their friendship. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/daybreak/ep1/855789?cid=mccy-osu_daybreak_15Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/old-is-gold-the-bliss-keeper/ep1/870910?cid=mccy-osu_old-is-gold-the-bliss-keeper_1Dec2019_toggle)
 
 
-**Arivaan**
+**Thilaanaa**
 
-![Image](/images/mediacorp/2019/arivaan.jpg)
+![Image](/images/mediacorp/2019/thilaanaa.jpg)
 
-The past always comes back to haunt us. An ex-cop gets caught up in a brutal cat and mouse game as his nemesis resurfaces once again. What sacrifices must be made this time? (Tamil, with English subtitles)
+Gitanjali is about to uncover the hidden language of her soul. Crossing paths with passionate dancers, their lives begin to unfold like a dance as the next stage awaits. (Tamil, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/arivaan/ep1/864825?cid=mccy-osu_arivaan_15Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/thilaanaa/ep1/863707?cid=mccy-osu_thilaanaa_1Dec2019_toggle)
 
 
 ## NEWS & CURRENT AFFAIRS
 
 Stay up to date with Singapore and the world today.
 
-**E-scooter ban on footpaths: 5 things you need to know**
+**Singaporeans reminded to ensure passports are stamped correctly at Malaysian immigration**
 
-![Image](/images/mediacorp/2019/e-scooter-caught-in-punggol.jpg)
+![Image](/images/mediacorp/2019/sg-passport.png)
 
-Electric scooters will be banned from footpaths in Singapore from Tuesday (Nov 5), Senior Minister of State for Transport Lam Pin Min announced in Parliament on Monday.
+Heading to Malaysia during the school holidays? Do check that your passports are stamped correctly.
 
-[READ HERE](https://www.channelnewsasia.com/news/singapore/e-scooter-ban-on-footpaths-singapore-lta-pmd-12061404?cid=mccy-osu_news_15Nov2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/singapore/malaysia-check-passports-stamped-travel-reminder-mfa-12088750?cid=mccy-osu_news_1Dec2019_cna)
 
 
-**CPF's Retirement Sum Scheme payouts to last till 90 years old, instead of 95**
+**<a id="sim-kah-lim"></a>Life on the outside, after 35 years in a mental ward**
 
-![Image](/images/mediacorp/2019/cpf-maxwell-service-centre.jpg)
+![Image](/images/mediacorp/2019/sim-kah-lim.jpg)
 
-From 2020, the payout duration of the Retirement Sum Scheme (RSS) will be changed to last until 90 years old, instead of the existing age of 95, following a review by the Ministry of Manpower (MOM) and the Central Provident Fund (CPF) Board.
+Committed to the IMH for schizophrenia when he was 15, Sim Kah Lim is out now, thanks to his sister and his art. He is now a beacon of hope for all with mental illness.
 
-[READ HERE](https://www.channelnewsasia.com/news/singapore/cpf-s-retirement-sum-scheme-payouts-to-last-till-90-years-old-12062190?cid=mccy-osu_news_15Nov2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/life-outside-after-35-years-mental-ward-long-staying-sim-kah-lim-12099234?cid=mccy-osu_news_1Dec2019_cna)
 
  
-**<a id="stuffd"></a>He went hungry as a teen. Now Stuff’d boss is feeding kids who can’t afford a meal**
+**They used to race for money. Now, man and horse help heal the human spirit**
 
-![Image](/images/mediacorp/2019/stuffd-free-food-for-kids.jpg)
+![Image](/images/mediacorp/2019/shamri-horse.jpg)
 
-For a year, he had one meal a day and quaffed water to keep hunger at bay. It’s why Adrian Ang started a programme to give free meals to more than 140 children islandwide.
+No longer wanted as race, polo or riding mounts, these horses found a home at EQUAL - where ex-jockeys like Shamri show them how to provide therapy to folks in need
 
-[READ HERE](https://www.channelnewsasia.com/news/cnainsider/stuffd-free-food-for-kids-hunger-food-insecurity-singapore-12073570?cid=mccy-osu_news_15Nov2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/horse-assisted-therapy-jockey-equal-singapore-elderly-12098308?cid=mccy-osu_news_1Dec2019_cna)
 
 
 ##	INFO-ED     
 
 See the world through new eyes with real life stories
 
-**Missing**                  
+**Singapore Mosaic**                  
 
-![Image](/images/mediacorp/2019/missing.png)
+![Image](/images/mediacorp/2019/sg-mosaic.jpg)
 
-8 million people vanish without a trace each year. Dig deeper into this painful social phenomenon to uncover why individuals disappear all around the world. (Chinese)
+As Singapore commemorates its bicentennial journey, we look at four small but important communities that have long helped make up our vibrant mosaic - Arabs, Parsis, Jews and Armenians.
 
-[WATCH HERE](https://video.toggle.sg/en/series/missing/ep1/866886?cid=mccy-osu_missing_15Nov2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/singapore-mosaic/ep1/815069?cid=mccy-osu_singapore-mosaic_1Dec2019_toggle)
+
+**<a id="show-me-the-city"></a>Show Me The City**                  
+
+![Image](/images/mediacorp/2019/show-me-the-city.jpg)
+
+What makes us truly Singaporean? Join host Deborah Emmanuel as she uncovers the passions, lives and perspectives of unique individuals who call this little red dot home.
+
+[WATCH HERE](https://video.toggle.sg/en/series/show-me-the-city/ep1/868030?cid=mccy-osu_show-me-the-city_1Dec2019_toggle)
  
 
 ##	KIDS
@@ -124,22 +125,22 @@ Living in a world filled with numbers, join Joakim and Charlotte as they go on a
 
 Keep your ears peeled with our latest podcasts!
 
-**128 Circle**
+**Self-Awareness Through Strengths Podcast**
 
-![Image](/images/mediacorp/2019/128_Circle_MeRadio.png)
+![Image](/images/mediacorp/2019/yvonne-podcast.jpeg)
 
-Inspired by the drama series, be entertained by Gurmit Singh, Mark Lee and Fiza O, and all the flavours of everyday Singaporean life that makes us who we truly are.   
+Be inspired to live out your true calling with Yvonne Grace Low, one of Asia’s first Gallup-Certified Strengths Coaches, as she motivates us to discover our hidden strengths.
 
-[HEAR IT HERE](https://www.meradio.sg/podcast/playlist/128-Circle-Podcast-11978948?cid=mccy-osu_128-Circle_1Nov2019_meradio)
+[HEAR IT HERE](https://www.meradio.sg/podcast/playlist/Self-Awareness-Through-Strengths-Podcast-12067564?cid=mccy-osu_SATSP_1Dec2019_meradio)
 
 
-**Growth Leaders**
+**Kiasu Playbook**
  
-![Image](/images/mediacorp/2019/Growth Leaders.JPG)
+![Image](/images/mediacorp/2019/958-kiasu.png)
 
-From leadership to driving performances and transforming business, join Dr. Alison Eyring as she talks to some of the world’s best leaders on long-term successful growth.
+Mr. Kiasu returns with his latest adventure! Stepping back in time, he comes face to face with historical legends of Singapore, and makes history for himself too.
 
-[HEAR IT HERE](https://www.meradio.sg/podcast/playlist/Growth-Leaders-Podcast-12004414?cid=mccy-osu_Growth-Leaders_1Nov2019_meradio)
+[HEAR IT HERE](https://www.meradio.sg/podcast/playlist/958-%E5%B9%BF%E6%92%AD%E5%89%A7%E3%80%90%E6%80%95%E8%BE%93%E6%94%BB%E7%95%A5%E3%80%91-12110524?cid=mccy-osu_Mr-Kiasu_1Dec2019_meradio)
 
 - - - - -
 

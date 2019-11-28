@@ -53,11 +53,12 @@ Seizing the Ambassador’s moment of respite from the selfie-seekers, I walked u
 
 “Yes! Laska,” the ambassador confirmed.
 
-![Image](/images/stories/2019/being-a-singaporean-2.png)
+![Image](/images/stories/2019/sg-hawker-culture-2.png)
  
 Ah, I should have known. There were indeed graphics of prawns on the shirt, and of course there are no hard-boiled eggs in Hokkien mee!  I had to concede defeat and congratulated ZK.
 
 And speaking of Laksa, which is one of my favourite dishes, it was missing from the menu at the luncheon. A craving that was not satiated. Oh well, there would be homemade laksa dinner later in the week, I announced. ZK responded with the thumbs up.
+
 ---
 ### <a id="#about-the-author"></a>About the Author - Angie Ho Guyoton
 ![Image](/images/stories/authors/angie-ho.png)

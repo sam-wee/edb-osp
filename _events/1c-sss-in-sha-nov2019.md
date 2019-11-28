@@ -3,7 +3,9 @@ title: Singapore Speakers Series in Shanghai (29 Nov)
 permalink: /events/sss-in-sha-nov2019/
 third_nav_title: November 2019
 ---
-The Singapore Speaker Series featuring Mr Ho Kwon Ping, Executive Chairman of Banyan Tree Holdings Limited, is coming to Shanghai this November!
+Join us for an exclusive evening with Mr Ho Kwon Ping, Executive Chairman of Banyan Tree Holdings and one of Singapore’s most distinguished corporate leaders, as he shares with us valuable insights on the hospitality industry and opportunities in Asia. Networking with Mr Ho and fellow industry professionals over a standing buffet dinner to follow. Seats are limited, so hurry and register today!
+
+[Register here](https://form.gov.sg/#!/5dbb948379b19800124fe184)
 
 ### Event Details
 

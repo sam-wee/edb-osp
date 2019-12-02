@@ -69,7 +69,7 @@ Read on for more exciting events lined-up for you and your kids below!
 
 **1.** [**Disney: Magic of Animation**](https://www.marinabaysands.com/museum/disney-magic-of-animation.html)
 
-![Images](/images/stories/2019/sg-experiences-5.jpg)
+![Images](/images/stories/2019/sg-experiences-5.png)
 
 _Credit: Hawaiian Holiday, 1937, Concept art, Disney Studio Artist Disney_
 
@@ -79,7 +79,7 @@ Not many people can resist the charm and magic of Disney – we have all done th
 
 **2.** [**WILD RICE @ Funan Grand Opening Season – Peter Pan in Serangoon Gardens**](https://www.sistic.com.sg/events/cpan2019)
 
-![Images](/images/stories/2019/sg-experiences-6.jpg)
+![Images](/images/stories/2019/sg-experiences-6.png)
 
 _Credit: WILD RICE_
 
@@ -91,7 +91,7 @@ This holiday season, don’t miss out on Peter Pan in Serangoon Gardens at the n
 
 **3.** [**The Bubble Tea Factory**](https://www.thebubbleteafactory.co/tickets)
 
-![Images](/images/stories/2019/sg-experiences-7.jpg)
+![Images](/images/stories/2019/sg-experiences-7.png)
 
 _Credit: The Bubble Tea Factory_
 
@@ -110,7 +110,7 @@ You can also take it slow this holiday by going for a walk with your grandparent
 
 **1.** [**National Orchid Garden (School Holiday Promotion)**](https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/national-orchid-gardens-school-holiday-promotion)
 
-![Images](/images/stories/2019/sg-experiences-8.jpg)
+![Images](/images/stories/2019/sg-experiences-8.png)
 
 _Credit: NParks  - National Orchid Garden_
 
@@ -120,7 +120,7 @@ Opening Hours from 8.30am – 7.00pm (last entry at 6.00pm).  Terms and Conditio
 
 **2.** [**The Art of Birding Exhibition**](https://www.nparks.gov.sg/activities/events-and-workshops/2019/11/the-art-of-birding-exhibition-at-cdl-green-gallery)
 
-![Images](/images/stories/2019/sg-experiences-9.jpg)
+![Images](/images/stories/2019/sg-experiences-9.png)
 
 _Credit: NParks_
 
@@ -134,7 +134,7 @@ CDL Green Gallery @ SBG Heritage Museum, Free
 
 **3.** [**Coast to Coast Trail**](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/coast-to-coast)\
 
-![Images](/images/stories/2019/sg-experiences-10.jpg)
+![Images](/images/stories/2019/sg-experiences-10.png)
 
 _Credit: NParks_
 

@@ -132,7 +132,7 @@ Sat, 23 Nov 2019 - Tue, 31 Mar 2020 9am - 6pm, Singapore Botanic Gardens,
 
 CDL Green Gallery @ SBG Heritage Museum, Free
 
-**3.** [**Coast to Coast Trail**](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/coast-to-coast)\
+**3.** [**Coast to Coast Trail**](https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/coast-to-coast)
 
 ![Images](/images/stories/2019/sg-experiences-10.png)
 

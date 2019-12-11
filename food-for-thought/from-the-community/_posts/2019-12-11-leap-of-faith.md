@@ -13,7 +13,7 @@ By Luzerne Cheng
 
 Hi! I am Luzerne, and I currently lead the Red Frogs team here in Singapore! This is my first job straight out of University. Before this, I spent two years studying my Bachelor’s degree in Perth while I volunteered with the Red Frogs.
 
-![Image](/images/stories/2019/red-frogs-1.jpg)
+![Image](/images/stories/2019/red-frogs-1.png)
 _Luzerne and his family at his graduation from UWA in 2018._
 
 Red Frogs is an Australian organisation that started in Gold Coast back in 1997 to take care of high school kids during Schoolies Week. Schoolies Week is an annual affair where high school graduates (also known as Year 12 school leavers) between the ages of 17 to 18 celebrate their graduation by partying for an entire week! Red Frogs was then born from the vision to serve and safeguard these young people by providing a positive peer presence in partying environments.
@@ -22,7 +22,7 @@ In 2018, I took up the position of a Red Frogs team leader in my hall of residen
 
 During organised residential parties, we provided a hydration station, so students don’t suffer bad hangovers the next day. We organised walk-homes to ensure that everyone gets home safely after parties and even provided pancake cook-ups for morning check-ins.
 
-![Image](/images/stories/2019/red-frogs-2.jpg)
+![Image](/images/stories/2019/red-frogs-2.png)
 _Luzerne and other Red Frogs volunteers in Australia cooking pancakes during Schoolies_
 
 One incident really showed me the value of Red Frogs, and it happened during my first month of volunteering with them. 
@@ -37,7 +37,7 @@ Growing up in Singapore, I see many young people facing a significant amount of 
 
 Admittedly, I was one of those who would place too much pressure on myself and ended up hospitalised during my Final Year Project! With welfare at the heart of Red Frogs Singapore, I want to bring a positive change to the needs of the students here in Singapore by not just investing in programs, but in people too.
  
-![Image](/images/stories/2019/red-frogs-3.jpg)
+![Image](/images/stories/2019/red-frogs-3.png)
 _Representing the “Red Frogs Crew”: Luzerne, mentor Hayden Glass, and other volunteers._
 
 Coming out of University with the zeal of a fresh graduate, coupled with the dreams that I have for Red Frogs Singapore, I was a little too idealistic. I made mistakes along the way, but this has been a tremendous learning journey for my personal growth. Right now, I am taking my time to come up with the right philosophy and strategy.
@@ -48,7 +48,7 @@ Networking is biggest lesson I’ve learnt. It is so valuable because you get to
 
 We are currently partnering Lowercase, a café in LASALLE to bring welfare to the students there. We had daily giveaways during Orientation Week to welcome the freshmen and going forward, we are planning to do the same for other tertiary campuses around Singapore. 
 
-![Image](/images/stories/2019/red-frogs-4.jpg)
+![Image](/images/stories/2019/red-frogs-4.png)
 _Luzerne’s team outside Lowercase in LASALLE_
 
 If you’re interested in partnering the Red Frogs Singapore team, or if you would like to bring Red Frogs into your campus, drop me an email at luzerne.cheng@volunteer.redfrogs.com.au I would love to have a chat with you. And if you are interested to find out more about Red Frogs, check out our website [here](https://redfrogs.com/) or watch the ‘True Story’ of Red Frogs video [here](https://www.youtube.com/watch?v=wppnUDhSw7k). 

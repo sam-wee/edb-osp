@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leap of Faith: How Luzerne Cheng found his purpose in a social welfare career
+title: "Leap of Faith: How Luzerne Cheng found his purpose in a social welfare career"
 permalink: /food-for-thought/from-the-community/leap-of-faith
 ---
 

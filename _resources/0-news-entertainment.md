@@ -10,15 +10,11 @@ permalink: /resources/news-entertainment/
 
 Hello friends!
 
-We're in the last leg of 2019! What're your plans for the holidays? How about snuggling up with some of our local favorites?
+Christmas is just round the corner! Here're some local favorites to cosy up to, with your loved ones, in the current chilly weather.
 
-In for some action, with a hint of romance? Catch local drama [The Good Fight](#the-good-fight), as Yichen (Rebecca Lim), Zheng Bin (Andie Chen) and Shu Ya (Paige Chua) seeks to restore glory to Yan Dongshan’s (Chen Tianwen) martial arts school.
+Catch the brand new local drama [After The Stars](#the-good-fight), as we uncover life behind the glitz and glamour of an artist and their agent.
 
 Ever wonder what makes Singapore unique? Join host Deborah Emmanuel in [Show Me The City](#show-me-the-city) as she uncovers the passions, lives and perspectives of unique individuals who call our little red dot home.
-
-On the topic of passion, [read the heartwarming story of Mr Sim Kah Lim](#sim-kah-lim), a beacon of hope for all with mental illness, thanks to his sister and his art.
-
-And with New Year just around the corner, maybe it's time to pen down some resolutions for 2020!
 
 _Cheers,_
 _Team SGN & Mediacorp_
@@ -29,75 +25,75 @@ _Team SGN & Mediacorp_
 
 Go on an emotional rollercoaster ride with familiar faces and relatable stories.
 
-**<a id="the-good-fight"></a>The Good Fight**                  
+**<a id="after-the-stars"></a>After The Stars**             
 
-![Image](/images/mediacorp/2019/the-good-fight.jpg)
+![Image](/images/mediacorp/2019/after-the-stars.jpg)
 
-Yichen (Rebecca Lim), Zheng Bin (Andie Chen) and Shu Ya (Paige Chua) are all raring to put up a good fight to restore glory to Yan Dongshan’s (Chen Tianwen) martial arts school. (Chinese, with English subtitles)
+Life behind glitz and glamour is never easy. And it brings out the worst in us. Witness the journey of artistes and agents as they struggle to survive in a brutal world. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/the-good-fight/ep1/866374?cid=mccy-osu_the-good-fight_1Dec2019_toggle)
-
-
-**Old is Gold - The Bliss Keeper**
-
-![Image](/images/mediacorp/2019/bliss-keeper.jpg)
-
-Tensions rise among Xinxin, Eliz and Ping Pong as new living arrangements and the mysterious reappearance of a long-lost relative spells trouble for their friendship. (Chinese, with English subtitles)
-
-[WATCH HERE](https://video.toggle.sg/en/series/old-is-gold-the-bliss-keeper/ep1/870910?cid=mccy-osu_old-is-gold-the-bliss-keeper_1Dec2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/video/series/after-the-stars/webisodes/ep1-after-the-stars-the-game-plan/872112)
 
 
-**Thilaanaa**
+**A World Of Difference**
 
-![Image](/images/mediacorp/2019/thilaanaa.jpg)
+![Image](/images/mediacorp/2019/a-world-of-diff.jpg)
 
-Gitanjali is about to uncover the hidden language of her soul. Crossing paths with passionate dancers, their lives begin to unfold like a dance as the next stage awaits. (Tamil, with English subtitles)
+Everyday issues in a not-so-everyday world. Get another look at current social topics set in an alternative present day, and see how these characters deal with them. (Chinese, with English subtitles)
 
-[WATCH HERE](https://video.toggle.sg/en/series/thilaanaa/ep1/863707?cid=mccy-osu_thilaanaa_1Dec2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/a-world-of-difference/ep1/869861?cid=mccy-osu_a-world-of-difference_15Dec2019_toggle)
+
+
+**Ok Bos! S2**
+
+![Image](/images/mediacorp/2019/okboss2.jpg)
+
+Trouble brews for the staff of Makan Time. As they move in with those from Sassy Eatz, the two camps now face their greatest challenge yet – working together as one. (Malay, with English subtitles)
+
+[WATCH HERE](https://video.toggle.sg/en/series/ok-bos-s2/ep1/835864?cid=mccy-osu_ok-bos-s2_15Dec2019_toggle)
 
 
 ## NEWS & CURRENT AFFAIRS
 
 Stay up to date with Singapore and the world today.
 
-**Singaporeans reminded to ensure passports are stamped correctly at Malaysian immigration**
+**Deaf Grab drivers: 'They can do everything but hear'**
 
-![Image](/images/mediacorp/2019/sg-passport.png)
+![Image](/images/mediacorp/2019/grab-deaf-driver.jpg)
 
-Heading to Malaysia during the school holidays? Do check that your passports are stamped correctly.
+Your next Grab ride in Singapore could be with one of their 40 deaf or hard-of-hearing drivers.
 
-[READ HERE](https://www.channelnewsasia.com/news/singapore/malaysia-check-passports-stamped-travel-reminder-mfa-12088750?cid=mccy-osu_news_1Dec2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/singapore/deaf-grab-drivers-they-can-do-everything-but-hear-12126614?cid=mccy-osu_news_15Dec2019_cna)
 
 
-**<a id="sim-kah-lim"></a>Life on the outside, after 35 years in a mental ward**
+**Friends from other lands: The unique challenges of international students at one primary school**
 
-![Image](/images/mediacorp/2019/sim-kah-lim.jpg)
+![Image](/images/mediacorp/2019/friends-from-other-lands.jpg)
 
-Committed to the IMH for schizophrenia when he was 15, Sim Kah Lim is out now, thanks to his sister and his art. He is now a beacon of hope for all with mental illness.
+One is grappling with English; another with local food; a third takes tuition in her native Russian and Mandarin. At neighbourhood schools like Farrer Park Primary, international students are learning to fit in, creating a rich diversity of friendships in the process.
 
-[READ HERE](https://www.channelnewsasia.com/news/cnainsider/life-outside-after-35-years-mental-ward-long-staying-sim-kah-lim-12099234?cid=mccy-osu_news_1Dec2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/international-students-singapore-primary-school-farrer-park-12139974?cid=mccy-osu_news_15Dec2019_cna)
 
  
-**They used to race for money. Now, man and horse help heal the human spirit**
+**Five things you didn’t know about these symbols of Singaporean nationhood**
 
-![Image](/images/mediacorp/2019/shamri-horse.jpg)
+![Image](/images/mediacorp/2019/singapore-symbols.jpg)
 
-No longer wanted as race, polo or riding mounts, these horses found a home at EQUAL - where ex-jockeys like Shamri show them how to provide therapy to folks in need
+They represent the nation’s highest ideals, but had to be created in a hurry to rally the people to a new vision. After 60 years, there are intriguing stories about the likes of the national anthem and flag.
 
-[READ HERE](https://www.channelnewsasia.com/news/cnainsider/horse-assisted-therapy-jockey-equal-singapore-elderly-12098308?cid=mccy-osu_news_1Dec2019_cna)
+[READ HERE](https://www.channelnewsasia.com/news/cnainsider/5-things-you-didnt-know-national-symbols-singapore-anthem-flag-12157572?cid=mccy-osu_news_15Dec2019_cna)
 
 
 ##	INFO-ED     
 
 See the world through new eyes with real life stories
 
-**Singapore Mosaic**                  
+**Cyber Punk'd**                  
 
-![Image](/images/mediacorp/2019/sg-mosaic.jpg)
+![Image](/images/mediacorp/2019/cyberpunkd.jpg)
 
-As Singapore commemorates its bicentennial journey, we look at four small but important communities that have long helped make up our vibrant mosaic - Arabs, Parsis, Jews and Armenians.
+It’s time to get smarter in a smart world. And local comedian Fakkah Fuzz knows that cyber safety is no joke. Join him as he helps make the internet a safer place for all.
 
-[WATCH HERE](https://video.toggle.sg/en/series/singapore-mosaic/ep1/815069?cid=mccy-osu_singapore-mosaic_1Dec2019_toggle)
+[WATCH HERE](https://video.toggle.sg/en/series/cyberpunk-d/ep1/872706?cid=mccy-osu_cyberpunk-d_15Dec2019_toggle)
 
 **<a id="show-me-the-city"></a>Show Me The City**                  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Christmas Reunions
-permalink: /food-for-thought/from-the-community/christmas-in-hong-kong
+permalink: /food-for-thought/from-the-community/christmas-reunions
 ---
 # Christmas Reunions
 
@@ -32,6 +32,7 @@ On Christmas day, my husband will prepare a feast for us. Roast beef, roast pota
 This year, our almost four-year-old son is sensible enough to help decorate our faithful, twelve-year-old Christmas tree instead of destroying it. It is such a joy to see two kids in our home, soaking into the Christmas spirit and enjoying this festive season. Of course, our son is starting to believe in Santa as well.
 
 ![Image](/images/stories/2019/christmas-in-hk-4.png)
+
 ---
 
 ### About the Author
@@ -39,6 +40,7 @@ This year, our almost four-year-old son is sensible enough to help decorate our 
 #### Danielle Fong
 
 A Singaporean married to a Hong Konger with two naturalised Singaporean children, waiting to relocate back to her sunny island home next summer. A multi-tasker who raises children, cooks delicious and healthy kids’ meals, designs for her husband’s company as well as teaches Graphic Design in design school. She is currently freelancing to make time to prepare for the family’s BIG MOVE.
+
 ---
 
 ## My Best Last Christmas by Eve Wee-Ang
@@ -70,6 +72,7 @@ _With my stylish extraordinary mum, who was my biggest inspiration in life_
 A month ago, my beloved mother passed away. She was cycling to the wet market and got hit by a van. I was in Shanghai when I received the devastating news, so I asked my brother-in-law to place the phone on her ear. She was already unconscious, but I told her I love her very much and asked her to wait for me to come home. However, minutes later, my mother left us. I was the last person who spoke to her. 
 
 With the holidays approaching this year, even though I am still struggling to make sense of her passing, I am comforted that we spent our best last Christmas together in Shanghai. 
+
 ---
 
 ### About the Author
@@ -77,6 +80,7 @@ With the holidays approaching this year, even though I am still struggling to ma
 #### Eve Wee-Ang
 
 Eve was a fashion publicist for luxury brands before she relocated to Shanghai as a trailing spouse. She started the TTT (Thursday Tai Tai) support group for Singaporean mothers in Shanghai which celebrates its 10-year anniversary this year. She is a columnist for Parents & Kids magazine and a KonMari tidying consultant-in-training whilst trying hard to be a cool mom to her tweens. Eve can be contacted at <shoes_fetish@yahoo.co.uk>.
+
 ---
 
 ## Christmas in New Zealand by Pang Ho Mei 
@@ -101,6 +105,7 @@ _At Rob Roy Glacier Track in 2018!_
 The following day, on Christmas, we go for long walks in the mountains, exchanging Christmas greetings with those we meet on the track. During those hours, I would reflect on the past year and wonder whether (or when!) we should go back home to Singapore. More often than not, I lose track of time and always find it fascinating that I’ve walked for so long.
 
 After walking for 3 to 4 days in the wilderness, we would reward ourselves with a nice meal, hot shower and of course Wi-Fi. By the time we get back to civilisation and see a Christmas tree, however, Christmas is already over!	
+
 ---
 
 ### About the Author
@@ -108,4 +113,5 @@ After walking for 3 to 4 days in the wilderness, we would reward ourselves with 
 #### Mei & Rui 
  
 In 2013, Mei & Rui decided it’s time to do something different, so they left their jobs in Singapore, packed their bags and flew to New Zealand. They never expect this would turn into quite a long OE. More of their stories at www.mrsjono.blogspot.com
+
 ---

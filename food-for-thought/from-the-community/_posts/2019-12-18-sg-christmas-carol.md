@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Love, Actually
+title:  A Singaporean Christmas Carol, lah
 permalink: /food-for-thought/from-the-community/sg-christmas-carol
 ---
 # A Singaporean Christmas Carol, *lah.*

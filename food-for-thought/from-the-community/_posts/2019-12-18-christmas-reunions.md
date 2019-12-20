@@ -83,17 +83,17 @@ Eve was a fashion publicist for luxury brands before she relocated to Shanghai a
 
 ---
 
-## Christmas in New Zealand by Pang Ho Mei 
+## Christmas in New Zealand by Pang Hong Mei 
 
 Christmas in the heart of New Zealand unofficially begins when the two big Pohutukawa trees outside Wellington Railway Station blossom with bright red flowers. That’s why they are also known as New Zealand Christmas trees! It’s an indication that summer is finally here, and the weather is beginning to warm up. Cookie Time sellers start popping up around town with buckets of Christmas cookies. Iʼve always distracted myself from the temptation to buy one by rushing off to catch the train home. 
 
 ![Image](/images/stories/2019/christmasinnz1.png)
-_Beautiful Pohutukawa trees right outside Wellington Railway Station!_
+_Beautiful Pohutukawa trees at Waitara Beach_
 
 There’s always something to do in New Zealand during the days leading up to Christmas. One year, Rui and I checked out the Santa parade in town. Another year, we went around the neighbourhood at night to see the lights done up by different households.
 
-![Image](/images/stories/2019christmasinnz2.png)
-_ Children getting excited for Christmas at the Santa Parade_
+![Image](/images/stories/2019/christmasinnz2.png)
+_Children getting excited for Christmas at the Santa Parade_
 
 Christmas is all about traditions and we have our own. While the locals spend Christmas catching up with their family over the barbie and a few beers, Rui and I pack our bags, clip on the reindeer ears and nose on the car and go on our annual summer roadie. 
 

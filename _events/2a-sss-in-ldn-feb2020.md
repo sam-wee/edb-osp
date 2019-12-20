@@ -7,7 +7,7 @@ The Singapore Speakers Series featuring Mr Lim Boon Heng, Chairman of Temasek Ho
 
 Join us for an exclusive evening with Mr Lim who will talk about Singapore's plans to succeed in an uncertain external environment marked by global trade tensions and slowing growth. Against this challenging backdrop looms the threat of climate change. Mr Lim will share insights on how Singapore intends to address this and what companies like Temasek are doing to achieve a better and more sustainable world for this and future generations.
 
-A complimentary Singaporean-style dinner and networking will follow. Seats are limited, register now at go.gov.sg/ssslondon2020!
+A complimentary Singaporean-style dinner and networking will follow. Seats are limited, register now at https://go.gov.sg/ssslondon2020!
 
 ### Event Details
 

@@ -47,7 +47,7 @@ A Singaporean married to a Hong Konger with two naturalised Singaporean children
 
 Having lived in Shanghai for ten years, my family has visited me countless times. Each time they visit us, I always try my best to provide them with new experiences.
 
-With three birthday celebrations in a row – my sister’s, my husband’s and my daughter’s –December is a fun party month for my whole family. Adding Christmas into the mix, we always have a reason to celebrate.
+With three birthday celebrations in a row – my sister’s, my husband’s and my daughter’s – December is a fun party month for my whole family. Adding Christmas into the mix, we always have a reason to celebrate.
 
 Last Christmas, my family from Singapore visited us again in Shanghai. It was a party of six that included my sister’s family, my aunt and my mother. Everyone stayed at our house, so you can imagine the ruckus we caused! 
 
@@ -79,7 +79,7 @@ With the holidays approaching this year, even though I am still struggling to ma
 
 #### Eve Wee-Ang
 
-Eve was a fashion publicist for luxury brands before she relocated to Shanghai as a trailing spouse. She started the TTT (Thursday Tai Tai) support group for Singaporean mothers in Shanghai which celebrates its 10-year anniversary this year. She is a columnist for Parents & Kids magazine and a KonMari tidying consultant-in-training whilst trying hard to be a cool mom to her tweens. Eve can be contacted at <shoes_fetish@yahoo.co.uk>.
+Eve was a fashion publicist for luxury brands before she relocated to Shanghai as a trailing spouse. She started the TTT (Thursday Tai Tai) support group for Singaporean mothers in Shanghai which celebrates its 10-year anniversary this year. She is a columnist for Parents & Kids magazine in Shanghai and the first Singaporean certified KonMari consultant - whilst trying hard to be a cool mom to her tweens. Eve can be contacted at <shoes_fetish@yahoo.co.uk>.
 
 ---
 

@@ -21,6 +21,11 @@ A complimentary Singaporean-style dinner and networking will follow. Seats are l
 >
 >*Registration starts at 6.30pm and the event is free.
 
+### About Mr Lim Boon Heng
+
+Mr Lim Boon Heng was appointed the Chairman of Temasek Holdings on 1 August 2013, after having served as its Director since 1 June 2012.
+
+Mr Lim is the Chairman of NTUC Enterprise Co-operative Ltd. He served as Deputy Chairman of the Singapore Labour Foundation (1997-2019). He was previously a Cabinet Minister within the Prime Minister's Office. Mr Lim's career spans the private and public sectors, having led Singapore's National Trade Union Congress, and having served as a Member of Parliament (1980 to 2011) and Cabinet Minister for Trade and Industry. Before entering the public sector, Mr Lim spent a decade at NOL (Neptune Orient Lines).
 
 ### About the Singapore Speakers Series
 

@@ -72,7 +72,7 @@ That said, the process of building the company was not easy, especially with the
 However, local Singaporean support from partners, press, the government and of course, its pioneer batch of customers, went a long way to helping them scale their business. While the company has grown so big that the Singapore market makes up only 5 per cent of its customer base now, the country will always be home to Secretlab.
 
 ![Image](/images/stories/2020/Jan/sgbrandsgaming6.jpg)
-_Secretlab Games of Thrones Collection (Credit: Secretlab)_
+_Secretlab Game of Thrones Collection (Credit: Secretlab)_
 
 As a brand that prides itself on delivering excellent customer experience, Secretlab's entry into markets with non-native English speakers has seen it put even more effort into building lines of communication. This means taking the different cultures of each country seriously, as well as closely following the different laws and regulations.
 

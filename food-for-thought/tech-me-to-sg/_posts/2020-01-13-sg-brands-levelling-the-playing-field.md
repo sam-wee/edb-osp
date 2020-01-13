@@ -19,6 +19,8 @@ _Jason Ng, VP of Strategic Partnerships at Garena (Credit: Garena)_
 
 At the start of the last decade, despite a growing number of multiplayer online games available internationally, players in Southeast Asia were still getting the short end of the stick. Garena, a portmanteau of “global arena”, started in 2009 with an international vision after realising that gamers in the region were being underserved. For example, games often lacked localisation, available payment methods and suffered high latency levels from servers located outside the region.
 
+To address this, Garena’s initial goal was to create a gaming platform that brought together players and game developers from the region.
+
 “When we started out, most game developers did not spend much time thinking about gamers in Southeast Asia. In fact, developers would commonly maintain their servers at night (US time), which often meant that players in Asia could not play during our daytime!” shared Jason Ng, Vice-President of Strategic Partnerships.
 
 Building on the success of their gaming platform, the company went on to pioneer professional gaming in the region, including the launch of Garena World in 2013, their annual flagship esports tournament.
@@ -30,7 +32,7 @@ _Free Fire World Series 2019 Grand Finals in Rio de Janeiro, Brazil (Credit: Gar
 
 Garena has also expanded into in-house game development with the launch of Free Fire, a mobile battle royale game, in 2017. It now has over 450 million registered users and grossed over $1 billion worldwide as of end Oct 2019, in markets including Latin America, India and Southeast Asia. The finals of the largest global Free Fire tournament, Free Fire World Series 2019, was held in Rio de Janeiro, Brazil, and had more than 2 million concurrent online viewers – a new world record for mobile esports events. Free Fire was also the most downloaded mobile game of 2019 across iOS and Android, according to App Annie. 
 
-> “Garena has grown to be the leading online games developer and publisher in Southeast Asia, Taiwan, and Latin America and we continue to expand into other fast-growing markets globally,” revealed Ng.
+“Garena has grown to be the leading online games developer and publisher in Southeast Asia, Taiwan, and Latin America and we continue to expand into other fast-growing markets globally,” revealed Ng.
 
 This success did not come easy, and it was the decisions Garena made early on which set the standard for the years to come.
 

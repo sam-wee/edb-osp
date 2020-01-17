@@ -67,10 +67,6 @@ Here are the results – and I’m not shy to say these are insanely good! I’v
 8.	Bake each batch of cookies for 25 minutes until lightly golden on top. Allow cookies to cool completely before eating.
 ![Image](/images/stories/2020/Jan/cny-argentina-felicia-7.png)
 
-#### Felicia Lim
+### About the Author
 
-![Image](/images/stories/2020/Jan/cny-argentina-felicia-8.png)
-
-Felicia Lim is a Singaporean who moved to Argentina for love. Based in Buenos Aires, also known as “the Paris of South America”, she fills her days with freelance writing, recipe development, food photography, and portrait sessions –passions that give her endless joy. When she isn’t typing away at her computer, cooking in the kitchen, or shooting behind her camera, you can probably find her curled up on the couch, lost in the pages of a good book. 
-
-Felicia is also the author of the food blog Dish by Dish (http://dishbydish.net), where personal stories intertwine with simple, healthy recipes. Drop by her blog and say hello, preferably with a cookie in one hand and a steeping mug of tea in the other! You can also follow on her portrait adventures on her photography website (http://felicialimphotography.com)
+![Image](/images/stories/2020/Jan/cny-argentina-felicia-bio.jpg)

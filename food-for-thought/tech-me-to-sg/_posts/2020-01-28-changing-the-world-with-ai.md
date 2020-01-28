@@ -83,4 +83,4 @@ For those planning to join the AI industry, Dr Tan’s advice is to just get sta
 
 “I feel like a kid in a candy store – it’s a fantastic time to be a scientist and engineer.”
 
-If you are interested in connecting with Dr Tan, please drop us an email today. 
+_If you are interested in connecting with Dr Tan, please drop us an email today._ 

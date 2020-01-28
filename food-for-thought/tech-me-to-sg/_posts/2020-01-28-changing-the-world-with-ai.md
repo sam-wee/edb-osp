@@ -71,7 +71,7 @@ While there is no way of truly knowing what AI is capable of in the years to com
 3.	Low-power hardware – allowing neural networks to be incorporated into a wider range of devices, making them still capable of intelligent behavior while untethered from the cloud.
 
 ![Image](/images/stories/2020/Jan/drtankarhan5.png)
-_Dr Tan and NCS team presenting home-breweda concierge robot, Kompass, at the official opening of Changi General Hospital’s new medical centre_
+_Dr Tan and NCS team presenting home-brewed concierge robot, Kompass, at the official opening of Changi General Hospital’s new medical centre_
 
 Dr Tan is naturally also optimistic about the future of AI in Singapore, especially for those planning to make it a career.
 

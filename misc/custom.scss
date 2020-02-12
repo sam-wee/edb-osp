@@ -52,7 +52,7 @@ $desktop: 960px + (2 * $gap) !default;
   	&-2 {
   		background-color: $media-color-two;
   		&:hover {
-  			background-color: darken($media-color-two, 10%);
+  			background-color: lighten($media-color-two, 20%);
 		}
   	}
   	&-3 {

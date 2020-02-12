@@ -3,7 +3,7 @@ layout: homepage
 title: Singapore Global Network
 <!--description: Brief site description here-->
 favicon: /images/favicon-globe.ico
-image: /images/sgn-logo.svg
+image: /images/sgn-official-logo.svg
 permalink: /
 notification: The Overseas Singaporean Unit has become a part of the Singapore Global Network. Our site is currently in beta mode. Stay tuned for our official launch in 2020!
 sections:

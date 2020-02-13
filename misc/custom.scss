@@ -5,17 +5,17 @@
 @charset "utf-8";
 
 // HLB brand colors
-//Primary - Mustard; Secondary - Red
-$primary:  #EAAC47;
+//Primary - Dark Grey; Secondary - Red
+$primary:  #100E13;
 $secondary: #EA1B17;
 $secondary-hover: lighten($secondary, 20%);
 
-//One - Red; Two - Mustard; Three - Navy; Four - Coral; Five - Turqoise
+//One - Red; Two - Dark Grey; Three - Red; Four - Blue; Five - Navy
 $media-color-one: #EA1B17;
-$media-color-two: #EAAC47;
-$media-color-three: #0F3170;
-$media-color-four: #EA7A6E;
-$media-color-five: #AAEBF9;
+$media-color-two: #100E13;
+$media-color-three: #EA1B17;
+$media-color-four: #020EC3;
+$media-color-five: #004991;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -52,7 +52,7 @@ $desktop: 960px + (2 * $gap) !default;
   	&-2 {
   		background-color: $media-color-two;
   		&:hover {
-  			background-color: darken($media-color-two, 10%);
+  			background-color: lighten($media-color-two, 10%);
 		}
   	}
   	&-3 {
@@ -230,7 +230,7 @@ $desktop: 960px + (2 * $gap) !default;
 			border-top:1px solid darken($primary,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: lighten($primary,10%);
 		}
 	}
 }

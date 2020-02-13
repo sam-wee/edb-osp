@@ -9,5 +9,5 @@ permalink: /keep-in-touch/
 
 <figure class="video_container">
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/5da53497e397fc0013f6d4b0" style="width:80%;height:500px"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/5da53497e397fc0013f6d4b0" style="width:100%;height:500px"></iframe>
 </figure>

@@ -14,12 +14,12 @@ _First 1,000 sign ups to become a member of the Singapore Global Network (SGN) w
 
 This offer (the “Offer”) is organised by the Singapore Global Network (the “Organiser”).
 
-1. The Offer period begins 19 February 2020 and closes on 23:59 on 31 March 2020.
+1. The Offer period begins **19 February 2020** and closes on **23:59 on 31 March 2020**.
 
 2. To be eligible to receive the SGN EZ-link card, the individual must:
-- Be registered as a member of Singapore Global Network via [https://go.gov.sg/sgnemail]
-- Complete all form fields on [https://go.gov.sg/sgnemail]
-- Indicate “Yes, of course!” for question 8 on [https://go.gov.sg/sgnemail]
+- Be registered as a member of Singapore Global Network via (https://go.gov.sg/sgnemail)
+- Complete all form fields on (https://go.gov.sg/sgnemail)
+- Indicate “Yes, of course!” for question 8 on (https://go.gov.sg/sgnemail)
 - Agree to be bound by these Terms and Conditions and to abide by the decisions of the Organiser. The decisions of the Organiser in all matters relating to the Offer shall be final.
 
 3.    Individuals are responsible for ensuring that all information provided during registration is correct.

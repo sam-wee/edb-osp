@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SGN Ez-link Card Terms and Conditions"
+title: "SGN EZ-link Card Terms and Conditions"
 permalink: /food-for-thought/from-the-community/sgn-ezlink-terms-and-conditions
 ---
 

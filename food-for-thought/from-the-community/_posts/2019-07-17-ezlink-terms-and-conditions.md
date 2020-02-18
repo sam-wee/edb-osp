@@ -8,7 +8,7 @@ permalink: /food-for-thought/from-the-community/sgn-ezlink-terms-and-conditions
 
 # Terms and Conditions
 
-_First 1,000 sign ups to become a member of the Singapore Global Network (SGN) will receive an exclusively designed, customisable SGN EZ-link card!_
+**_First 1,000 sign ups to become a member of the Singapore Global Network (SGN) will receive an exclusively designed, customisable SGN EZ-link card!_**
 
 This offer (the “Offer”) is organised by the Singapore Global Network (the “Organiser”).
 

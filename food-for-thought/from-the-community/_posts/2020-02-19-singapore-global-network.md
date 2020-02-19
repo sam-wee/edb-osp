@@ -64,4 +64,4 @@ Jasmin, who took over the remit in June 2019, has been travelling at least once 
 
 “Many people overlook the value of relationships, or forget about them in our daily rush. But to us at the Singapore Global Network, relationships will form the foundation of our work and we want to make sure that we sustain and grow them with our family and friends around the world. On a personal level, some of the new friendships I have made have definitely been one of the “perks” of this job, and I feel immensely proud of what Singaporeans and our friends of Singapore are doing all over the world!”
 
-**Want to become a part of our network to remain in the know about all things Singapore or to stay connected with Singapore? - [Fill up this form today!](https://www.singaporeglobalnetwork.com/keep-in-touch/) 
+**Want to become a part of our network to remain in the know about all things Singapore or to stay connected with Singapore? - [Fill up this form today!](https://www.singaporeglobalnetwork.com/keep-in-touch/)**

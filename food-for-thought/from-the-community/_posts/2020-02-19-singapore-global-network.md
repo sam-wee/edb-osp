@@ -31,7 +31,7 @@ Another highlight is our Singapore Day celebrations, which first began in 2007. 
 
 ![Image](/images/stories/2020/Feb/sgn4.jpg)
 _Over 5,000 Singaporeans turned up at Peninsula Quays for one of the biggest Singaporean reunions, on Singapore Day, in London, UK, on 24 March 2018_
- 
+
 The OSU has moved into the Economic Development Board (EDB) since June 2019, and is now part of a new and larger Singapore Global Network team. 
 
 While Singaporeans continue to be at the heart of our work, the Singapore Global Network’s (SGN) mission is to broaden and deepen Singapore’s network of family, friends and fans around the world.  Members will now be able to benefit from a wider array of professional networking opportunities and global connections.  

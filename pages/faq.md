@@ -38,11 +38,11 @@ Sign up as a SGN member to receive invitations to exclusive events near you at [
 
 ### What are the social media platforms for SGN?
 
-Linkedin: [https://www.linkedin.com/company/SingaporeGlobalNetwork](https://www.linkedin.com/company/SingaporeGlobalNetwork)
+LinkedIn: [https://www.linkedin.com/company/SingaporeGlobalNetwork](https://www.linkedin.com/company/SingaporeGlobalNetwork)
 
 Facebook: [https://www.fb.com/SingaporeGlobalNetwork](https://www.fb.com/SingaporeGlobalNetwork) 
 
-Youtube:  [https://www.fb.com/SingaporeGlobalNetwork](https://www.youtube.com/SingaporeGlobalNetwork) 
+Youtube:  [https://www.youtube.com/SingaporeGlobalNetwork](https://www.youtube.com/SingaporeGlobalNetwork) 
 
 Wechat ID: SGGlobalNetwork
 

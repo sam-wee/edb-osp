@@ -35,7 +35,9 @@ Sign up as a SGN member to receive invitations to exclusive events near you at [
 
 Linkedin: [https://www.linkedin.com/company/SingaporeGlobalNetwork](https://www.linkedin.com/company/SingaporeGlobalNetwork)
 
-Facebook: [http://www.fb.com/SingaporeGlobalNetwork](http://www.fb.com/SingaporeGlobalNetwork) 
+Facebook: [https://www.fb.com/SingaporeGlobalNetwork](http://www.fb.com/SingaporeGlobalNetwork) 
+
+Youtube:  [https://www.fb.com/SingaporeGlobalNetwork](https://www.youtube.com/SingaporeGlobalNetwork) 
 
 Wechat ID: SGGlobalNetwork
 

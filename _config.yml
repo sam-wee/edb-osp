@@ -8,6 +8,8 @@ collections:
     output: true
   events:
     output: true
+  aboutus:
+    output: true
 resources_name: food-for-thought
 
 ##################################################################################################################

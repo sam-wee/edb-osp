@@ -39,5 +39,5 @@ Facebook: [http://www.fb.com/SingaporeGlobalNetwork](http://www.fb.com/Singapore
 
 Wechat ID: SGGlobalNetwork
 
-## How can I contact SGN?
+### How can I contact SGN?
 Please email us at hello@singaporeglobalnetwork.com.

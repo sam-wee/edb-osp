@@ -47,7 +47,7 @@ We see our family and friends of Singapore go through life journeys where they m
 ### New logo
 In case it isn’t immediately obvious, our new logo has an infinity loop carrying the Singapore Brand logo (SG)! This represents our goal to connect Singapore with the world, and our belief that these connections and networks will bring infinite possibilities. 
 
-![Image](/images/stories/2020/Feb/sgnlogo-small.jpg)
+![Image](/images/stories/2020/Feb/sgnlogo.png)
 
 When you connect with us as a member of the network, you will not just get access to new social communities but also new professional networks as well. Our team will be bringing updates on economic developments in Singapore to the rest of the world (digitally and physically!), so that our family and friends all over the world can have access to market insights, guides and information on business and career-related opportunities in Singapore and the region. 
 

@@ -9,7 +9,7 @@ favicon: /images/favicon-globe.ico
 
 links:
   - title: About us
-    collection: aboutus
+    url: /about-us/
   - title: Things to do
     collection: events
   - title: Food for thought

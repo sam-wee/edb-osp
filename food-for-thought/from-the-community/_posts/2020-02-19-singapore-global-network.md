@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new home for Singaporeans, friends and fans: Singapore Global Network
+title: "A new home for Singaporeans, friends and fans: Singapore Global Network"
 permalink: /food-for-thought/from-the-community/singapore-global-network
 ---
 

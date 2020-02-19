@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /faq/
+permalink: /aboutus/faq/
 ---
 
 ## **FAQ**
@@ -22,7 +22,6 @@ For members who previously subscribed to Overseas Singaporean Unit’s e-newslet
 ### Why do I need to sign up again, if I am already on the Overseas Singaporean Unit (OSU)'s mailing list?
 
 Due to data and privacy regulations, members of the previous OSU mailing list who do not re-subscribe with SGN, will no longer be able to receive news, updates and event invitations from us after April 2020.
-
 
 ### As an individual, what can I look forward to by connecting with SGN?
 

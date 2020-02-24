@@ -42,6 +42,8 @@ LinkedIn: [https://www.linkedin.com/company/SingaporeGlobalNetwork](https://www.
 
 Facebook: [https://www.fb.com/SingaporeGlobalNetwork](https://www.fb.com/SingaporeGlobalNetwork) 
 
+Instagram: [https://www.instagram.com/singaporeglobalnetwork](https://www.instagram.com/singaporeglobalnetwork/) 
+
 Youtube:  [https://www.youtube.com/SingaporeGlobalNetwork](https://www.youtube.com/SingaporeGlobalNetwork) 
 
 Wechat ID: SGGlobalNetwork

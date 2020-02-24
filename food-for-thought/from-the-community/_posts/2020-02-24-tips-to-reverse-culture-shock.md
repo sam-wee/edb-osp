@@ -17,7 +17,7 @@ However, unless you are planning to live abroad for good, you’ll eventually ne
 
 We asked Neha Thakkar, Eric Lim, Kelly Loy and Abigail Han, four Singaporeans who have spent years abroad to share tips on successfully navigating their transition back home.
 
-### 1. Bone up on your local knowledge
+### 1) Bone up on your local knowledge
 
 Prior to planning your shift back home, Eric advises you to reach out to friends and family in Singapore to get a feel of what has been happening at home. 
 
@@ -26,7 +26,7 @@ _While it’s tough, Eric (above) encourages you to find ways to re-establish or
 
 “Singapore is constantly changing and at a very fast pace, so what we know as Singapore so many years ago is likely not the same Singapore we will be coming back to,” notes Eric, who has previously been based in the US as well as countries across the Asia Pacific region. “Our local knowledge needs updating so we can make the most optimal decisions for our personal and professional needs.”
 
-### 2. 2)	Start planning as soon as possible
+### 2)	Start planning as soon as possible
 
 Moving back to Singapore, following an extended stay can be a complicated process which includes many administrative components such as closing bank accounts or terminating one’s employment pass. As such, Eric shares the importance of an early start to give yourself time to explore a broad range of options and identify areas where you may need advice or help.
 

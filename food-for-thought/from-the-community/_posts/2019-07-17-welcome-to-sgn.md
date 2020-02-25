@@ -17,7 +17,7 @@ As a member of our fast-growing SGN community, you can look forward to:
 
 - Stay connected with what's happening in Singapore and be updated on key news and developments that matter to you, from wherever you are.
 
-**Want to become a part of our network to remain in the know about all things Singapore? - [Fill up this form today!](https://form.gov.sg/5e54d7c7f64a660011675e5a)**
+**Click [here to sign up](https://form.gov.sg/5e54d7c7f64a660011675e5a) and become a part of our network.**
 
 #### We Have A New Logo!
 

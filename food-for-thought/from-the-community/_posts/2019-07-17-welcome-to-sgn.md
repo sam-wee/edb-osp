@@ -21,7 +21,7 @@ As a member of our fast-growing SGN community, you can look forward to:
 
 #### We Have A New Logo!
 
-New beginnings beget new changes. We are debuting a refreshed brand logo that aims to reflect what the network will represent in the years to come. What does the refreshed Singapore Global Network logo represent? What the video to find out.
+New beginnings beget new changes. We are debuting a refreshed brand logo that aims to reflect what the network will represent in the years to come. What does the refreshed Singapore Global Network logo represent? Watch the video to find out.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m3_lvN3nJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

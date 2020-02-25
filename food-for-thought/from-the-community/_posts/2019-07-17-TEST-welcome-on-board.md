@@ -19,9 +19,15 @@ As a member of our fast growing SGN community, you can look forward to
 
 #### We Have A New Logo!
 
+New beginnings beget new changes. We are debuting a refreshed brand logo that aims to reflect what the network will represent in the years to come. What does the refreshed Singapore Global Network logo represent? What the video to find out.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m3_lvN3nJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### Connect with us by filling up the form below.
+#### Exclusive: Get your limited edition EZ-link card now!
+
+As a special giveaway* for past members of the Overseas Singaporean Unit, we are offering the first 2,000 members who register through the form below with SGN, an exclusively designed, customisable EZ-link card and sticker set. Sign up to be a part of the Singapore Global Network today - don't say bojio!
+
+![Image](/images/stories/2019/sgnezlink2020.png)
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5e54d7c7f64a660011675e5a">here</a>.</div>
 

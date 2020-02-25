@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome on Board"
-permalink: /food-for-thought/from-the-community/sgn-welcome-on-board
+title: "Welcome To Singapore Global Network"
+permalink: /food-for-thought/from-the-community/welcome-to-sgn
 ---
 2020 marks the start of a new decade and an exciting new beginning for us. In June 2019, the Overseas Singaporean Unit (OSU) became a part of the Singapore Global Network (SGN) – a newly established unit looking to cultivate a global network of family, friends and fans of Singapore.
 
@@ -16,6 +16,8 @@ As a member of our fast-growing SGN community, you can look forward to:
 - Gain access to useful resources such as market insights, guides and information on business and career-related opportunities in Singapore and the region.
 
 - Stay connected with what's happening in Singapore and be updated on key news and developments that matter to you, from wherever you are.
+
+**Want to become a part of our network to remain in the know about all things Singapore? - [Fill up this form today!](https://form.gov.sg/5e54d7c7f64a660011675e5a)**
 
 #### We Have A New Logo!
 

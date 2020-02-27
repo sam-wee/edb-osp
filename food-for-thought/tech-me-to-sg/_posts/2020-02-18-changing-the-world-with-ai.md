@@ -17,9 +17,9 @@ It has been more than twenty years since Dr Tan Kar Han left Singapore for gradu
 Undeterred, Kar-Han pressed on, and has since remained at the forefront of AI development. For the past two decades, he’s led teams to invent new applications for AI with the likes of Mitsubishi Electric, Epson, HP and AI chip startup Novumind. 
 
 ![Image](/images/stories/2020/Feb/drtankarhan1.png)
-_Dr Tan giving an invited talk at the Capital University of Physical Education and Sports in Beijing as part of a discussion on an AI research program for the new Beijing International Olympic Studies Institute_
+_Dr Tan giving a talk at the Capital University of Physical Education and Sports in Beijing as part of a discussion on an AI research program for the new Beijing International Olympic Studies Institute_
 
-He was most recently tasked to build and lead a new R&D division at Singtel where its sole purpose was to create “world-changing products”.
+Between 2017–2019, he returned home to build and lead a new R&D division at Singtel where its sole purpose was to create “world-changing products”.
 
 One of his many projects was to bring the Marina Bay Cruise Centre into the future with a comprehensive suite of products, including using video analytics to monitor queueing times at key checkpoints as well as helping law enforcement identify unauthorised taxi drivers.
 
@@ -71,7 +71,7 @@ While there is no way of truly knowing what AI is capable of in the years to com
 3.	Low-power hardware – allowing neural networks to be incorporated into a wider range of devices, making them still capable of intelligent behavior while untethered from the cloud.
 
 ![Image](/images/stories/2020/Feb/drtankarhan5.png)
-_Dr Tan and NCS team presenting home-brewed concierge robot, Kompass, at the official opening of Changi General Hospital’s new medical centre_
+_Dr Tan and NCS team presenting home-brewed concierge robot "Kompass", at the official opening of Changi General Hospital’s new medical centre_
 
 Dr Tan is naturally also optimistic about the future of AI in Singapore, especially for those planning to make it a career.
 

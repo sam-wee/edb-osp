@@ -16,10 +16,10 @@ _Donning a harness before jumping from a height of 18,000ft for the first time!_
 
 If you had been to one of our recent events in the Bay area, you might have met Josie, a student at Nanyang Technological University (NTU)'s Wee Kim Wee School of Communication and Information. She is part of the Overseas Entrepreneurship Programme by NTU, where she is on a 1-year internship at Nona Lim in Oakland. Her responsibilities include email marketing, website maintenance, and online orders. Back home, Josie lives in Joo Chiat Place with her parents and siblings.
 
-We speak to her to find out more! .
+We speak to her to find out more!
 
 ![Image](/images/stories/2020/Mar/josiekiew2.png)
-_My family and I (middle) at Horseshoe Bent. It was difficult to take a photo together with all our eyes open, but we made it in this one!_
+_My family and I (middle) at Horseshoe Bend. It was difficult to take a photo together with all our eyes open, but we made it in this one!_
 
 #### What is your favourite place in the Bay Area?
 
@@ -27,7 +27,7 @@ Definitely Bay Street Emeryville which is a beautiful open street mall! It’s v
 
 #### What is your favourite food in the Bay Area?
 
-I like SuperDuper burgers, and there are only a few outlets here in the Bay Area. The burgers are always so juicy, and their homemade pickles are mind-bogglingly delicious. I’ve never been the biggest fan of pickles, but this changed my mind. I guess I have learnt thatyou have to be open about things, and trying something new is enough to make you love morethings in life!
+I like SuperDuper burgers, and there are only a few outlets here in the Bay Area. The burgers are always so juicy, and their homemade pickles are mind-bogglingly delicious. I’ve never been the biggest fan of pickles, but this changed my mind. I guess I have learnt thatyou have to be open about things, and trying something new is enough to make you love more things in life!
 
 #### What is the most exciting part of your job?
 
@@ -35,7 +35,7 @@ As an intern, you always worry about not doing enough. Working at Nona Lim is gr
 
 ##### What do you miss most about Singapore?
 
-I miss the convenience of readily available food! Whenever you are hungry, there’s usually a coffee shop and a hawker centre nearby. And there is so much variety - from Chinese to Indian, to Western. And chilli, I really miss chili! Back home, there’s a type of chili for every dish, one for chicken rice, Nasi Lemak, and even wan tan mee. Eating wan tan mee or nasi lemak here is just not the same without the chili :( 
+I miss the convenience of readily available food! Whenever you are hungry, there’s usually a coffee shop and a hawker centre nearby. And there is so much variety - from Chinese to Indian, to Western. And chilli, I really miss chilli! Back home, there’s a type of chilli for every dish, one for chicken rice, Nasi Lemak, and even wan tan mee. Eating wan tan mee or nasi lemak here is just not the same without the chilli :( 
 
 #### Tell us one fun fact about yourself!
 

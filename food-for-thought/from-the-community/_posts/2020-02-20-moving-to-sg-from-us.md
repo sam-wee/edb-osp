@@ -53,7 +53,7 @@ How much might you need to live in Singapore? This number depends on your lifest
 
 Make sure to also check out our [2020 Guide to Living in Singapore](https://www.edb.gov.sg/en/resources/2020-guide-to-living-in-singapore.html). For instance, how much does a meal at McDonalds in Singapore cost compared with other countries around the world? Or how does a bottle of imported beer cost? 
 
-![Image](/images/stories/2019/relocation2.png)
+![Image](/images/stories/2020/Mar/relocation2.png)
 
 ### 4. Housing: Where should I live?
 

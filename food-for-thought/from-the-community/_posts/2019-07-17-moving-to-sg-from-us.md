@@ -114,7 +114,7 @@ Singapore citizens are not allowed to attend international schools unless they h
 
 International students who wish to seek admission to Singapore’s mainstream primary schools, secondary schools and junior colleges are advised to go through the [International Students Admissions process](https://www.moe.gov.sg/admissions/international-students). 
 
-#### This list is by no means exhaustive. There are a myriad of other complex issues such as immigration and taxes but as these are unique to each individual, it is best to speak to experts who can provide tailored advice.
+**This list is by no means exhaustive. There are a myriad of other complex issues such as immigration and taxes but as these are unique to each individual, it is best to speak to experts who can provide tailored advice.**
 
 If you have more questions, please contact:
 -	David Ho, SGN Regional Director for West Coast (david_ho@edb.gov.sg)

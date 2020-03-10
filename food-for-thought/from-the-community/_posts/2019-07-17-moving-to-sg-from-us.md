@@ -74,11 +74,11 @@ Some of the websites which you can use to buy, rent or sell property include:
 -	[iProperty](https://www.iproperty.com.sg/): A popular search portal across Asia for private and commercial properties. The site also provides a blog and guides
 -	Something else to consider when you're purchasing a house is Additional Buyer’s Stamp Duty. ABSD generally applies only if you have more than one property in Singapore. This guide provides [a breakdown of the different tax rates](https://www.iras.gov.sg/irashome/Other-Taxes/Stamp-Duty-for-Property/Working-out-your-Stamp-Duty/Buying-or-Acquiring-Property/What-is-the-Duty-that-I-Need-to-Pay-as-a-Buyer-or-Transferee-of-Residential-Property/Additional-Buyer-s-Stamp-Duty--ABSD-/)
 
-###### Additional information for Singaporeans
+##### Additional information for Singaporeans
 -	[HDB portal](https://www.hdb.gov.sg/): There are different eligibility conditions when you purchase a new HDB flat or an executive condominium. There are also different schemes to help buyers, especially first-timers. You can check all the eligibility details [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility&rendermode=preview)
 -	If you’re using your [Central Provident Fund to finance your purchase](https://www.cpf.gov.sg/members/News/news-categories-info/cpf-related-announcements/2373) this might be a useful site
 
-###### Short-term options
+##### Short-term options
 If you decide you don’t want to rush into the decision, there are many short-term options available. 
 -	Airbnb is thriving in Singapore. Peruse a wide range of properties [here](https://www.airbnb.com.sg/s/Singapore)
 -	Singapore also has a wide range of hotels and serviced apartments that cater to every budget. Many of the hotel chains have their own version of serviced apartments. [Some examples can be found on this expedia page](https://www.expedia.com.sg/Singapore-Serviced-Apartments.d180027-aaServicedApartments.Travel-Guide-Accommodation)

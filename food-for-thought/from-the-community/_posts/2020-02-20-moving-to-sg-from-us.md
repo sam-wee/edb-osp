@@ -6,6 +6,8 @@ permalink: /food-for-thought/from-the-community/moving-to-sg-from-us
 
 ### Moving to Singapore from the US?  6 things you need to know!
 
+![Image](/images/stories/2020/Mar/relocation1-edit.png)
+
 _So, you’re thinking of relocating/moving back to Singapore. Whether it’s because of personal reasons or career opportunities, we have prepared this list to address the 6 important things you need to know before you start packing your bags!_
 
 By SGN

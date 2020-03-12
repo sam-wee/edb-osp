@@ -5,7 +5,7 @@ title: Singapore Global Network
 favicon: /images/favicon-globe.ico
 image: /images/SGN Official Logo.png
 permalink: /
-notification: Our site is currently in beta mode, stay tuned for more! For updates on COVID-19 in SG, please visit here: [www.gov.sg/features/covid-19]
+notification: Our site is currently in beta mode, stay tuned for more! For updates on COVID-19 in SG, please visit www.gov.sg/features/covid-19
 sections:
     - hero:
         title: Singapore Global Network

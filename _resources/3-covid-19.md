@@ -7,7 +7,7 @@ permalink: /resources/covid-19/
 * [2) China reports all-time low for new confirmed cases](#china-low-cases)
 * [3) Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
-### <a id="italy-lockdown"></a>	All of Italy to be placed on lockdown, says PM
+#### <a id="italy-lockdown"></a>	All of Italy to be placed on lockdown, says PM
 
 ![Image](/images/covid-19/italy-lockdown.png)
 (Photo credit: Miguel MEDINA/AFP)
@@ -20,7 +20,7 @@ The national restriction will run until 3 April, and all schools and universitie
 
 To read the full articles, please visit: [https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
 
-### <a id="china-low-cases"></a>	China reports all-time low for new confirmed cases
+#### <a id="china-low-cases"></a>	China reports all-time low for new confirmed cases
 
 ![Image](/images/covid-19/china-lowcases.png)
 (Photo credit: REUTERS/Thomas Peter/Files)
@@ -33,7 +33,7 @@ Shanghai has stepped up airport screening over from 7 March as imported infectio
 
 To read the full articles, please visit: [https://www.channelnewsasia.com/news/asia/coronavirus-covid-19-china-cases-deaths-12520660](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
 
-### <a id="sg-united"></a> Power in unity: Singapore’s battle against Covid-19
+#### <a id="sg-united"></a> Power in unity: Singapore’s battle against Covid-19
 
 Singapore has been effectively curbing the Covid-19 outbreak from assimilating further into the community – but what goes on behind the scenes? See how the unification of efforts among Singapore has strengthened the nation in its battle against Covid-19:
 

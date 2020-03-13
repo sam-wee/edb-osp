@@ -13,7 +13,6 @@ Please do not listen to or spread rumours and untrue reports — there is a lot 
 * [All of Italy to be placed on lockdown, says PM](#italy-lockdown)
 * [China reports all-time low for new confirmed cases](#china-low-cases)
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
-
 <hr>
 
 #### <a id="pm-lee-speech"></a> Situation in Singapore remains under control, says PM Lee

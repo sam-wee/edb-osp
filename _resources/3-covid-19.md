@@ -18,7 +18,7 @@ Announced in an evening television address, PM Conte elaborates that “the whol
 
 The national restriction will run until 3 April, and all schools and universities will immediately close. Travel in and out of the country, as well as movement between cities, will be restricted.
 
-To read the full articles, please visit: (https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
+To read the full articles, please visit: [https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
 
 ### <a id="china-low-cases"></a>	China reports all-time low for new confirmed cases
 
@@ -37,5 +37,5 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To read the full articles, please visit: (https://www.channelnewsasia.com/news/asia/coronavirus-covid-19-china-cases-deaths-12520660)
+To read the full articles, please visit: [https://www.channelnewsasia.com/news/asia/coronavirus-covid-19-china-cases-deaths-12520660](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
 

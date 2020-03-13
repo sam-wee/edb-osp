@@ -31,11 +31,10 @@ While the domestic spread has significantly slowed, Chinese authorities continue
 
 Shanghai has stepped up airport screening over from 7 March as imported infections from countries such as Italy and Iran emerged as the biggest source of imported cases in the country. China is also conscious of the tens of millions of migrant workers returning to offices, malls and factories and the potential transmission risks.
 
+To read the full articles, please visit: [https://www.channelnewsasia.com/news/asia/coronavirus-covid-19-china-cases-deaths-12520660](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
+
 ### <a id="sg-united"></a> Power in unity: Singapore’s battle against Covid-19
 
 Singapore has been effectively curbing the Covid-19 outbreak from assimilating further into the community – but what goes on behind the scenes? See how the unification of efforts among Singapore has strengthened the nation in its battle against Covid-19:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-To read the full articles, please visit: [https://www.channelnewsasia.com/news/asia/coronavirus-covid-19-china-cases-deaths-12520660](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
-

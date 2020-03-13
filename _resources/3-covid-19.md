@@ -3,7 +3,7 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are, and if necessary, do contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). We will keep this page updated on important updates on the COVID situation in Singapore.
+In light of the COVID-19 situation, please stay safe wherever you are, and if necessary, do contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). We will keep this page updated on important developments on the COVID situation in Singapore.
 
 Please do not listen to or spread rumours and untrue reports — there is a lot of that circulating around on social media. Sharing news responsibly is an important way we can protect ourselves. For the latest updates on the current situation in Singapore, you can visit [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our Ministry of Health website [www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19).
 

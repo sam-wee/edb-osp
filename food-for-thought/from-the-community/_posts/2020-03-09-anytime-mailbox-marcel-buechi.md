@@ -42,7 +42,7 @@ But over time, Marcel learnt that isn’t the case, with many locals and expats 
 ![Image](/images/stories/2020/Mar/marcelbuechi3.png)
 _Marcel took his daughter, Robyn (right), aged 4, on a trip to Pulau Ubin where they rented a bike and cruised around the island._
 
-“In my view, there is simply no better place to live with a family and raise a toddler in Singapore,” points out Marcel who has a daughter — Robyn, 4. 
+“In my view, there is simply no better place to live with a family and raise a toddler than Singapore,” points out Marcel who has a daughter — Robyn, 4. 
 
 #### A Singaporean son at heart
 

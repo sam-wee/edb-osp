@@ -3,13 +3,14 @@ title: Singapore Speakers Series in London (7 Feb)
 permalink: /events/sss-in-ldn-feb2020/
 third_nav_title: February 2020
 ---
-The Singapore Speakers Series featuring Mr Lim Boon Heng, Chairman of Temasek Holdings, is coming to London in February 2020!
 
-Join us for an exclusive evening with Mr Lim who will talk about Singapore's plans to succeed in an uncertain external environment marked by global trade tensions and slowing growth. Against this challenging backdrop looms the threat of climate change. Mr Lim will share insights on how Singapore intends to address this and what companies like Temasek are doing to achieve a better and more sustainable world for this and future generations.
+On 7 Feb, we had the pleasure of hosting Chairman of Temasek Holdings, Mr Lim Boon Heng at our Singapore Speakers Series event in London.
 
-A complimentary Singaporean-style dinner and networking will follow.
+It was a really insightful session as he spoke about reinvention and new projects being built in Singapore, a necessity for us to remain competitive in today’s world of slowing growth and rising cost of living.
 
-REGISTRATION IS NOW CLOSED.
+He also shared about people being at the centre of the country, and how companies that Temasek invests in are reskilling instead of retrenching their workers and how we need to find passion for life-long learning. 
+
+Were you at the event? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 
 ### About Mr Lim Boon Heng
 

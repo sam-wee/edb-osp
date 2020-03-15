@@ -14,6 +14,9 @@ sections:
         button: Keep in Touch
         url: /keep-in-touch/
         key_highlights:
+            - title: COVID-19
+              description: Stay safe and informed
+              url: /resources/covid-19/
             - title: Things to do
               description: Events to connect
               url: /events/sss-in-ny-nov2019/
@@ -23,9 +26,6 @@ sections:
             - title: Resources
               description: Be in the know
               url: /resources/useful-links/
-            - title: COVID-19
-              description: Stay safe and informed
-              url: /resources/covid-19/
     - resources:
         title: Food for Thought
         subtitle: Stories that invoke, provoke and evoke

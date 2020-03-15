@@ -23,6 +23,9 @@ sections:
             - title: Resources
               description: Be in the know
               url: /resources/useful-links/
+              -title: COVID-19
+               description: Stay safe and informed
+               url: /resources/covid-19/
     - resources:
         title: Food for Thought
         subtitle: Stories that invoke, provoke and evoke

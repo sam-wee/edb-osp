@@ -6,7 +6,7 @@ third_nav_title: February 2020
 
 ![Image](/images/events/SSS/2020-london/london1.jpeg)
 
-In February, we had the pleasure of hosting the Chairman of Temasek Holdings, Mr Lim Boon Heng, in London where he spoke about lessons that can be learnt and applied in our health sector, about reinvention and rejuvenation in Singapore with projects like Jewel in Changi Airport and the Greater Southern Waterfront. 
+On 7 Feb, we had the pleasure of hosting the Chairman of Temasek Holdings, Mr Lim Boon Heng, in London where he spoke about lessons that can be learnt and applied in our health sector, about reinvention and rejuvenation in Singapore with projects like Jewel in Changi Airport and the Greater Southern Waterfront. 
 
 ![Image](/images/events/SSS/2020-london/london2.jpeg)
 

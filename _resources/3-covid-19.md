@@ -32,9 +32,7 @@ Read the full article [here](https://www.channelnewsasia.com/news/singapore/coro
 In an interview on CNBC on 11 March, Foreign Minister Vivian Balakrishnan shared that the approach the Singapore government is taking is to be organised and prepared for the long haul. He also spoke about how Covid-19 and its economic aftermath is going to last "at least a year, which means anything we do needs to be sustainable and sensible for the long term".
 
 ![Image](/images/covid-19/fm-vb-interview.png)
-_(Credit: SCREENGRAB FROM CNBC)_
-
-You can watch the interview [here](https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/655285165229616/)
+You can watch the interview [here](https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/655285165229616/) _(Credit: Screengrab from CNBC)_
 
 You can also read the full article [here](https://www.straitstimes.com/singapore/be-prepared-for-the-long-haul-on-covid-19-foreign-minister-vivian-balakrishnan)
 

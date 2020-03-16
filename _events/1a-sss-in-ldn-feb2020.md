@@ -4,9 +4,9 @@ permalink: /events/sss-in-ldn-feb2020/
 third_nav_title: February 2020
 ---
 
-![Image](/images/events/SSS/2020-london/london1.jpeg)
-
 On 7 Feb, we had the pleasure of hosting Chairman of Temasek Holdings, Mr Lim Boon Heng at our Singapore Speakers Series event in London.
+
+![Image](/images/events/SSS/2020-london/london1.jpeg)
 
 It was a really insightful session as he spoke about reinvention and new projects being built in Singapore, a necessity for us to remain competitive in today’s world of slowing growth and rising cost of living.
 
@@ -17,11 +17,11 @@ He also shared about people being at the centre of the country, and how companie
 Were you at the event? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 
 ![Image](/images/events/SSS/2020-london/london3.jpg)
-![Image](/images/events/SSS/2020-london/london5.jpeg)
-![Image](/images/events/SSS/2020-london/london6.jpeg)
-![Image](/images/events/SSS/2020-london/london7.jpeg)
-![Image](/images/events/SSS/2020-london/london8.jpeg)
-![Image](/images/events/SSS/2020-london/london9.jpeg)
+![Image](/images/events/SSS/2020-london/london5.jpg)
+![Image](/images/events/SSS/2020-london/london6.jpg)
+![Image](/images/events/SSS/2020-london/london7.jpg)
+![Image](/images/events/SSS/2020-london/london8.jpg)
+![Image](/images/events/SSS/2020-london/london9.jpg)
 
 ### About Mr Lim Boon Heng
 

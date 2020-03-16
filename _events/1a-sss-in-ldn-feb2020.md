@@ -4,24 +4,27 @@ permalink: /events/sss-in-ldn-feb2020/
 third_nav_title: February 2020
 ---
 
-On 7 Feb, we had the pleasure of hosting Chairman of Temasek Holdings, Mr Lim Boon Heng at our Singapore Speakers Series event in London.
-
 ![Image](/images/events/SSS/2020-london/london1.jpeg)
 
-It was a really insightful session as he spoke about reinvention and new projects being built in Singapore, a necessity for us to remain competitive in today’s world of slowing growth and rising cost of living.
+In February, we had the pleasure of hosting the Chairman of Temasek Holdings, Mr Lim Boon Heng, in London where he spoke about lessons that can be learnt and applied in our health sector, about reinvention and rejuvenation in Singapore with projects like Jewel in Changi Airport and the Greater Southern Waterfront. 
 
-![Image](/images/events/SSS/2020-london/london4.jpg)
+![Image](/images/events/SSS/2020-london/london2.jpg)
 
 He also shared about people being at the centre of the country, and how companies that Temasek invests in are reskilling instead of retrenching their workers and how we need to find passion for life-long learning. 
 
-Were you at the event? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
+We hope everyone enjoyed networking over a Singapore-style buffet that night! Here is a look at what went down:
 
+![Image](/images/events/SSS/2020-london/london4.jpg)
 ![Image](/images/events/SSS/2020-london/london3.jpg)
 ![Image](/images/events/SSS/2020-london/london5.jpg)
 ![Image](/images/events/SSS/2020-london/london6.jpg)
 ![Image](/images/events/SSS/2020-london/london7.jpg)
 ![Image](/images/events/SSS/2020-london/london8.jpg)
 ![Image](/images/events/SSS/2020-london/london9.jpg)
+
+Click [here](https://www.facebook.com/media/set/?set=a.3316705278357591&type=3) for more pictures.
+
+Missed out on this session? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 
 ### About Mr Lim Boon Heng
 

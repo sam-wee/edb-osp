@@ -12,8 +12,6 @@ By SGN
 
 ---
 
-“Why is it so difficult to tell our loved ones that we love them, Eve?”
-
 **An ever-growing pool of job opportunities**
 
 Singapore welcomes all looking to become part of our innovation-driven economy. In fact, the IMDA Annual Survey for Infocomm Media Manpower projected a demand for over 28,500 infocomm professionals from 2018 to 2020! If you are interested or skilled in the areas of Artificial Intelligence, Data Science, Cybersecurity and FinTech, you’re bound for success.

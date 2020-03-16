@@ -12,17 +12,17 @@ In February, we had the pleasure of hosting the Chairman of Temasek Holdings, Mr
 
 He also shared about people being at the centre of the country, and how companies that Temasek invests in are reskilling instead of retrenching their workers and how we need to find passion for life-long learning. 
 
-We hope everyone enjoyed networking over a Singapore-style buffet that night! Here is a look at what went down:
+We hope everyone enjoyed networking over a Singapore-style buffet that night! Here is a quick look at how the event went:
 
-![Image](/images/events/SSS/2020-london/london4.jpg)
 ![Image](/images/events/SSS/2020-london/london3.jpg)
+![Image](/images/events/SSS/2020-london/london4.jpg)
 ![Image](/images/events/SSS/2020-london/london5.jpg)
 ![Image](/images/events/SSS/2020-london/london6.jpg)
 ![Image](/images/events/SSS/2020-london/london7.jpg)
 ![Image](/images/events/SSS/2020-london/london8.jpg)
 ![Image](/images/events/SSS/2020-london/london9.jpg)
 
-Click [here](https://www.facebook.com/media/set/?set=a.3316705278357591&type=3) for more pictures.
+Click [here](https://www.facebook.com/media/set/?set=a.3316705278357591&type=3) to view more pictures from this event.
 
 Missed out on this session? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 

@@ -6,7 +6,7 @@ third_nav_title: November 2019
 
 ![Image](/images/events/SSS/2019-newyork/ny1.jpg)
 
-In Nov 2019, we had the pleasure of hosting Chief Executive Officer of GIC, Mr Lim Chow Kiat, in New York where he shared GIC’s strategies to stay ahead of the curve amidst an uncertain global investment environment, as well as valuable insights on the developments and opportunities in Asia.
+On 4 Nov, we had the pleasure of hosting Chief Executive Officer of GIC, Mr Lim Chow Kiat, in New York where he shared GIC’s strategies to stay ahead of the curve amidst an uncertain global investment environment, as well as valuable insights on the developments and opportunities in Asia.
 
 ![Image](/images/events/SSS/2019-newyork/ny2.jpg)
 

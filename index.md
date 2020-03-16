@@ -37,4 +37,9 @@ sections:
         <!--description: This is a test sentence-->
         button: Discover our events
         url: /events/sss-in-ny-nov2019/
+        title: Test2
+        subtitle: Test2
+        <!--description: This is a test sentence-->
+        button: Test2
+        url: /events/sss-in-ny-nov2019/
 ---

@@ -10,7 +10,7 @@ On 4 Nov, we had the pleasure of hosting Chief Executive Officer of GIC, Mr Lim 
 
 ![Image](/images/events/SSS/2019-newyork/ny2.jpg)
 
-We hope everyone enjoyed networking with the fellow GICians who shared more about their internship and full-time graduate positions. Here is a look at how the event went down:
+Check out the pictures below for some highlights from the event!
 
 ![Image](/images/events/SSS/2019-newyork/ny3.jpg)
 ![Image](/images/events/SSS/2019-newyork/ny4.jpg)

@@ -9,49 +9,43 @@ Please do not listen to or spread rumours and untrue reports — there is a lot 
 
 <hr>
 
+* [Stay-home notices for travellers entering Singapore](#stay-home-notice)
+* [Be prepared for the long haul on Covid-19: Foreign Minister Vivian Balakrishnan](#fm-vb-interview)
 * [Situation in Singapore remains under control, says PM Lee](#pm-lee-speech)
-* [All of Italy to be placed on lockdown](#italy-lockdown)
-* [China reports all-time low for new confirmed cases](#china-low-cases)
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
+
 <hr>
+
+#### <a id="stay-home-notice"></a> Stay-home notices for travellers entering Singapore
+
+As of 16 March 2020 2359, all travellers including Singapore residents, long-term pass holders and short-term visitors, with recent travel history to countries indicated will be issued with a 14 day stay-home notice. The new border control measures are aimed at preventing further importation of COVID-19 cases.
+
+![Image](/images/covid-19/stay-home-notice.jpg)
+_(Credit: Channel News Asia/Ministry of Health Singapore)_
+
+The Ministry of Health has also advised Singaporeans to differ all non-essential travel abroad, to reduce the risk of Singaporeans contracting the COVID-19 infection overseas.
+
+Read the full article [here](https://www.channelnewsasia.com/news/singapore/coronavirus-covid-19-singapore-malaysia-asean-stay-home-notice-12539952)
+
+#### <a id="fm-vb-interview"></a> Be prepared for the long haul on Covid-19: Foreign Minister Vivian Balakrishnan
+
+In an interview on CNBC on 11 March, Foreign Minister Vivian Balakrishnan shared that the approach the Singapore government is taking is to be organised and prepared for the long haul. He also spoke about how Covid-19 and its economic aftermath is going to last "at least a year, which means anything we do needs to be sustainable and sensible for the long term".
+
+![Image](/images/covid-19/fm-vb-interview.png)
+You can watch the interview [here](https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/655285165229616/) _(Credit: Screengrab from CNBC)_
+
+You can also read the full article [here](https://www.straitstimes.com/singapore/be-prepared-for-the-long-haul-on-covid-19-foreign-minister-vivian-balakrishnan)
 
 #### <a id="pm-lee-speech"></a> Situation in Singapore remains under control, says PM Lee
 
 ![Image](/images/covid-19/pm-lee-speech-12mar.jpg)
-(Photo credit: MCI)
+_(Photo credit: MCI)_
 
 On 12 March, PM Lee Hsien Loong addressed the nation regarding the Covid-19 situation, emphasising that the situation in Singapore remains under control. He mentions that Singapore will not go into a lockdown and will instead plan for more stringent measures to prepare Singaporeans.
 
 PM Lee expects for more imported cases as the virus continues to spread in many other countries. He urges for Singaporeans to reduce attendance at crowded gatherings, and shares that the government is working to free up medical facilities for additional capacity should Singapore face a surge.
 
 Read more [here](https://www.channelnewsasia.com/news/singapore/coronavirus-pm-lee-full-speech-under-control-covid-19-12531962)
-
-
-#### <a id="italy-lockdown"></a> All of Italy to be placed on lockdown
-
-![Image](/images/covid-19/italy-lockdown.png)
-(Photo credit: Miguel MEDINA/AFP)
-
-ROME - On 9 March, Prime Minister Giuseppe Conte extended measures to tackle Covid-19 across the whole country – telling citizens to “stay at home”.
-
-Announced in an evening television address, PM Conte elaborates that “the whole of Italy will become a protected zone” and that “all movement across the country is to be avoided unless motivated by three specific circumstances – reasons of work, reasons of necessity or health reasons”. The measures will come into effect beginning 10 March.
-
-The national restriction will run until 3 April, and all schools and universities will immediately close. Travel in and out of the country, as well as movement between cities, will be restricted.
-
-Read more [here](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
-
-#### <a id="china-low-cases"></a>	China reports all-time low for new confirmed cases
-
-![Image](/images/covid-19/china-lowcases.png)
-(Photo credit: REUTERS/Thomas Peter/Files)
-
-Mainland China has seen a decline in locally transmitted Covid-19 cases, with most cases only occurring within the Hubei province. The health authority remains to be on alert for infections arriving from abroad.
-
-While the domestic spread has significantly slowed, Chinese authorities continue to be mindful of risks stemming from both foreigners and Chinese nationals travelling back to China from affected regions.
-
-Shanghai has stepped up airport screening over from 7 March as imported infections from countries such as Italy and Iran emerged as the biggest source of imported cases in the country. China is also conscious of the tens of millions of migrant workers returning to offices, malls and factories and the potential transmission risks.
-
-Read more [here](https://www.channelnewsasia.com/news/world/covid-19-coronavirus-all-of-italy-to-be-placed-under-lockdown-12520536)
 
 #### <a id="sg-united"></a> Power in unity: Singapore’s battle against Covid-19
 

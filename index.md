@@ -5,7 +5,6 @@ title: Singapore Global Network
 favicon: /images/favicon-globe.ico
 image: /images/SGN Official Logo.png
 permalink: /
-notification: Our site is currently in beta mode, stay tuned for more! For updates on COVID-19 in SG, please visit go.gov.sg/2019ncov
 sections:
     - hero:
         title: Singapore Global Network
@@ -19,7 +18,7 @@ sections:
               url: /resources/covid-19/
             - title: Things to do
               description: Events to connect
-              url: /events/sss-in-ny-nov2019/
+              url: /events/sss-in-ldn-feb2020/
             - title: Food for Thought
               description: Stories to share
               url: /food-for-thought/
@@ -36,5 +35,5 @@ sections:
         subtitle: Latest happenings around the world
         <!--description: This is a test sentence-->
         button: Discover our events
-        url: /events/sss-in-ny-nov2019/
+        url: /events/sss-in-ldn-feb2020/
 ---

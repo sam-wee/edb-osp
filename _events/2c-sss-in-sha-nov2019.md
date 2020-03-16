@@ -3,13 +3,23 @@ title: Singapore Speakers Series in Shanghai (29 Nov)
 permalink: /events/sss-in-sha-nov2019/
 third_nav_title: November 2019
 ---
-Join us for an exclusive evening with Mr Ho Kwon Ping, Executive Chairman of Banyan Tree Holdings and one of Singapore’s most distinguished corporate leaders, as he shares with us valuable insights on the hospitality industry and opportunities in Asia. Networking with Mr Ho and fellow industry professionals over a standing buffet dinner to follow. Seats are limited, so hurry and register today!
 
-[Register here](https://form.gov.sg/#!/5dbb948379b19800124fe184)
+![Image](/images/events/SSS/2019-shanghai/shanghai1.jpeg)
 
-### Event Details
+On 29 Nov, we had the pleasure of hosting the Executive Chairman of Banyan Tree Holdings Limited, Mr Ho Kwon Ping at our final Singapore Speakers Series event for the year, held in Shanghai.
 
->Stay tuned for more event details!
+He spoke about the emergence of China against the US, causing a realignment of civilisations and increased economic challenges between the two countries. In the same light, he discussed how Singaporeans should adopt a holistic approach towards conducting businesses, and be mindful not to take sides. Mr Ho also shared about how it may be beneficial for China to look beyond capital markets to boost its global standing. 
+
+Check out the pictures below for some highlights from the event!
+
+![Image](/images/events/SSS/2019-shanghai/shanghai2.jpeg)
+![Image](/images/events/SSS/2019-shanghai/shanghai3.jpeg)
+![Image](/images/events/SSS/2019-shanghai/shanghai4.jpeg)
+![Image](/images/events/SSS/2019-shanghai/shanghai5.jpeg)
+![Image](/images/events/SSS/2019-shanghai/shanghai6.jpeg)
+![Image](/images/events/SSS/2019-shanghai/shanghai7.jpeg)
+
+Missed out on this session? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 
 
 ### About the Singapore Speakers Series

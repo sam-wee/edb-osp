@@ -3,30 +3,23 @@ title: Singapore Speakers Series in New York (4 Nov)
 permalink: /events/sss-in-ny-nov2019/
 third_nav_title: November 2019
 ---
-The Singapore Speaker Series featuring Mr Lim Chow Kiat, Chief Executive Officer of GIC, is coming to New York this 4th November 2019!
 
-Join us for an enriching evening as Mr Lim shares GIC’s strategies to stay ahead of the curve amidst an uncertain global investment environment, as well as valuable insights on the developments and opportunities in Asia.
+![Image](/images/events/SSS/2019-newyork/ny1.jpg)
 
-A complimentary dinner and networking will follow. Seats are limited, register today!
+On 4 Nov, we had the pleasure of hosting Chief Executive Officer of GIC, Mr Lim Chow Kiat, in New York where he shared GIC’s strategies to stay ahead of the curve amidst an uncertain global investment environment, as well as valuable insights on the developments and opportunities in Asia.
 
-_Registration has closed._
+![Image](/images/events/SSS/2019-newyork/ny2.jpg)
 
-### Event Details
+Check out the pictures below for some highlights from the event!
 
->Date:   4 November 2019 (Monday)
->
->Time:   6:30pm – 9:30pm*
->
->Venue:  The Westin New York at Times Square Majestic Ballroom (5th floor)
->
->270 West 43rd Street, New York, NY 10036
->
->*Registration starts at 6pm and the event is free.
+![Image](/images/events/SSS/2019-newyork/ny3.jpg)
+![Image](/images/events/SSS/2019-newyork/ny4.jpg)
+![Image](/images/events/SSS/2019-newyork/ny5.jpg)
+![Image](/images/events/SSS/2019-newyork/ny6.jpg)
+![Image](/images/events/SSS/2019-newyork/ny7.jpg)
+![Image](/images/events/SSS/2019-newyork/ny8.jpg)
 
-**Interested in opportunities in GIC?** 
-
-Come have a chat with GICians who will be on hand to share more about the internship and full-time graduate positions.  Find out more at the GIC Career Booth!
-
+Missed out on this session? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 
 ### About the Singapore Speakers Series
 

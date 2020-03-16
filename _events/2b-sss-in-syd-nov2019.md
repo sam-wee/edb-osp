@@ -6,11 +6,9 @@ third_nav_title: November 2019
 
 On 13 Nov, we had the pleasure of hosting Mr Gautam Banerjee, Senior Managing Director and Chairman of Blackstone Singapore, at our Singapore Speakers Series event in Sydney!
 
-Mr Banerjee shared insights on Singapore’s finance industry through the years, and why global investment firm The Blackstone Group decided to open an office in Singapore. Mr Banerjee also shared his personal Singapore story and insights on education, social cohesion and inequality in Singapore, and addressed questions on the slowing economy, impact investing and how we can continue to upskill in the digital economy. 
-
-Here are some highlights from the event.
-
 ![Image](/images/events/SSS/2019-sydney/sydney1.jpeg)
+
+Mr Banerjee shared insights on Singapore’s finance industry through the years, and why global investment firm The Blackstone Group decided to open an office in Singapore. Mr Banerjee also shared his personal Singapore story and insights on education, social cohesion and inequality in Singapore, and addressed questions on the slowing economy, impact investing and how we can continue to upskill in the digital economy. 
 
 Missed out on this session? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 

@@ -14,13 +14,13 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - Singaporeans and PRs will always be welcome home, however, please [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).
 
 
-- Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19). 
+- Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19) from the Singapore Ministry of Health. 
 
 
 - More news resources and public statements can be found [below](#stay-home-notice).
 
 
-- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com)
+- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!

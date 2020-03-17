@@ -3,7 +3,7 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean and a friend of Singapore, is well-supported in this time of uncertainty, wherever you may be. For your own safety, please remember to:
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, is well-supported in this time of uncertainty, wherever you may be. For your own safety, please remember to:
 
 - [E-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) and [sign up with us](http://go.gov.sg/sgn-covidupdates)for important updates if you're based overseas. For further assistance, you can always [find your closest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas).
 

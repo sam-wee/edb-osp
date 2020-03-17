@@ -3,9 +3,21 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are, and if necessary, do contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). We will keep this page updated on important developments on the COVID situation in Singapore. For fellow Singaporeans, please remember to e-register with MFA [here](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action). Should you need help, you can always find the closest [Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas).
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean  a friend of Singapore, is well-supported in this time of uncertainty, wherever you may be. For your own safety, please remember to:
 
-Please do not listen to or spread rumours and untrue reports — there is a lot of that circulating around on social media. Sharing news responsibly is an important way we can protect ourselves. For the latest updates on the current situation in Singapore, you can visit [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our Ministry of Health website [www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19). Most of all, keep safe, and take care of yourselves!
+- [E-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) and [sign up with us](http://go.gov.sg/sgn-covidupdates)for important updates if you're based overseas. For further assistance, you can always [find your closest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas).
+
+- Singaporeans and PRs will always be welcome home, but will need to [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).
+
+- For the latest updates on the current situation in Singapore, stay tuned to [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our Ministry of Health website [www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19). 
+
+- [Read](https://www.gov.sg/article/pm-lee-hsien-loong-on-the-covid-19-situation-in-singapore-12-mar) Prime Minister Lee Hsien Loong's latest address and [watch](https://www.facebook.com/watch/?v=655285165229616) Foreign Minister Vivian Balakrishnan's interview. 
+
+- More on the latest news resources and public statements can be found [below]((#stay-home-notice).
+
+- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com).
+
+We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
 

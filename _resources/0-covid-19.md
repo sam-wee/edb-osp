@@ -8,7 +8,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
 
 
-- For Singaporeans, [e-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) (for Singaporeans) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
+- For Singaporeans, [e-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
 
 
 - Singaporeans and PRs will always be welcome home, however, please [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).

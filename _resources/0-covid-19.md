@@ -13,7 +13,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - [Read](https://www.gov.sg/article/pm-lee-hsien-loong-on-the-covid-19-situation-in-singapore-12-mar) Prime Minister Lee Hsien Loong's latest address and [watch](https://www.facebook.com/watch/?v=655285165229616) Foreign Minister Vivian Balakrishnan's interview. 
 
-- More on the latest news resources and public statements can be found [below]((#stay-home-notice).
+- More on the latest news resources and public statements can be found [below](#stay-home-notice).
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com).
 

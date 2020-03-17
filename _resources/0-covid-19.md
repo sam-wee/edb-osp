@@ -8,10 +8,13 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
 
 
-- For Singaporeans, [e-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
+- For Singaporeans, [e-register with the Ministry of Foreign Affairs (MFA)](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
 
 
-- Singaporeans and PRs will always be welcome home, however, please [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).
+- Singaporeans and PRs will always be welcome home, however, please [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19). 
+
+
+- For Singaporean students studying overseas, please read the [advisory](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2020/03/170320_Advisory-for-Singaporean-Students-Studying-Overseas) issued on 17 March 2020.
 
 
 - Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19) from the Singapore Ministry of Health. 
@@ -73,4 +76,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-_All articles updated as of 17 March 2020, 6pm(GMT+8:00)_
+_All articles updated as of 17 March 2020, 7.30pm(GMT+8:00)_

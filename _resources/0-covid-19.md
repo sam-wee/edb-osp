@@ -9,7 +9,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Singaporeans and PRs will always be welcome home, but will need to [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).
 
-- For the latest updates on the current situation in Singapore, stay tuned to [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our Ministry of Health website [www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19). 
+- For the latest updates on the current situation in Singapore, stay tuned to [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our [Ministry of Health website](https://www.moh.gov.sg/covid-19). 
 
 - [Read](https://www.gov.sg/article/pm-lee-hsien-loong-on-the-covid-19-situation-in-singapore-12-mar) Prime Minister Lee Hsien Loong's latest address and [watch](https://www.facebook.com/watch/?v=655285165229616) Foreign Minister Vivian Balakrishnan's interview. 
 

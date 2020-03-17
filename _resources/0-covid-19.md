@@ -3,9 +3,27 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are, and if necessary, do contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). We will keep this page updated on important developments on the COVID situation in Singapore. For fellow Singaporeans, please remember to e-register with MFA [here](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action). Should you need help, you can always find the closest [Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas).
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. For your own safety, please remember to:
 
-Please do not listen to or spread rumours and untrue reports — there is a lot of that circulating around on social media. Sharing news responsibly is an important way we can protect ourselves. For the latest updates on the current situation in Singapore, you can visit [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our Ministry of Health website [www.moh.gov.sg/covid-19](https://www.moh.gov.sg/covid-19). Most of all, keep safe, and take care of yourselves!
+- [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
+
+
+- For Singaporeans, [e-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) (for Singaporeans)or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
+
+
+- Singaporeans and PRs will always be welcome home, however, please [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).
+
+
+- Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19). 
+
+
+- More news resources and public statements can be found [below](#stay-home-notice).
+
+
+- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com)
+
+
+We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
 
@@ -32,7 +50,8 @@ Read the full article [here](https://www.channelnewsasia.com/news/singapore/coro
 In an interview on CNBC on 11 March, Foreign Minister Vivian Balakrishnan shared that the approach the Singapore government is taking is to be organised and prepared for the long haul. He also spoke about how Covid-19 and its economic aftermath is going to last "at least a year, which means anything we do needs to be sustainable and sensible for the long term".
 
 ![Image](/images/covid-19/fm-vb-interview.png)
-You can watch the interview [here](https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/655285165229616/) _(Credit: Screengrab from CNBC)_
+You can watch the interview [here](https://www.facebook.com/Vivian.Balakrishnan.Sg/videos/655285165229616/) 
+_(Credit: Screengrab from CNBC)_
 
 You can also read the full article [here](https://www.straitstimes.com/singapore/be-prepared-for-the-long-haul-on-covid-19-foreign-minister-vivian-balakrishnan)
 
@@ -52,3 +71,6 @@ Read more [here](https://www.channelnewsasia.com/news/singapore/coronavirus-pm-l
 Singapore has been effectively curbing the Covid-19 outbreak from assimilating further into the community – but what goes on behind the scenes? See how the unification of efforts among Singapore has strengthened the nation in its battle against Covid-19:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+_All articles updated as of 17 March 2020, 6pm(GMT+8:00)_

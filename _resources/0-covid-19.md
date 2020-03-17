@@ -5,15 +5,13 @@ permalink: /resources/covid-19/
 
 In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. For your own safety, please remember to:
 
-- [E-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) (for Singaporeans) and [sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. For further assistance, you can always [find your closest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas).
+- [E-register with MFA](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) (for Singaporeans) and [sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. For further assistance, you can always [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas).
 
 - Singaporeans and PRs will always be welcome home, but will need to [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19).
 
 - For the latest updates on the current situation in Singapore, stay tuned to [go.gov.sg/2019ncov](https://go.gov.sg/2019ncov) or our [Ministry of Health website](https://www.moh.gov.sg/covid-19). 
 
-- [Read](https://www.gov.sg/article/pm-lee-hsien-loong-on-the-covid-19-situation-in-singapore-12-mar) Prime Minister Lee Hsien Loong's latest address and [watch](https://www.facebook.com/watch/?v=655285165229616) Foreign Minister Vivian Balakrishnan's interview. 
-
-- More on the latest news resources and public statements can be found [below](#stay-home-notice).
+- More news resources and public statements can be found [below](#stay-home-notice). [Read](https://www.gov.sg/article/pm-lee-hsien-loong-on-the-covid-19-situation-in-singapore-12-mar) Prime Minister Lee Hsien Loong's latest address and [watch](https://www.facebook.com/watch/?v=655285165229616) Foreign Minister Vivian Balakrishnan's interview. 
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com).
 

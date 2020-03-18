@@ -30,12 +30,34 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [Singapore universities and polytechnics suspend overseas placements ](#uni-poly-suspend-overseas-placements)
+* [Singapore Airlines waives rebooking fees](#sg-airline-waives-fees)
 * [Stay-home notices for travellers entering Singapore](#stay-home-notice)
 * [Be prepared for the long haul on Covid-19: Foreign Minister Vivian Balakrishnan](#fm-vb-interview)
 * [Situation in Singapore remains under control, says PM Lee](#pm-lee-speech)
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+#### <a id="uni-poly-suspend-overseas-placements"></a> Singapore universities and polytechnics suspend overseas placements 
+
+Institutes of Higher Learning (IHLs), including local universities and polytechnics, will suspend all overseas placements until the end of July, in light of new border restrictions announced by Singapore on 15 March.  
+
+The Ministry of Education (MOE) said that students who are currently on such overseas placements will be recalled “as soon as is practicable”, and the IHLs will support them with alternative learning arrangements. These alternative arrangements should not impose any additional financial cost to students, and all additional modules or local internships will not add to the current school fees.  
+
+To read the full article, please visit [here](https://www.channelnewsasia.com/news/singapore/coronavirus-singapore-universities-polytechnics-suspend-overseas-12540158?cid=h3_referral_inarticlelinks_24082018_cna)
+
+#### <a id="sg-airline-waives-fees"></a> Singapore Airlines waives rebooking fees 
+
+![Image](/images/covid-19/sg-airlines.png)
+_(Photo credit: AFP/Goh Chai Hin)_
+
+Singapore Airlines (SIA) said it will waive rebooking fees for tickets issued on or before 15 March, after Singapore expanded travel restrictions to include travellers who have visited ASEAN countries, UK, Japan and Switzerland.
+
+Customers who booked all SIA flights for travel up to 31 May 2020, can rebook their flights so long as their new itinerary is completed by 31 March 2021. Although rebooking fees will be waived, a fare difference may apply for the new itinerary.  
+
+SIA said it will continue to review its waiver policy and may extend the cut-off date of 31 May 2020, as it assesses the impact of the Covid-19 outbreak.
+
+To read the full article, please visit [here](https://www.channelnewsasia.com/news/singapore/coronavirus-sia-singapore-airlines-waives-rebooking-fees-flights-12540560)
 
 #### <a id="stay-home-notice"></a> Stay-home notices for travellers entering Singapore
 

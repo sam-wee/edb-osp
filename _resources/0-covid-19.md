@@ -30,7 +30,8 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
-* [Singapore universities and polytechnics suspend overseas placements ](#uni-poly-suspend-overseas-placements)
+* [14-day stay-home notice will apply to all returning residents and short-term visitors](#stay-home-notice-update)
+* [Singapore universities and polytechnics suspend overseas placements](#uni-poly-suspend-overseas-placements)
 * [Singapore Airlines waives rebooking fees](#sg-airline-waives-fees)
 * [Stay-home notices for travellers entering Singapore](#stay-home-notice)
 * [Be prepared for the long haul on Covid-19: Foreign Minister Vivian Balakrishnan](#fm-vb-interview)
@@ -38,6 +39,14 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
+#### <a id="stay-home-notice-update"></a> 14-day stay-home notice will apply to all returning residents and short-term visitors
+
+Singaporeans and residents returning to the country will all have to serve a 14-day isolation period, while people in the country should defer all travel overseas, the authorities announced on Wednesday (March 18), as  the country saw 47 new cases, an all-time high.
+
+The new, broader measures to contain the coronavirus come as the country braces itself for more to come.
+
+To read the full article, please visit [here](https://www.straitstimes.com/singapore/covid-19-all-time-high-of-47-new-cases-in-singapore-14-day-stay-home-notice-will-now-apply?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2020-03-18%2021%3A03%3A41)
 
 #### <a id="uni-poly-suspend-overseas-placements"></a> Singapore universities and polytechnics suspend overseas placements 
 

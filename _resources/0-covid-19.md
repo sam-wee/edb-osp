@@ -38,6 +38,7 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
 #### <a id="uni-poly-suspend-overseas-placements"></a> Singapore universities and polytechnics suspend overseas placements 
 
 Institutes of Higher Learning (IHLs), including local universities and polytechnics, will suspend all overseas placements until the end of July, in light of new border restrictions announced by Singapore on 15 March.  

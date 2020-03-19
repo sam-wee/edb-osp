@@ -30,6 +30,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [Info for Overseas Singaporeans Returning to Singapore](#info-os-return)
 * [14-day stay-home notice will apply to all returning residents and short-term visitors](#stay-home-notice-update)
 * [Singapore universities and polytechnics suspend overseas placements](#uni-poly-suspend-overseas-placements)
 * [Singapore Airlines waives rebooking fees](#sg-airline-waives-fees)
@@ -40,11 +41,30 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+#### <a id="info-os-return"></a> Info for Overseas Singaporeans Returning to Singapore
+
+![Image](/images/covid-19/SGN-OS-Info-Telegram.jpg)
+
+For more info:
+
+- [ICA COVID updates](https://www.ica.gov.sg/covid-19)
+
+- [What is SHN?](https://go.gov.sg/mohshn)
+
+- [Calculate when your SHN will end](https://service2.mom.gov.sg/shn/shn-calculator/)
+
+- [Preferential rates for hotels for returning Singaporeans](https://go.gov.sg/sgn-shnaccom)
+
+- [Join our telegram group](https://go.gov.sg/sgn-ostelegram)
+
 #### <a id="stay-home-notice-update"></a> 14-day stay-home notice will apply to all returning residents and short-term visitors
 
 Singaporeans and residents returning to the country will all have to serve a 14-day isolation period, while people in the country should defer all travel overseas, the authorities announced on Wednesday (March 18), as  the country saw 47 new cases, an all-time high.
 
 The new, broader measures to contain the coronavirus come as the country braces itself for more to come.
+
+![Image](/images/covid-19/border_control_measures_ST.png)
+_(Photo credit: The Straits Times)_
 
 To read the full article, please visit [here](https://www.straitstimes.com/singapore/covid-19-all-time-high-of-47-new-cases-in-singapore-14-day-stay-home-notice-will-now-apply?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2020-03-18%2021%3A03%3A41)
 

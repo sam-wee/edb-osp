@@ -46,6 +46,9 @@ Singaporeans and residents returning to the country will all have to serve a 14-
 
 The new, broader measures to contain the coronavirus come as the country braces itself for more to come.
 
+![Image](/images/covid-19/border_control_measures_ST.png)
+_(Photo credit: The Straits Times)_
+
 To read the full article, please visit [here](https://www.straitstimes.com/singapore/covid-19-all-time-high-of-47-new-cases-in-singapore-14-day-stay-home-notice-will-now-apply?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2020-03-18%2021%3A03%3A41)
 
 #### <a id="uni-poly-suspend-overseas-placements"></a> Singapore universities and polytechnics suspend overseas placements 

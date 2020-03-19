@@ -30,6 +30,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [Info for Overseas Singaporeans Returning to Singapore](#info-os-return)
 * [14-day stay-home notice will apply to all returning residents and short-term visitors](#stay-home-notice-update)
 * [Singapore universities and polytechnics suspend overseas placements](#uni-poly-suspend-overseas-placements)
 * [Singapore Airlines waives rebooking fees](#sg-airline-waives-fees)
@@ -39,6 +40,22 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
+#### <a id="info-os-return"></a> Info for Overseas Singaporeans Returning to Singapore
+
+![Image](/images/covid-19/SGN-OS-Info-Telegram.jpg)
+
+Websites displayed:
+
+- ICA [https://www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19)
+
+- What is SHN? [https://go.gov.sg/mohshn](https://go.gov.sg/mohshn)
+
+- Calculate when your SHN will end [https://service2.mom.gov.sg/shn/shn-calculator/](https://service2.mom.gov.sg/shn/shn-calculator/)
+
+- List of hotels [https://go.gov.sg/sgn-shnaccom](https://go.gov.sg/sgn-shnaccom)
+
+- Telegram group [https://go.gov.sg/sgn-ostelegram](https://go.gov.sg/sgn-ostelegram)
 
 #### <a id="stay-home-notice-update"></a> 14-day stay-home notice will apply to all returning residents and short-term visitors
 

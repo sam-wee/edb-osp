@@ -45,17 +45,17 @@ We will keep this page updated on important developments on the COVID situation 
 
 ![Image](/images/covid-19/SGN-OS-Info-Telegram.jpg)
 
-Websites displayed:
+For more info:
 
-- ICA [https://www.ica.gov.sg/covid-19](https://www.ica.gov.sg/covid-19)
+- [ICA COVID updates](https://www.ica.gov.sg/covid-19)
 
-- What is SHN? [https://go.gov.sg/mohshn](https://go.gov.sg/mohshn)
+- [What is SHN?](https://go.gov.sg/mohshn)
 
-- Calculate when your SHN will end [https://service2.mom.gov.sg/shn/shn-calculator/](https://service2.mom.gov.sg/shn/shn-calculator/)
+- [Calculate when your SHN will end](https://service2.mom.gov.sg/shn/shn-calculator/)
 
-- List of hotels [https://go.gov.sg/sgn-shnaccom](https://go.gov.sg/sgn-shnaccom)
+- [Preferential rates for hotels for returning Singaporeans](https://go.gov.sg/sgn-shnaccom)
 
-- Telegram group [https://go.gov.sg/sgn-ostelegram](https://go.gov.sg/sgn-ostelegram)
+- [Join our telegram group](https://go.gov.sg/sgn-ostelegram)
 
 #### <a id="stay-home-notice-update"></a> 14-day stay-home notice will apply to all returning residents and short-term visitors
 

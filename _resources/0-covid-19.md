@@ -55,7 +55,7 @@ For more info:
 
 - [Preferential rates for hotels for returning Singaporeans](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans-as-of-20-Mar.pdf)
 
-- [Join our telegram group](https://go.gov.sg/sgn-ostelegram)
+- [Join our telegram channel](https://go.gov.sg/sgn-ostelegramchannel)
 
 #### <a id="stay-home-notice-update"></a> 14-day stay-home notice will apply to all returning residents and short-term visitors
 

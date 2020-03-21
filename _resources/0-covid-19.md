@@ -60,7 +60,7 @@ For more info:
 
 - [Calculate when your SHN will end](https://service2.mom.gov.sg/shn/shn-calculator/)
 
-- [Preferential rates for hotels for returning Singaporeans](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans-as-of-21-Mar.pdf)
+- [Preferential rates for hotels for returning Singaporeans](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans.pdf)
 
 - [Join our telegram channel](https://go.gov.sg/sgn-ostelegramchannel)
 

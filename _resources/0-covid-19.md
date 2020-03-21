@@ -30,6 +30,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [Passing of Two Patients with COVID-19 Infection](#passing-of-patients)
 * [Info for Overseas Singaporeans Returning to Singapore](#info-os-return)
 * [14-day stay-home notice will apply to all returning residents and short-term visitors](#stay-home-notice-update)
 * [Singapore universities and polytechnics suspend overseas placements](#uni-poly-suspend-overseas-placements)
@@ -40,6 +41,12 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
+#### <a id="passing-of-patients"></a> Passing of Two Patients with COVID-19 Infection
+
+Two people - a 75-year-old Singaporean and a 64-year-old Indonesian national- died from complications due to the Covid-19 infection on the morning of March 21.
+
+Read the release from MOH [here](https://www.moh.gov.sg/news-highlights/details/passing-of-two-patients-with-covid-19-infection)
 
 #### <a id="info-os-return"></a> Info for Overseas Singaporeans Returning to Singapore
 

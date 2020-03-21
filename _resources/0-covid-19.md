@@ -44,7 +44,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 #### <a id="passing-of-patients"></a> Passing of Two Patients with COVID-19 Infection
 
-Two people - a 75-year-old Singaporean and a 64-year-old Indonesian national- died from complications due to the Covid-19 infection on the morning of March 21.
+Two people - a 75-year-old Singaporean and a 64-year-old Indonesian national- have passed away from complications due to the Covid-19 infection on the morning of March 21.
 
 Read the release from MOH [here](https://www.moh.gov.sg/news-highlights/details/passing-of-two-patients-with-covid-19-infection)
 

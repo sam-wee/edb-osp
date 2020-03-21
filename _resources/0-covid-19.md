@@ -77,7 +77,7 @@ To read the full article, please visit [here](https://www.straitstimes.com/singa
 
 #### <a id="uni-poly-suspend-overseas-placements"></a> Singapore universities and polytechnics suspend overseas placements 
 
-Institutes of Higher Learning (IHLs), including local universities and polytechnics, will suspend all overseas placements until the end of July, in light of new border restrictions announced by Singapore on 15 March.  
+Institutes of Higher Learning (IHLs), including local universities and polytechnics, will suspend all overseas placements until the end of July, in light of new border restrictions announced by Singapore on 15 March.
 
 The Ministry of Education (MOE) said that students who are currently on such overseas placements will be recalled “as soon as is practicable”, and the IHLs will support them with alternative learning arrangements. These alternative arrangements should not impose any additional financial cost to students, and all additional modules or local internships will not add to the current school fees.  
 

@@ -30,6 +30,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)
 * [Passing of Two Patients with COVID-19 Infection](#passing-of-patients)
 * [Info for Overseas Singaporeans Returning to Singapore](#info-os-return)
 * [14-day stay-home notice will apply to all returning residents and short-term visitors](#stay-home-notice-update)
@@ -41,6 +42,12 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
+#### <a id="short-term-visitors-barred"></a> Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases
+
+In view of the heightened risk of importation of COVID-19 cases into Singapore, all short-term visitors will now not be allowed to enter or transit through Singapore. **From 23 March 2020, 2359 hours, all short-term visitors (from anywhere in the world) will not be allowed to enter or transit through Singapore.** Furthermore the Ministry of Manpower will only allow the entry/ return of work pass holders, including their dependents, for those providing essential services, such as in healthcare and transport.  
+
+Read the release from MOH [here](https://www.moh.gov.sg/news-highlights/details/additional-border-control-measures-to-reduce-further-importation-of-covid-19-cases)
 
 #### <a id="passing-of-patients"></a> Passing of Two Patients with COVID-19 Infection
 
@@ -135,4 +142,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-_All articles updated as of 21 March 2020, 12.30pm(GMT+8:00)_
+_All articles updated as of 22 March 2020, 11.50am(GMT+8:00)_

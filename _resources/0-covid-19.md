@@ -49,7 +49,7 @@ In view of the heightened risk of importation of COVID-19 cases into Singapore, 
 
 Read the release from MOH [here](https://www.moh.gov.sg/news-highlights/details/additional-border-control-measures-to-reduce-further-importation-of-covid-19-cases)
 
-Check out [this set of FAQs](/docs/FAQs-Additional-Border-Control-Measures.pdf) if you have further questions around the latest release.
+Check out [this set of FAQs](/docs/SGN-FAQs-Additional-Border-Control-Measures.pdf) if you have further questions around the latest release.
 
 #### <a id="passing-of-patients"></a> Passing of Two Patients with COVID-19 Infection
 

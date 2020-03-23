@@ -30,6 +30,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [All travellers entering Singapore from Mar 27 must submit health declaration forms online](#health-declaration)
 * [Singapore Airlines slashes 96% of capacity, grounds most planes](#sia-slashes-capacity)
 * [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)
 * [Passing of Two Patients with COVID-19 Infection](#passing-of-patients)
@@ -43,6 +44,14 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
+#### <a id="health-declaration"></a> All travellers entering Singapore from Mar 27 must submit health declaration forms online
+
+From 9am on Mar 27, all travellers arriving in Singapore, will have to submit a health declaration online before proceeding with immigration clearance, said the Immigration and Checkpoints Authority (ICA) on Monday (Mar 23). 
+
+Travellers - residents and long-term pass holders included - will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). 
+
+Read the full article [here](https://www.channelnewsasia.com/news/singapore/covid-19-all-travellers-entering-singapore-from-mar-27-must-12567880)
 
 #### <a id="sia-slashes-capacity"></a> Singapore Airlines (SIA) slashes 96% of capacity, grounds most planes
 

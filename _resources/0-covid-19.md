@@ -30,6 +30,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+* [Singapore Airlines slashes 96% of capacity, grounds most planes](#sia-slashes-capacity)
 * [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)
 * [Passing of Two Patients with COVID-19 Infection](#passing-of-patients)
 * [Info for Overseas Singaporeans Returning to Singapore](#info-os-return)
@@ -42,6 +43,12 @@ We will keep this page updated on important developments on the COVID situation 
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
 
 <hr>
+
+#### <a id="sia-slashes-capacity"></a> Singapore Airlines (SIA) slashes 96% of capacity, grounds most planes
+
+SIA will cut 96 per cent of its capacity that had been scheduled up to the end of April, said the airline on Monday (Mar 23). The decision was made after the further tightening of border controls around the world over the last week to stem the COVID-19 outbreak, SIA said in a news release.
+
+Read the full article [here](https://www.channelnewsasia.com/news/business/covid-19-singapore-airlines-suspend-flights-coronavirus-12566248)
 
 #### <a id="short-term-visitors-barred"></a> Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases
 

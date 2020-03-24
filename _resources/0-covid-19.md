@@ -11,7 +11,9 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Travellers (residents and long-term pass holders included) will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
-- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at designated government-arranged facilities for the duration of their Stay Home Notice (SHN) period.** We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom). 
+- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom) or download the list [here](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans.pdf). 
+
+- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at designated government-arranged facilities for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information.
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
@@ -40,8 +42,8 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 ### [Latest news](#latest-news)
 
+* [Tighter Measures To Minimise Further Spread Of Covid-19](#tighter-measures)
 * [Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close](#temp-measures)
-* [Returning Singapore residents from UK, US to serve stay-home notices at hotels](#uk-us-returns)
 * [All travellers entering Singapore from Mar 27 must submit health declaration forms online](#health-declaration)
 * [Singapore Airlines slashes 96% of capacity, grounds most planes](#sia-slashes-capacity)
 * [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)
@@ -59,19 +61,25 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
+#### <a id="tighter-measures"></a> Tighter Measures To Minimise Further Spread Of Covid-19
+
+**Enhanced Precautions for UK/US Returnees**
+
+For Singapore residents arriving from the UK and US, it is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at designated government-arranged facilities for the duration of their Stay Home Notice (SHN) period. Transportation will be arranged to send the returnees directly from the airport to the hotels. Each will have their own room/toilet, and will be provided all their meals, so that they may avoid physical contact with other individuals. These SHN requirements will be strictly enforced so as to reduce the risk of community transmission from imported cases. 
+
+This new SHN arrangement will take effect for all UK/US returnees from 25 March 2020, 2359 hours. All returnees from the UK and US who are presently still serving out their SHN in their homes may also apply to stay in these dedicated facilities. They can contact the SHN Helpline at 6812-5555 for more information.
+
+**Singapore Residents and Long-Term Pass Holders who Disregard Travel Advisory**
+
+Any Singapore resident or Long Term Pass holder who leaves Singapore from 27 March 2020, in disregard of the prevailing travel advisories, will be charged at unsubsidised rates for their inpatient stay at public hospitals, if they are admitted for suspected COVID-19 and have onset of symptoms within 14 days of returning to Singapore. Singapore residents will also not be able to claim from MediShield Life or Integrated Shield Plans for these treatments at public and private hospitals.
+
+Read the latest MOH's statement [here](https://www.moh.gov.sg/news-highlights/details/tighter-measures-to-minimise-further-spread-of-covid-19).
+
 #### <a id="temp-measures"></a> Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close
 
 Gatherings outside school and work will be limited to a maximum of 10 people from Thursday at 11.59pm to Apr 30 this year, the COVID-19 multi-ministry task force said on Tuesday (Mar 24). The task force said that the duration of the stricter measures may be extended if the situation does not improve here.
 
 Read more from [full article](https://www.channelnewsasia.com/news/singapore/covid-19-temporary-measures-safe-distancing-groups-venues-closed-12571538) and [latest MOH's statement](https://www.moh.gov.sg/news-highlights/details/tighter-measures-to-minimise-further-spread-of-covid-19).
-
-#### <a id="uk-us-returns"></a> Returning Singapore residents from UK, US to serve stay-home notices at hotels
-
-Returning Singapore residents who have travelled to the United Kingdom and United States will serve out their stay-home notices at hotels instead of at home, authorities said on Tuesday (Mar 24).
-
-Those returning from the two countries make up the largest share of imported cases so far, and this will help prevent the potential spread of the infection to their family members, said National Development Minister Lawrence Wong, who co-heads a multi-ministry task force on COVID-19. This is despite the fact that none of the returnees have passed the virus to their family, he said.
-
-Read more from [full article](https://www.channelnewsasia.com/news/singapore/covid19-returning-singapore-residents-uk-us-shn-hotels-12571490) and [latest MOH's statement](https://www.moh.gov.sg/news-highlights/details/tighter-measures-to-minimise-further-spread-of-covid-19).
 
 #### <a id="health-declaration"></a> All travellers entering Singapore from Mar 27 must submit health declaration forms online
 
@@ -187,4 +195,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 24 March 2020, 8.45pm(GMT+8:00)_
+_All articles updated as of 24 March 2020, 9.00pm(GMT+8:00)_

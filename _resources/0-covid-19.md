@@ -34,6 +34,8 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Subscribe to our official [Telegram channel](https://t.me/SGNchannel) (Tap on "JOIN" to subscribe) or join our regional Telegram chats to get advice and support from those in similar predicaments as you.
 
+- Keep updated with the latest news resources and public statements [below](#latest-news).
+
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 <hr>

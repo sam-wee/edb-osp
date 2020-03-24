@@ -7,9 +7,15 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 ### If you're returning home
 
-- Singaporeans and PRs will always be welcome home, however, please comply with Stay-Home Notices if applicable and take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
+- Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
 - Travellers (residents and long-term pass holders included) will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). 
+
+- Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
+
+- Serve out your 14-day Stay-Home Notice upon entering Singapore. If possible, please stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom). Practice safe distancing from your loved ones.
+
+- Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
 - Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
 
@@ -27,21 +33,6 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19) from the Singapore Ministry of Health. 
 
 - Subscribe to our official [Telegram channel](https://t.me/SGNchannel) (Tap on "JOIN" to subscribe) or join our regional Telegram chats to get advice and support from those in similar predicaments as you.
-
-Main Chat
-http://go.gov.sg/sgn-ostelegram
-
-SGN Singapore (for those back home)
-https://t.me/SGNSingapore
-
-SGN Australia/ New Zealand
-https://t.me/SGNAusNZ
-
-SGN Europe / United Kingdom
-https://t.me/SGNEurope
-
-SGN North America
-https://t.me/SGNNorthAmerica
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 

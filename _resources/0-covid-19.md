@@ -3,9 +3,9 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. 
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news).
 
-### If you're returning home
+### [If you're returning home](#returning-home)
 
 - Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
@@ -13,7 +13,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
-- Serve out your 14-day Stay-Home Notice upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom).
+- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. **Returning Singapore residents who have travelled to the United Kingdom and United States will serve out their SHNs at hotels instead of at home.** We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom). 
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
@@ -24,7 +24,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 
-### If you're based overseas
+### [If you're based overseas](#based-overseas)
 
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
 
@@ -41,6 +41,9 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 <hr>
 
 ### [Latest news](#latest-news)
+
+* [Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close](#temp-measures)
+* [Returning Singapore residents from UK, US to serve stay-home notices at hotels](#uk-us-returns)
 * [All travellers entering Singapore from Mar 27 must submit health declaration forms online](#health-declaration)
 * [Singapore Airlines slashes 96% of capacity, grounds most planes](#sia-slashes-capacity)
 * [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)
@@ -57,6 +60,20 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="temp-measures"></a> Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close
+
+Gatherings outside school and work will be limited to a maximum of 10 people from Thursday at 11.59pm to Apr 30 this year, the COVID-19 multi-ministry task force said on Tuesday (Mar 24). The task force said that the duration of the stricter measures may be extended if the situation does not improve here.
+
+Read the full article [here](https://www.channelnewsasia.com/news/singapore/covid-19-temporary-measures-safe-distancing-groups-venues-closed-12571538)
+
+#### <a id="uk-us-returns"></a> Returning Singapore residents from UK, US to serve stay-home notices at hotels
+
+Returning Singapore residents who have travelled to the United Kingdom and United States will serve out their stay-home notices at hotels instead of at home, authorities said on Tuesday (Mar 24).
+
+Those returning from the two countries make up the largest share of imported cases so far, and this will help prevent the potential spread of the infection to their family members, said National Development Minister Lawrence Wong, who co-heads a multi-ministry task force on COVID-19. This is despite the fact that none of the returnees have passed the virus to their family, he said.
+
+Read the full article [here](https://www.channelnewsasia.com/news/singapore/covid19-returning-singapore-residents-uk-us-shn-hotels-12571490)
 
 #### <a id="health-declaration"></a> All travellers entering Singapore from Mar 27 must submit health declaration forms online
 

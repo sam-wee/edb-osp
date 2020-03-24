@@ -3,33 +3,44 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. For your own safety, please remember to:
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. 
 
-- [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
+### If you're returning home
 
+- Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
-- For Singaporeans, [e-register with the Ministry of Foreign Affairs (MFA)](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
+- Travellers (residents and long-term pass holders included) will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). 
 
+- Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
-- Singaporeans and PRs will always be welcome home, however, please [comply with Stay-Home Notices if applicable](https://www.ica.gov.sg/covid-19). 
+- Serve out your 14-day Stay-Home Notice upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom).
 
+- Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
-- For Singaporean students studying overseas, please read the [advisory](https://www.mfa.gov.sg/Newsroom/Press-Statements-Transcripts-and-Photos/2020/03/170320_Advisory-for-Singaporean-Students-Studying-Overseas) issued on 17 March 2020.
+- Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
 
-
-- Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19) from the Singapore Ministry of Health. 
-
-
-- More news resources and public statements can be found [below](#stay-home-notice).
-
+- Keep updated with the latest news resources and public statements [below](#latest-news).
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 
-We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
+### If you're based overseas
+
+- [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
+
+- For Singaporeans, [e-register with the Ministry of Foreign Affairs (MFA)](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
+
+- Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19) from the Singapore Ministry of Health. 
+
+- Subscribe to our official [Telegram channel](https://t.me/SGNchannel) (Tap on "JOIN" to subscribe) or join our regional Telegram chats to get advice and support from those in similar predicaments as you.
+
+- Keep updated with the latest news resources and public statements [below](#latest-news).
+
+- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 <hr>
 
+### [Latest news](#latest-news)
 * [All travellers entering Singapore from Mar 27 must submit health declaration forms online](#health-declaration)
 * [Singapore Airlines slashes 96% of capacity, grounds most planes](#sia-slashes-capacity)
 * [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)
@@ -42,6 +53,8 @@ We will keep this page updated on important developments on the COVID situation 
 * [Be prepared for the long haul on Covid-19: Foreign Minister Vivian Balakrishnan](#fm-vb-interview)
 * [Situation in Singapore remains under control, says PM Lee](#pm-lee-speech)
 * [Power in unity: Singapore’s battle against Covid-19](#sg-united)
+
+We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
 
@@ -158,6 +171,5 @@ Read more [here](https://www.channelnewsasia.com/news/singapore/coronavirus-pm-l
 Singapore has been effectively curbing the Covid-19 outbreak from assimilating further into the community – but what goes on behind the scenes? See how the unification of efforts among Singapore has strengthened the nation in its battle against Covid-19:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 _All articles updated as of 23 March 2020, 7.45pm(GMT+8:00)_

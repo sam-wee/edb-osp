@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inside the House of Mouse: Mark Evan Lim shares 4 secrets for budding concept and storyboard artists"
-permalink: /food-for-thought/from-the-community/anytime-mailbox-marcel-buechi
+permalink: /food-for-thought/from-the-community/artist-mark-evan-lim
 ---
 
 ### Inside the House of Mouse: Mark Evan Lim shares 4 secrets for budding concept and storyboard artists 

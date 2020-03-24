@@ -11,7 +11,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Travellers (residents and long-term pass holders included) will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
-- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom). 
+- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom) or download the list [here](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans.pdf). 
 
 - **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at designated government-arranged facilities for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information.
 

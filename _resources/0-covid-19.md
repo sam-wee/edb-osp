@@ -13,7 +13,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
-- Serve out your 14-day Stay-Home Notice upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, please stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom).
+- Serve out your 14-day Stay-Home Notice upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. We have negotiated special rates with hotels [here](http://go.gov.sg/sgn-shnaccom).
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 

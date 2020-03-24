@@ -13,7 +13,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom) or download the list [here](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans.pdf). 
 
-- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at designated government-arranged facilities for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Read our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf).
+- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at designated government-arranged facilities for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. You may refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf).
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 

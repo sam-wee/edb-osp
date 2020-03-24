@@ -9,8 +9,11 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Singaporeans and PRs will always be welcome home, however, please comply with Stay-Home Notices if applicable and take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
+- Travellers (residents and long-term pass holders included) will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). 
 
-- Keep updated with the latest news resources and public statements [below](#stay-home-notice).
+- Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
+
+- Keep updated with the latest news resources and public statements [below](#latest-news).
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
@@ -19,16 +22,32 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
 
-
 - For Singaporeans, [e-register with the Ministry of Foreign Affairs (MFA)](https://eregister.mfa.gov.sg/eregisterportal/common/preLoginEregisterView.action) or [find your nearest Singapore embassy](https://www.mfa.gov.sg/Services/Singapore-Citizens/I-Need-Help-Overseas) for further assistance.
 
 - Catch the latest on the current situation in Singapore on our [official Government site](https://go.gov.sg/2019ncov) or find out the latest case summary [here](https://www.moh.gov.sg/covid-19) from the Singapore Ministry of Health. 
+
+- Subscribe to our official [Telegram channel](https://t.me/SGNchannel) (Tap on "JOIN" to subscribe) or join our regional Telegram chats to get advice and support from those in similar predicaments as you.
+
+Main Chat
+http://go.gov.sg/sgn-ostelegram
+
+SGN Singapore (for those back home)
+https://t.me/SGNSingapore
+
+SGN Australia/ New Zealand
+https://t.me/SGNAusNZ
+
+SGN Europe / United Kingdom
+https://t.me/SGNEurope
+
+SGN North America
+https://t.me/SGNNorthAmerica
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 <hr>
 
-### Latest news 
+### [Latest news](#latest-news)
 * [All travellers entering Singapore from Mar 27 must submit health declaration forms online](#health-declaration)
 * [Singapore Airlines slashes 96% of capacity, grounds most planes](#sia-slashes-capacity)
 * [Additional Border Control Measures to Reduce Further Importation of Covid-19 Cases](#short-term-visitors-barred)

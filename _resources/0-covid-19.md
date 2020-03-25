@@ -24,7 +24,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 
-### <a id="based-overseas"></a> [If you're based overseas]
+### <a id="based-overseas"></a> If you're based overseas
 
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
 

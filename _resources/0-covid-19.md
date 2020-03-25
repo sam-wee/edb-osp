@@ -5,7 +5,7 @@ permalink: /resources/covid-19/
 
 In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news).
 
-### [If you're returning home](#returning-home)
+### <a id="returning-home"></a> If you're returning home
 
 - Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
@@ -24,7 +24,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 
-### [If you're based overseas](#based-overseas)
+### <a id="based-overseas"></a> [If you're based overseas]
 
 - [Sign up with us](http://go.gov.sg/sgn-covidupdates) for important updates if you're based overseas. 
 
@@ -40,7 +40,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 <hr>
 
-### [Latest news](#latest-news)
+### <a id="latest-news"></a> Latest news
 
 * [Tighter Measures To Minimise Further Spread Of Covid-19](#tighter-measures)
 * [Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close](#temp-measures)

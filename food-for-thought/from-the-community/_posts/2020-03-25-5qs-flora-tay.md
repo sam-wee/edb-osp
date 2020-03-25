@@ -9,7 +9,7 @@ permalink: /food-for-thought/from-the-community/5qs-flora-tay
 _Our 5Qs series is a chance for you to get to know more about folks in the Singapore Global Network community, where we pose 5 questions to exciting individuals to find out more about what they do!_
 
 By SGN
-<hr
+<hr>
 
 ![Image](/images/stories/2020/Mar/floratay1.png)
 _Michael and I “pak tor-ing” at our favourite haunt in the Bay Area._

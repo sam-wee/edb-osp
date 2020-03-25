@@ -23,6 +23,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
+[Download the checklist](http://go.gov.sg/sgn-returningoschecklist), and share them with fellow returning Singapore residents!
 
 ### <a id="based-overseas"></a> If you're based overseas
 

@@ -30,11 +30,11 @@ Make sure you keep moving! Gyms are closed but there are many alternative home e
 
 Working from home presents its own set of challenges. It’s important to stick to a daily routine. Get that morning coffee, shower and change into regular clothes instead of lounging around in your PJs. Set your mind right. 
 
-Entrepreneur has a great article with [12 tips to stay healthy while working from home](https://www.entrepreneur.com/article/243589) while CNA Lifestyle offers [7 handy productivity apps](https://cnalifestyle.channelnewsasia.com/trending/work-from-home-tech-apps-tips-productive-12541486) to make life easier.  LinkedIn also chimes in with a course on [how to set yourself and your teams up for success](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success) working remotely. 
+_Entrepreneur_ has a great article with [12 tips to stay healthy while working from home](https://www.entrepreneur.com/article/243589) while CNA Lifestyle offers [7 handy productivity apps](https://cnalifestyle.channelnewsasia.com/trending/work-from-home-tech-apps-tips-productive-12541486) to make life easier.  _LinkedIn_ also chimes in with a course on [how to set yourself and your teams up for success](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success) working remotely. 
 
 #### 4)	Keep the kids engaged
 
-We understand that it’s more stressful if you have children that need care or are trying to attend online classes. Buzzfeed has an article on how other parents are coping and some tips with a reminder that if you feel overwhelmed, it’s normal, others are feeling it too.
+We understand that it’s more stressful if you have children that need care or are trying to attend online classes. _Buzzfeed_ has an article on how other parents are coping and some tips with a reminder that if you feel overwhelmed, it’s normal, others are feeling it too.
 
 On the other hand, if you think you need advice on how to talk with your kids about coronavirus and why they have to stay at home, try this LyraHealth blogpost on how to support kids in this time.
 

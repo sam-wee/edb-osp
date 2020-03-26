@@ -17,7 +17,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
-- Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
+- Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
 

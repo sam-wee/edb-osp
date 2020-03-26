@@ -34,9 +34,9 @@ _Entrepreneur_ has a great article with [12 tips to stay healthy while working f
 
 #### 4)	Keep the kids engaged
 
-We understand that it’s more stressful if you have children that need care or are trying to attend online classes. _Buzzfeed_ has an article on how other parents are coping and some tips with a reminder that if you feel overwhelmed, it’s normal, others are feeling it too.
+We understand that it’s more stressful if you have children that need care or are trying to attend online classes. _Buzzfeed_ has an article on [how other parents are coping and some tips](https://www.buzzfeednews.com/article/annehelenpetersen/coronavirus-covid19-parents-kids-childcare) with a reminder that if you feel overwhelmed, it’s normal, others are feeling it too.
 
-On the other hand, if you think you need advice on how to talk with your kids about coronavirus and why they have to stay at home, try this LyraHealth blogpost on how to support kids in this time.
+On the other hand, if you think you need advice on how to talk with your kids about coronavirus and why they have to stay at home, try this LyraHealth blogpost on [how to support kids in this time](https://www.lyrahealth.com/blog/how-to-support-kids-during-coronavirus/).
 
 A few activities to keep your children engaged: 
 - Scholastic has created a [free learn-from-home site with 20+ days of learning and activities](https://classroommagazines.scholastic.com/support/learnathome.html) or check in on this [homeschool curriculum](https://allinonehomeschool.com/) which also has a list of [thinking games by grade](https://allinonehomeschool.com/thinking/).

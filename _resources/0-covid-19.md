@@ -19,6 +19,8 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
 
+- For returning pet owners from US & UK, download the info-pack [here](/docs/Info-Pack-for-returning-pet-owners-US-UK.pdf) to find out the steps required to bring your furry friends home with you! 
+
 - Keep updated with the latest news resources and public statements [below](#latest-news).
 
 - For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.

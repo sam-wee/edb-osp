@@ -43,6 +43,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 ### <a id="latest-news"></a> Latest news
 
+* [COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans](#financial-assistance)
 * [Tighter Measures To Minimise Further Spread Of Covid-19](#tighter-measures)
 * [Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close](#temp-measures)
 * [All travellers entering Singapore from Mar 27 must submit health declaration forms online](#health-declaration)
@@ -61,6 +62,14 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="financial-assistance"></a> COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans
+
+Financial assistance for the unemployed and low-income workers are set to increase as the COVID-19 outbreak unnerves businesses and employees across Singapore.“The best way to safeguard the well-being of our people is by supporting them to stay employed,” said Deputy Prime Minister and Finance Minister Heng Swee Keat in Parliament on Thursday (Mar 26).
+
+“As the impact of COVID-19 on our economy deepens, some workers will lose their jobs or see their incomes significantly reduced. We will help them.”
+
+Read the full article [here](https://www.channelnewsasia.com/news/singapore/covid19-coronavirus-budget-unemployment-benefits-heng-swee-keat-12578890)
 
 #### <a id="tighter-measures"></a> Tighter Measures To Minimise Further Spread Of Covid-19
 

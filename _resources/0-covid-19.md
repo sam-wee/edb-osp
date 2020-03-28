@@ -3,17 +3,19 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news).
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news). For further queries, drop us an email [here](mailto:hello@singaporeglobalnetwork.com).
 
 ### <a id="returning-home"></a> If you're returning home
 
 - Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
-- Travellers (residents and long-term pass holders included) will have to submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
+- All long-term pass holders will require an entry approval before entering or returning to Singapore from 29 Mar, 11.59pm, [submit your application for entry to ICA via email](mailto:_nCoV_request@ica.gov.sg).
+
+- Travellers (residents and long-term pass holders included) must submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom) or download the list [here](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans.pdf). 
 
-- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar 2359 onwards to stay at dedicated hotels for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. You may refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf).
+- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf) for more information.
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
@@ -22,8 +24,6 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - For returning pet owners from US & UK, download the info-pack [here](/docs/Info-Pack-for-returning-pet-owners-US-UK.pdf) to find out the steps required to bring your furry friends home with you! 
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
-
-- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
 
 [Download the checklist](http://go.gov.sg/sgn-returningoschecklist), and share them with fellow returning Singapore residents!
 
@@ -39,12 +39,11 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
 
-- For further queries, please contact us at [hello@singaporeglobalnetwork.com](mailto:hello@singaporeglobalnetwork.com). During this period, we know you may be anxious so we will do our best to get back to you in less than 12 hours.
-
 <hr>
 
 ### <a id="latest-news"></a> Latest news
 
+* [Entry approval required for all long-term pass holders entering Singapore](#entry-approval)
 * [COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans](#financial-assistance)
 * [Tighter Measures To Minimise Further Spread Of Covid-19](#tighter-measures)
 * [Temporary measures: Gatherings outside of school and work limited to 10 people, entertainment venues to close](#temp-measures)
@@ -64,6 +63,14 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="entry-approval"></a> Entry approval required for all long-term pass holders entering Singapore
+
+All long-term pass holders will require an entry approval before entering or returning to Singapore from Sunday (Mar 29) at 11.59pm, according to the Immigration and Checkpoints Authority (ICA), Ministry of Education (MOE) and Ministry of Manpower (MOM).
+
+Long-term pass holders include those who hold long-term visit passes, student passes, as well as those who have been granted in-principle approval for a long-term pass. 
+
+Read the full article [here](https://www.channelnewsasia.com/news/singapore/covid-19-entry-approval-required-for-all-long-term-pass-holders-12585386)
 
 #### <a id="financial-assistance"></a> COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans
 
@@ -207,4 +214,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 27 March 2020, 2.10pm(GMT+8:00)_
+_All articles updated as of 28 March 2020, 6.44pm(GMT+8:00)_

@@ -21,7 +21,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
 
-- For returning pet owners, download the info-pack [here](https://www.nparks.gov.sg/-/media/avs/migrated-content/animals-and-pets/bringing-animals-into-singapore-and-exporting/bringing-dogs-and-cats/info-pack-for-returning-pet-owners-(us-uk)_updated-27-mar-2020-1130h.pdf?la=en&hash=4E686D4EF93F4EC847772758AB2415DA6B346D4F) or check out the [AVS website](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore) to find out the steps required to bring your furry friends home with you! 
+- For returning pet owners, download Animal & Veterinary Service (AVS) info-pack [here](https://www.nparks.gov.sg/-/media/avs/migrated-content/animals-and-pets/bringing-animals-into-singapore-and-exporting/bringing-dogs-and-cats/info-pack-for-returning-pet-owners-(us-uk)_updated-27-mar-2020-1130h.pdf?la=en&hash=4E686D4EF93F4EC847772758AB2415DA6B346D4F) or check out the [AVS website](https://www.nparks.gov.sg/avs/pets/bringing-animals-into-singapore-and-exporting/bringing-in-and-transshipping-dogs-and-cats/preparing-to-bring-dogs-and-cats-into-singapore) to find out what you need to do to bring your furry friends home with you! 
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
 

@@ -9,7 +9,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
-- All long-term pass holders will require an entry approval before entering or returning to Singapore from 29 Mar, 11.59pm, [submit your application for entry to ICA via email](mailto:_nCoV_request@ica.gov.sg).
+- All long-term pass holders will require an entry approval before entering or returning to Singapore from 29 Mar, 11.59pm, [submit your application for entry to ICA via email](mailto:ICA_nCoV_request@ica.gov.sg).
 
 - Travellers (residents and long-term pass holders included) must submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 

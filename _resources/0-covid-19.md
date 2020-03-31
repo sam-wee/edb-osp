@@ -43,7 +43,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 ### Meet Codee
 
-(/images/Codee.jpg)
+![Image] (/images/Codee.jpg)
 
 Hello World! I’m Codee, and I was born out of a need to save the world. I’m here to answer some of your commonly-asked questions on COVID-19. I’m also still young and learning, and I may not have all the answers that you need, so please give me some time to learn the ropes.
 
@@ -228,4 +228,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 28 March 2020, 6.44pm(GMT+8:00)_
+_All articles updated as of 31 March 2020, 9.30pm(GMT+8:00)_

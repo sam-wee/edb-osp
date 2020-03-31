@@ -51,8 +51,6 @@ Hello World! I’m Codee, and I was born out of a need to save the world. I’m 
 
 It’s a trying time for everyone now, and I hope I can assuage some of your worries and concerns. You know what they say, tough times makes for stronger people, you and I both 😊 Take care and stay safe! And remember, I’m always here for you. ❤️
 
-</hr>
-
 <hr>
 
 ### <a id="latest-news"></a> Latest news

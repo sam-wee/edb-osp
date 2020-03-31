@@ -43,7 +43,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 ### Meet Codee
 
-![Image] (/images/Codee.jpg)
+![Image](/images/Codee.jpg)
 
 Hello World! I’m Codee, and I was born out of a need to save the world. I’m here to answer some of your commonly-asked questions on COVID-19. I’m also still young and learning, and I may not have all the answers that you need, so please give me some time to learn the ropes.
 

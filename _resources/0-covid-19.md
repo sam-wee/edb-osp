@@ -55,6 +55,7 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
+* [Circuit breaker to minimise further spread of COVID-19](#circuit-breakers)
 * [Entry approval required for all long-term pass holders entering Singapore](#entry-approval)
 * [COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans](#financial-assistance)
 * [Tighter Measures To Minimise Further Spread Of Covid-19](#tighter-measures)
@@ -75,6 +76,20 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="circuit-breakers"></a> Circuit breaker to minimise further spread of COVID-19
+
+PM Lee said in his address to the nation at 4pm on Friday (April 3) that “circuit breakers” will be applied for one month, in first instance, to pre-empt the trend of increasing local transmission of COVID-19.
+
+- Most workplaces, except for essential services and key economic sectors, will be closed.
+- Full home-based learning in schools and institutes of higher learning (IHLs) will start from 8 April. All pre-school and student care centres will also be closed.
+- Tighter restrictions on movements and gatherings of people. Gatherings should be confined to households, and go out only for essential things. All public attractions, sports and recreation facilities will also be closed.
+
+To provide some basic protection for those who need to head out, reusable masks will be distributed to all residents with registered home addresses. The distribution will take place progressively from 5 to 12 April 2020, from collection points at designated Community Clubs/ Centres (CCs) and Residents’ Committee (RC) Centres.
+
+Additionally, DPM Heng Swee Keat will announce additional support for households and businesses next Monday (6 Apr) in Parliament.
+
+Read the official statement [here](https://www.moh.gov.sg/news-highlights/details/circuit-breaker-to-minimise-further-spread-of-covid-19).
 
 #### <a id="entry-approval"></a> Entry approval required for all long-term pass holders entering Singapore
 
@@ -226,4 +241,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 31 March 2020, 9.30pm(GMT+8:00)_
+_All articles updated as of 3 Apr 2020, 7.00pm(GMT+8:00)_

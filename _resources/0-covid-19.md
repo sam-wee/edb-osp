@@ -55,7 +55,7 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
-* [Circuit breaker to minimise further spread of COVID-19](#circuit-breaker)
+* [Circuit breaker to minimise further spread of COVID-19](#circuit-breakers)
 * [Entry approval required for all long-term pass holders entering Singapore](#entry-approval)
 * [COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans](#financial-assistance)
 * [Tighter Measures To Minimise Further Spread Of Covid-19](#tighter-measures)

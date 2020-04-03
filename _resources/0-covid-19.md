@@ -241,4 +241,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 31 March 2020, 9.30pm(GMT+8:00)_
+_All articles updated as of 3 Apr 2020, 7.00pm(GMT+8:00)_

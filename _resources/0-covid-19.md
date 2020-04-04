@@ -78,7 +78,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 <hr>
 
-#### <a id="shn-expanded"></a> Stay-Home Notice requirements expanded to ASEAN countries, France, India and Switzerland
+#### <a id="shn-expanded"></a> Stay-Home Notice requirements expanded to returnees from ASEAN countries, France, India and Switzerland
 
 From 5 April 11.59pm, Singapore residents returning from ASEAN countries, France, India and Switzerland must self-isolate for 14 days at dedicated hotels, in an expansion of the stay-home notice requirements to include more countries. This arrangement will continue to apply to returnees from the UK and US. 
 

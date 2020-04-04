@@ -15,7 +15,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom) or download the list [here](/docs/Hotel-Accommodation-Rates-for-Returning-Overseas-Singaporeans.pdf). 
 
-- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf) for more information.
+- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.** **It is also mandatory for all Singaporeans returning ASEAN countries, France, India and Switzerland and arriving from 5 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf) for more information.
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
@@ -55,6 +55,7 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
+* [Returnees from ASEAN countries, France, India and Switzerland must serve SHN at dedicated hotels](#shn-expanded)
 * [Circuit breaker to minimise further spread of COVID-19](#circuit-breakers)
 * [Entry approval required for all long-term pass holders entering Singapore](#entry-approval)
 * [COVID-19 Resilience Budget: Unemployment benefits increase; higher cash payouts for adult Singaporeans](#financial-assistance)
@@ -76,6 +77,12 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="shn-expanded"></a> Stay-Home Notice requirements expanded to ASEAN countries, France, India and Switzerland
+
+From 5 April 11.59pm, Singapore residents returning from ASEAN countries, France, India and Switzerland must self-isolate for 14 days at dedicated hotels, in an expansion of the stay-home notice requirements to include more countries. This arrangement will continue to apply to returnees from the UK and US. 
+
+Read the official statement [here](https://www.moh.gov.sg/news-highlights/details/expansion-of-enhanced-stay-home-notice-requirements-to-more-countries).
 
 #### <a id="circuit-breakers"></a> Circuit breaker to minimise further spread of COVID-19
 
@@ -241,4 +248,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 3 Apr 2020, 7.00pm(GMT+8:00)_
+_All articles updated as of 4 Apr 2020, 11.00pm(GMT+8:00)_

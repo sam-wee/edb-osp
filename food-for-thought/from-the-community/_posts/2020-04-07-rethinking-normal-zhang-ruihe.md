@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rethinking ‘Normal’
-permalink: /food-for-thought/from-the-community/2020-04-07-celebrating-cny-in-argentina
+permalink: /food-for-thought/from-the-community/2020-04-07-rethinking-normal-zhang-ruihe
 ---
 
 # Rethinking ‘Normal’

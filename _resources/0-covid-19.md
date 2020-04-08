@@ -55,6 +55,8 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
+* [Expansion of the Stay-Home Noticed requirements to returnees from all countries](#shn-all)
+* [DPM Heng Swee Keat announces further COVID-19 support measures in new 'Solidarity Budget'](#solidarity-budget)
 * [Returnees from ASEAN countries, France, India and Switzerland must serve SHN at dedicated hotels](#shn-expanded)
 * [Circuit breaker to minimise further spread of COVID-19](#circuit-breakers)
 * [Entry approval required for all long-term pass holders entering Singapore](#entry-approval)
@@ -77,6 +79,27 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="shn-all"></a> All returnees will need to stay at dedicated hotels to serve out their SHN
+
+From 9 April 2020, 11.59pm, all Singapore Citizens, Permanent Residents and Long Term Pass holders entering Singapore will be required to serve a 14-day self-isolation at dedicated Stay-Home Notice (SHN) facilities, in an expansion of the stay-home notice requirements. 
+
+All returnees who disregarded prevailing travel advisories and left Singapore from 27 March 2020, would be required to bear the full cost of their 14-day SHN at dedicated SHN facilities. 
+
+Read the official statement [here](https://www.moh.gov.sg/news-highlights/details/expansion-of-the-enhanced-stay-home-notice-requirements-to-all-countries)
+
+#### <a id="solidarity-budget"></a> Further COVID-19 support measures in new 'Solidarity Budget'
+
+DPM and Finance Minister Heng Swee Keat announced on Monday (Apr 6) a third round of support measures to help tide businesses, workers and households through the COVID-19 outbreak. The new $5.1billion "Solidarity Budget" is an additional boost to the $55billion announced earlier in February and March, in the Unity Budget and the Resilience Budget. 
+
+Here are some of the key highlights:
+
+- All adult Singaporeans to receive one-off $600 Solidarity Payment in April
+- To help save jobs, all firms to get 75% wage subsidy for local employees in April
+- Self-employed relief scheme to include those with some employment income, higher property annual value threshold
+- Government to increase risk share on loans to 90% to ensure credit access for firms
+
+Read his full speech [here](https://www.singaporebudget.gov.sg/budget_2020/solidarity-budget/solidarity-budget-statement), and more on the "Solidarity Budget" [here](https://www.gov.sg/article/solidarity-budget-2020-further-support-for-businesses-through-the-circuit-breaker-period).
 
 #### <a id="shn-expanded"></a> Stay-Home Notice requirements expanded to returnees from ASEAN countries, France, India and Switzerland
 

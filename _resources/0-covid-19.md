@@ -15,7 +15,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom).
 
-- **It is mandatory for all Singaporeans returning from US and UK and arriving from 25 Mar, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.** **It is also mandatory for all Singaporeans returning from ASEAN countries, France, India and Switzerland and arriving from 5 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.** Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf) for more information.
+- **It is mandatory for all Singaporeans, permanent residents and long-term pass holders arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.**  Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf) for more information.
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
@@ -84,7 +84,7 @@ We will keep this page updated on important developments on the COVID situation 
 
 From 9 April 2020, 11.59pm, all Singapore Citizens, Permanent Residents and Long Term Pass holders entering Singapore will be required to serve a 14-day self-isolation at dedicated Stay-Home Notice (SHN) facilities, in an expansion of the stay-home notice requirements. 
 
-All returnees who disregarded prevailing travel advisories and left Singapore from 27 March 2020, would be required to bear the full cost of their 14-day SHN at dedicated SHN facilities. 
+All returnees who disregarded prevailing travel advisories and left Singapore from 27 March 2020, will be required to bear the full cost of their 14-day SHN at dedicated SHN facilities. 
 
 Read the official statement [here](https://www.moh.gov.sg/news-highlights/details/expansion-of-the-enhanced-stay-home-notice-requirements-to-all-countries)
 

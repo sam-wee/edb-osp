@@ -55,7 +55,7 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
-* [Expansion of the Stay-Home Noticed requirements to returnees from all countries])(#shn-all)
+* [Expansion of the Stay-Home Noticed requirements to returnees from all countries](#shn-all)
 * [DPM Heng Swee Keat announces further COVID-19 support measures in new 'Solidarity Budget'](#solidarity-budget)
 * [Returnees from ASEAN countries, France, India and Switzerland must serve SHN at dedicated hotels](#shn-expanded)
 * [Circuit breaker to minimise further spread of COVID-19](#circuit-breakers)

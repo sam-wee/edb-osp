@@ -17,7 +17,7 @@ We know that it is not easy to be indoors, and never in our wildest imaginations
 
 We know that being stuck indoors with kids for 14 days is no easy feat. Keeping the little ones entertained in the constrains of your home, we are here to help the best we can! We have put together some resources to keep the kids busy!
 
--	**[Home Based Learning](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)**
+#### -	**[Home Based Learning](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)**
 
 The Early Childhood Development Agency (ECDA) have gathered Home-based Learning Activities and Resources designed by preschools to share with you here every Monday, starting from 6 April 2020. These materials are designed specifically for infants to children in kindergarten. They come with clear instructions on what to do so you can easily carry them out at home. You can pick and choose what you think is suitable for your child, according to their age. Not only can your child learn, it is also a time for you to bond with your child through these activities!
 

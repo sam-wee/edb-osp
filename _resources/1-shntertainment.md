@@ -22,7 +22,7 @@ We know that being stuck indoors with kids for 14 days is no easy feat. Keeping 
 
 The Early Childhood Development Agency (ECDA) have gathered Home-based Learning Activities and Resources designed by preschools to share with you here every Monday, starting from 6 April 2020. These materials are designed specifically for infants to children in kindergarten. They come with clear instructions on what to do so you can easily carry them out at home. You can pick and choose what you think is suitable for your child, according to their age. Not only can your child learn, it is also a time for you to bond with your child through these activities!
 
-[Click here to access their materials](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)
+[**Click here to access their materials**](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)
 
 #####	SGN Kids’ Resources
 
@@ -31,6 +31,8 @@ Why not read them a book - like our very own SG version of the Great Zodiac Race
 You can also give creativity a go by getting crafty! This pop up cityscape of [Singapore](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-cityscape) will give you and your kids a chance to bond creatively!
 
 [Click here to discover more kids' resources](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/)
+
+<hr>
 
 ### <a id="fun-stuff"></a> For the Bored
 
@@ -56,11 +58,15 @@ Read about Thiviyan’s recount to discovering a disappointing Kung Pao chicken 
 
 Discover how Rosalyn Lee (better know as [@heyrozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of SHN alone. 
 
+<hr>
+
 ### <a id="shn-learning"></a> For the Discoverers
 -	Insert the infographic for the professionals to do online learning 
 -	Webinars 
 -	LKYSPP 
 -	Tech +65
+
+<hr>
 
 ### <a id="reading-pleasure"></a> For the Bookworms
 

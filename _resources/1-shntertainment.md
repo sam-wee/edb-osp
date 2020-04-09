@@ -22,7 +22,7 @@ We know that being stuck indoors with kids for 14 days is no easy feat. Keeping 
 
 The Early Childhood Development Agency (ECDA) have gathered Home-based Learning Activities and Resources designed by preschools to share with you here every Monday, starting from 6 April 2020. These materials are designed specifically for infants to children in kindergarten. They come with clear instructions on what to do so you can easily carry them out at home. You can pick and choose what you think is suitable for your child, according to their age. Not only can your child learn, it is also a time for you to bond with your child through these activities!
 
-[**Click here to access their materials**](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)
+**[Click here to access their materials](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)**
 
 #####	SGN Kids’ Resources
 
@@ -40,7 +40,12 @@ You can also give creativity a go by getting crafty! This pop up cityscape of [S
 
 Bored? Why not tell the world? After all, social distancing does not mean social isolation. Keep your friends and family updated with these templates. Share them on your social media channels and tag us @singaporeglobalnetwork, cos yknow, we get bored too ;)
 
-![Image](/images/shntertainment-resources/SHNtertainment-Puzzle.jpg)
+- [SHNtertainment Crossword Puzzle](#)
+- [My SHN Happenings](#)
+- [Post SHN Happenings](#)
+- [SHN Bingo](#)
+- [SHN GIF Challenge](#)
+- [My SHN Exercise Checklist](#)
 
 ##### Music heals wounds that medicine cannot touch
 

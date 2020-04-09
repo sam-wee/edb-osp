@@ -2,7 +2,9 @@
 title: SHNtertainment
 permalink: /resources/shntertainment/
 ---
-### SHNtertainment
+
+
+We know that it is not easy to be indoors, and never in our wildest imaginations did we expect Singapore to no be able to eat out, or even go to our friends’ houses. But with the escalating covid-19 pandemic, we all have to play a part in keeping Singapore safe, and that is to STAY HOME. We have put together this page, to hopefully keep you entertained during your SHN period and through these circuit breaker measures. Keep checking back, we will try to update it as often as we can! THANK YOU for keeping us safe!
 
 * [For the Kiddos](#kid-activities)  
 * [For the Bored](#fun-stuff)
@@ -13,26 +15,37 @@ permalink: /resources/shntertainment/
 
 ### <a id="kid-activities"></a> For the Kiddos
 
-Stuck indoors with kids for 14 days is no easy feat. 
+We know that being stuck indoors with kids for 14 days is no easy feat. Keeping the little ones entertained in the constrains of your home, we are here to help the best we can! We have put together some resources to keep the kids busy!
 
 -	**[Home Based Learning](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)**
 
-The Early Childhood Development Agency (ECDA) have gathered Home-based Learning Activities and Resources designed by preschools to share with you here every Monday, starting from 6 April 2020. These materials are designed specifically for infants to K2 children. The activities come with clear instructions on what to do so you can easily carry them out at home. You can pick and choose what you think is suitable for your child, according to their age.Not only can your child learn, it is also a time for you to bond with your child through these activities!
+The Early Childhood Development Agency (ECDA) have gathered Home-based Learning Activities and Resources designed by preschools to share with you here every Monday, starting from 6 April 2020. These materials are designed specifically for infants to children in kindergarten. They come with clear instructions on what to do so you can easily carry them out at home. You can pick and choose what you think is suitable for your child, according to their age. Not only can your child learn, it is also a time for you to bond with your child through these activities!
 
 -	**[SGN Kids’ Resources](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/)**
 
-So why not read them a book - like our very own SG version of the Great Zodiac Race [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#great-zodiac-race) or have them check out our hidden gems in Singapore [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-hidden-gems) so that you can plan on where to go to after covid is over! 
+Why not read them a book - like our very own SG version of the Great Zodiac Race [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#great-zodiac-race) or have them check out our hidden gems in Singapore [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-hidden-gems) so that you can plan on where to go to after covid is over! 
 
-You can also give creativity a go by getting crafty! This pop up cityscape of [Singapore](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-cityscape) will give you and your kids a chance to bond creatively! 
+You can also give creativity a go by getting crafty! This pop up cityscape of [Singapore](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-cityscape) will give you and your kids a chance to bond creatively!
 
 ### <a id="fun-stuff"></a> For the Bored
 
-Bored? Play around with these puzzles and templates! Share them on your social media channels and tag us @singaporeglobalnetwork
+-	**[No one's life is as perfect as their instagram feed](go.gov.sg/wfhjam)**
+
+Bored? Why not tell the world? After all, social distancing does not mean social isolation. Keep your friends and family updated with these templates. Share them on your social media channels and tag us @singaporeglobalnetwork, cos yknow, we get bored too ;)
 
 ![Image](/images/shntertainment-resources/SHNtertainment-Puzzle.jpg)
 
--	Check out our very own SGN work from home jam on Spotify here.
--	Hear from Team SGN on what we have been doing to keep ourselves SANE during these crazy times. 
+-	**[Music heals wounds that medicine cannot touch](go.gov.sg/wfhjam)**
+
+Is music your only company this month? Check out our very own SGN work from home jam on Spotify [here](go.gov.sg/wfhjam).
+
+-	**[The secret ingredient is love](tbc)**
+
+Stuck at home? Then there is no better time than to be a masterchef. Check out some of theses recipes that we have put together so that you can have a chance at being the next Michelin chef!
+- *[Sugee Cookies and Chicken Dum Briyani](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/dum-briyani-in-the-prairies)*
+
+Read about Thiviyan’s recount to discovering a disappointing kind of Kung Pao chicken while studying in small town Camrose, Canada. Quickly realising that cooking his favourite Asian dishes is better, Thiviyan recreates his version of Chicken Dum Briyani and Sugee cookies – a Deepavali favourite – make sure you give it a try!
+ 
 
 ### <a id="shn-learning"></a> For the Discoverers
 -	Insert the infographic for the professionals to do online learning 

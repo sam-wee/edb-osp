@@ -63,7 +63,7 @@ Read about Thiviyan’s recount to discovering a disappointing Kung Pao chicken 
 
 - *[Bak Chor Beehoon to Bak Kut Teh Porridge](#)*
 
-Discover how Rosalyn Lee (better know as [@heyrozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of SHN alone. 
+Discover how Rosalyn Lee (better known as [@heyrozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of SHN alone. 
 
 <hr>
 
@@ -71,7 +71,10 @@ Discover how Rosalyn Lee (better know as [@heyrozz](https://www.instagram.com/he
 
 Have you ran out of films to watch on Netflix? Or baked enough to last a month? Perhaps it is time to feed your mind instead. Check out these resources that we have put together, maybe this would be a month of discovering interests that you never knew you had!
 
--	Insert the infographic for the professionals to do online learning 
+![Image](/images/shntertainment-resources/online-learning-resources.jpg)
+
+[Click here to view the PDF version](https://www.singaporeglobalnetwork.com/docs/SGN-Online-Learning-Resources.pdf) and access the links shown above
+
 -	Webinars 
 -	LKYSPP 
 -	Tech +65

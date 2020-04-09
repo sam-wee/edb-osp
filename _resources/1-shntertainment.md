@@ -61,7 +61,7 @@ Stuck at home? Then there is no better time than to be a masterchef. Check out s
 
 Read about Thiviyan’s recount to discovering a disappointing Kung Pao chicken while studying in a small town in Canada. Realising that cooking his favourite Asian dishes is better, Thiviyan recreates his version of Chicken Dum Briyani and Sugee cookies - make sure you give it a try!
 
-- *[Bak Chor Beehoon to Bak Kut Teh Porridge](#)*
+- *[Coming Soon!](#)*
 
 Discover how Rosalyn Lee (better known as [@heyrozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of SHN alone. 
 

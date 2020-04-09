@@ -4,7 +4,7 @@ permalink: /resources/shntertainment/
 ---
 
 
-We know that it is not easy to be indoors, and never in our wildest imaginations did we expect Singapore to no be able to eat out, or even go to our friends’ houses. But with the escalating covid-19 pandemic, we all have to play a part in keeping Singapore safe, and that is to STAY HOME. We have put together this page, to hopefully keep you entertained during your SHN period and through these circuit breaker measures. Keep checking back, we will try to update it as often as we can! THANK YOU for keeping us safe!
+We know that it is not easy to be indoors, and never in our wildest imaginations did we expect that in Singapore, we aren't able to eat out, or even go to our friends’ houses. But with the escalating covid-19 pandemic, we all have to play a part in keeping Singapore safe, and that is to STAY HOME. We have put together this page, to hopefully keep you entertained during your SHN period and through these circuit breaker measures. Keep checking back, we will try to update it as often as we can! THANK YOU for keeping us safe!
 
 * [For the Kiddos](#kid-activities)  
 * [For the Bored](#fun-stuff)

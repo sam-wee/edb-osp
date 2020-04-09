@@ -40,12 +40,14 @@ You can also give creativity a go by getting crafty! This pop up cityscape of [S
 
 Bored? Why not tell the world? After all, social distancing does not mean social isolation. Keep your friends and family updated with these templates. Share them on your social media channels and tag us @singaporeglobalnetwork, cos yknow, we get bored too ;)
 
-- [SHNtertainment Crossword Puzzle](#)
-- [My SHN Happenings](#)
-- [Post SHN Happenings](#)
-- [SHN Bingo](#)
-- [SHN GIF Challenge](#)
-- [My SHN Exercise Checklist](#)
+![Image](/images/shntertainment-resources/SHNtertainment-template-preview.png)
+
+- [SHNtertainment Crossword Puzzle](https://d33wubrfki0l68.cloudfront.net/10a6b9cdce2fd6e1402687a2f63ff1da4372b0de/384d8/images/shntertainment-resources/shntertainment-puzzle.jpg)
+- [My SHN Happenings](https://d33wubrfki0l68.cloudfront.net/cdadd941fa79ccd5bebe309ba52d43a7df3f9078/c59a6/images/shntertainment-resources/shntertainment-happenings.jpg)
+- [Post SHN Happenings](https://d33wubrfki0l68.cloudfront.net/77b27aaa2d2e2f953c2590a121aceaa5f964984b/d32fb/images/shntertainment-resources/shntertainment-post-happenings.jpg)
+- [SHN Bingo](https://d33wubrfki0l68.cloudfront.net/bf7770990960230dbcb7b12250772045dcdabad8/6217c/images/shntertainment-resources/shntertainment-bingo.jpg)
+- [SHN GIF Challenge](https://d33wubrfki0l68.cloudfront.net/4c58d6cbb67217b7083e90d3a2c8d172ac53d8a4/4c157/images/shntertainment-resources/shntertainment-gif-challenge.jpg)
+- [My SHN Exercise Checklist](https://d33wubrfki0l68.cloudfront.net/17e23dd7c6321541e62718eba4f1baac288824c1/62dfc/images/shntertainment-resources/shntertainment-exercise-checklist.jpg)
 
 ##### Music heals wounds that medicine cannot touch
 
@@ -53,7 +55,7 @@ Is music your only company this month? Check out our very own SGN work from home
 
 ##### The secret ingredient is love
 
-Stuck at home? Then there is no better time than to be a masterchef. Check out some of theses recipes that we have put together so that you can have a chance at being the next Michelin chef! Do you have a signature dish, write to us a hello@singaporeglobalnetwork so we can share your recipe with the rest!
+Stuck at home? Then there is no better time than to be a masterchef. Check out some of theses recipes that we have put together so that you can have a chance at being the next Michelin chef! If you have a signature dish, write to us a hello@singaporeglobalnetwork so we can share your recipe with the rest!
 
 - *[Sugee Cookies and Chicken Dum Briyani](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/dum-briyani-in-the-prairies)*
 
@@ -66,6 +68,9 @@ Discover how Rosalyn Lee (better know as [@heyrozz](https://www.instagram.com/he
 <hr>
 
 ### <a id="shn-learning"></a> For the Discoverers
+
+Have you ran out of films to watch on Netflix? Or baked enough to last a month? Perhaps it is time to feed your mind instead. Check out these resources that we have put together, maybe this would be a month of discovering interests that you never knew you had!
+
 -	Insert the infographic for the professionals to do online learning 
 -	Webinars 
 -	LKYSPP 

@@ -22,29 +22,29 @@ We know that being stuck indoors with kids for 14 days is no easy feat. Keeping 
 
 The Early Childhood Development Agency (ECDA) have gathered Home-based Learning Activities and Resources designed by preschools to share with you here every Monday, starting from 6 April 2020. These materials are designed specifically for infants to children in kindergarten. They come with clear instructions on what to do so you can easily carry them out at home. You can pick and choose what you think is suitable for your child, according to their age. Not only can your child learn, it is also a time for you to bond with your child through these activities!
 
-[Click here to find out more](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)
+[Click here to access their materials](https://www.ecda.gov.sg/growatbeanstalk/Pages/Home-Based%20Learning/Home-Based-Learning.aspx)
 
 #####	SGN Kids’ Resources
 
-Why not read them a book - like our very own SG version of the Great Zodiac Race [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#great-zodiac-race) or have them check out our hidden gems in Singapore [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-hidden-gems) so that you can plan on where to go to after covid is over! 
+Why not read them a book - like our very own SG version of the Great Zodiac Race [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#great-zodiac-race) or have them check out our hidden gems in Singapore [here](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-hidden-gems) so that you can plan on where to go after covid is over! 
 
 You can also give creativity a go by getting crafty! This pop up cityscape of [Singapore](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/#sg-cityscape) will give you and your kids a chance to bond creatively!
 
-[Click here for more kids' resources](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/)
+[Click here to discover more kids' resources](https://www.singaporeglobalnetwork.com/resources/resources-for-kids/)
 
 ### <a id="fun-stuff"></a> For the Bored
 
--	**[No one's life is as perfect as their instagram feed](go.gov.sg/wfhjam)**
+##### No one's life is as perfect as their instagram feed
 
 Bored? Why not tell the world? After all, social distancing does not mean social isolation. Keep your friends and family updated with these templates. Share them on your social media channels and tag us @singaporeglobalnetwork, cos yknow, we get bored too ;)
 
 ![Image](/images/shntertainment-resources/SHNtertainment-Puzzle.jpg)
 
--	**[Music heals wounds that medicine cannot touch](go.gov.sg/wfhjam)**
+##### Music heals wounds that medicine cannot touch
 
 Is music your only company this month? Check out our very own SGN work from home jam on Spotify [here](go.gov.sg/wfhjam).
 
--	**[The secret ingredient is love](tbc)**
+##### The secret ingredient is love
 
 Stuck at home? Then there is no better time than to be a masterchef. Check out some of theses recipes that we have put together so that you can have a chance at being the next Michelin chef! Do you have a signature dish, write to us a hello@singaporeglobalnetwork so we can share your recipe with the rest!
 
@@ -59,8 +59,8 @@ Discover how Rosalyn Lee (better know as [@heyrozz](https://www.instagram.com/he
 ### <a id="shn-learning"></a> For the Discoverers
 -	Insert the infographic for the professionals to do online learning 
 -	Webinars 
-o	LKYSPP 
-o	Tech +65
+-	LKYSPP 
+-	Tech +65
 
 ### <a id="reading-pleasure"></a> For the Bookworms
 

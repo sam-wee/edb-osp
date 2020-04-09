@@ -75,10 +75,6 @@ Have you ran out of films to watch on Netflix? Or baked enough to last a month? 
 
 _[Click here](https://www.singaporeglobalnetwork.com/docs/SGN-Online-Learning-Resources.pdf) for the PDF version_
 
--	Webinars 
--	LKYSPP 
--	Tech +65
-
 <hr>
 
 ### <a id="reading-pleasure"></a> For the Bookworms

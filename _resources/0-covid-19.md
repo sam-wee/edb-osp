@@ -13,9 +13,11 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Travellers (residents and long-term pass holders included) must submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
-- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. If possible, stay at a temporary accommodation. View the special rates we've negotiated with the hotels [here](http://go.gov.sg/sgn-shnaccom).
+- Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. 
 
 - **It is mandatory for all Singaporeans, permanent residents and long-term pass holders arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.**  Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](/docs/FAQs-for-Returning-Singaporeans.pdf) for more information.
+
+- If you have completed your 14-day SHN, and need a short-term accommodation during this period. You may consider a temporary accommodation; view the special rates we've negotiated with the hotels [here](https://go.gov.sg/sgn-shorttermaccom).
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 
@@ -271,4 +273,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 4 Apr 2020, 11.00pm(GMT+8:00)_
+_All articles updated as of 10 Apr 2020, 4.30pm(GMT+8:00)_

@@ -63,7 +63,7 @@ Read about Thiviyan’s recount to discovering a disappointing Kung Pao chicken 
 
 - [From Bak Kut Teh Porridge to Bak Chor Bee Hoon](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/from-bak-kut-teh-porridge-to-bak-chor-bee-hoon)
 
-Discover how Rosalyn Lee (better known as [@heyrozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of SHN alone. 
+Discover how Rosalyn Lee (better known as [Rozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of Stay Home Notice (SHN) alone.
 
 <hr>
 

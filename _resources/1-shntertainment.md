@@ -51,7 +51,7 @@ Bored? Why not tell the world? After all, social distancing does not mean social
 
 ##### Music heals wounds that medicine cannot touch
 
-Is music your only company this month? Check out our very own SGN work from home jam on Spotify [here](go.gov.sg/wfhjam).
+Is music your only company this month? Check out our very own SGN work from home jam on Spotify [here](https://go.gov.sg/wfhjam).
 
 ##### The secret ingredient is love
 
@@ -61,7 +61,7 @@ Stuck at home? Then there is no better time than to be a masterchef. Check out s
 
 Read about Thiviyan’s recount to discovering a disappointing Kung Pao chicken while studying in a small town in Canada. Realising that cooking his favourite Asian dishes is better, Thiviyan recreates his version of Chicken Dum Briyani and Sugee cookies - make sure you give it a try!
 
-- *[Coming Soon!](#)*
+- [From Bak Kut Teh Porridge to Bak Chor Bee Hoon](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/from-bak-kut-teh-porridge-to-bak-chor-bee-hoon)
 
 Discover how Rosalyn Lee (better known as [@heyrozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of SHN alone. 
 

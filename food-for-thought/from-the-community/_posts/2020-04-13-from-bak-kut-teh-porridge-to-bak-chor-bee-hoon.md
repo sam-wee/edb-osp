@@ -15,12 +15,12 @@ After returning from New York City and landing safely back in Singapore, Rozz wa
 
 In the first week of her SHN, she came up with a strategy of using the same ingredients to produce different dishes. Using 500g of minced pork, she boiled it to cook _Bak Chor Beehoon_, sauteed it with shrooms to create a rice bowl, and rolled them into balls for a spinach soup. Using prawns, she made dishes such as thai pomelo salad and prawn noodle soup. Rozz even added pork ribs into the prawn noodle soup and used the rest of the meat to make some delicious _Bak Kut Teh porridge_!
 
-![Images](/images/stories/2020/Apr/rozz-dishes.png)
+![Images](/images/stories/2020/Apr/rozz-dishes-01.png)
 _Some of the solo meals Rozz cooked during her SHN (Photo credits: [@heyrozz](https://www.instagram.com/heyrozz/))_
 
 Rozz’s ‘hack’ when it comes to living alone is to not waste food. For example, instead of throwing out her leftover rice from lunch, she transformed it into porridge by adding water, dried japanese scallops and goji berries. She then topped it off with other ingredients like leftover minced pork and mushroom stirfy for that extra deliciousness.
 
-<image>
+![Images](/images/stories/2020/Apr/rozz-dishes-02.png)
 _Leftover rice from lunch that Rozz transformed into porridge for dinner (Photo credits: [@heyrozz](https://www.instagram.com/heyrozz/))_
 
 Another rice hack that Rozz has is to cook an estimate of 3 portions worth at one go. The first portion she would eat steaming hot with curry, while the rest goes into her fridge to make porridge or fried rice for the days after. She shared that she turns her ingredients to soups and stews so they wouldkeep longer and can just be heated up whenever she is too lazy to cook!
@@ -29,7 +29,7 @@ Feeling inspired for your next meal? We’ve put together two of Rozz’s very o
 
 ### Bak Kut Teh Porridge with Steamed Greens:
 
-<image>
+![Images](/images/stories/2020/Apr/rozz-dishes-03.png)
 
 **Ingredients Used:**
 
@@ -64,7 +64,7 @@ Cooking Method:
 
 ### Bak Chor Bee hoon :
 
-<image>
+![Images](/images/stories/2020/Apr/rozz-dishes-04.png)
 
 **Ingredients Used:**
 

@@ -23,7 +23,7 @@ Rozz’s ‘hack’ when it comes to living alone is to not waste food. For exam
 ![Images](/images/stories/2020/Apr/rozz-dishes-02.png)
 _Leftover rice from lunch that Rozz transformed into porridge for dinner (Photo credits: [@heyrozz](https://www.instagram.com/heyrozz/))_
 
-Another rice hack that Rozz has is to cook an estimate of 3 portions worth at one go. The first portion she would eat steaming hot with curry, while the rest goes into her fridge to make porridge or fried rice for the days after. She shared that she turns her ingredients to soups and stews so they wouldkeep longer and can just be heated up whenever she is too lazy to cook!
+Another rice hack that Rozz has is to cook an estimate of 3 portions worth at one go. The first portion she would eat steaming hot with curry, while the rest goes into her fridge to make porridge or fried rice for the days after. She shared that she turns her ingredients to soups and stews so they would keep longer and can just be heated up whenever she is too lazy to cook!
 
 Feeling inspired for your next meal? We’ve put together two of Rozz’s very own recipes that you can easily tackle in your own kitchen: 
 

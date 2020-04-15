@@ -55,12 +55,14 @@ Is music your only company this month? Check out our very own SGN work from home
 
 ##### The secret ingredient is love
 
+![Image](/images/shntertainment-resources/SHNtertainment-recipe-1.jpg)
 Stuck at home? Then there is no better time than to be a masterchef. Check out some of theses recipes that we have put together so that you can have a chance at being the next Michelin chef! If you have a signature dish, write to us a hello@singaporeglobalnetwork so we can share your recipe with the rest!
 
 - [Sugee Cookies and Chicken Dum Briyani](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/dum-briyani-in-the-prairies)
 
 Read about Thiviyan’s recount to discovering a disappointing Kung Pao chicken while studying in a small town in Canada. Realising that cooking his favourite Asian dishes is better, Thiviyan recreates his version of Chicken Dum Briyani and Sugee cookies - make sure you give it a try!
 
+![Image](/images/shntertainment-resources/SHNtertainment-recipe-2.jpg)
 - [From Bak Kut Teh Porridge to Bak Chor Bee Hoon](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/from-bak-kut-teh-porridge-to-bak-chor-bee-hoon)
 
 Discover how Rosalyn Lee (better known as [Rozz](https://www.instagram.com/heyrozz/)) preps her fabulous home cooked meals as she survives through 14 days of Stay Home Notice (SHN) alone.

@@ -18,7 +18,7 @@ sections:
               url: /resources/covid-19/
             - title: Things to do
               description: Events to connect
-              url: /events/sss-in-ldn-feb2020/
+              url: /events/
             - title: Food for Thought
               description: Stories to share
               url: /food-for-thought/
@@ -35,5 +35,5 @@ sections:
         subtitle: Latest happenings around the world
         <!--description: This is a test sentence-->
         button: Discover our events
-        url: /events/sss-in-ldn-feb2020/
+        url: /events/
 ---

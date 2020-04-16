@@ -1,7 +1,6 @@
 ---
 title: Singapore Speakers Series in Shanghai (29 Nov)
-permalink: /events/sss-in-sha-nov2019/
-third_nav_title: November 2019
+permalink: /events/ssssha-nov2019/
 ---
 
 ![Image](/images/events/SSS/2019-shanghai/shanghai1.jpeg)

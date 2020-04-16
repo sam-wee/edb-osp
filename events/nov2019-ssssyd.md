@@ -1,23 +1,13 @@
 ---
-title: Singapore Speakers Series in New York (4 Nov)
-permalink: /events/sss-in-ny-nov2019/
-third_nav_title: November 2019
+title: Singapore Speakers Series in Sydney (13 Nov)
+permalink: /events/ssssyd-nov2019/
 ---
 
-![Image](/images/events/SSS/2019-newyork/ny1.jpg)
+On 13 Nov, we had the pleasure of hosting Mr Gautam Banerjee, Senior Managing Director and Chairman of Blackstone Singapore, at our Singapore Speakers Series event in Sydney!
 
-On 4 Nov, we had the pleasure of hosting Chief Executive Officer of GIC, Mr Lim Chow Kiat, in New York where he shared GIC’s strategies to stay ahead of the curve amidst an uncertain global investment environment, as well as valuable insights on the developments and opportunities in Asia.
+![Image](/images/events/SSS/2019-sydney/sydney1.jpeg)
 
-![Image](/images/events/SSS/2019-newyork/ny2.jpg)
-
-Check out the pictures below for some highlights from the event!
-
-![Image](/images/events/SSS/2019-newyork/ny3.jpg)
-![Image](/images/events/SSS/2019-newyork/ny4.jpg)
-![Image](/images/events/SSS/2019-newyork/ny5.jpg)
-![Image](/images/events/SSS/2019-newyork/ny6.jpg)
-![Image](/images/events/SSS/2019-newyork/ny7.jpg)
-![Image](/images/events/SSS/2019-newyork/ny8.jpg)
+Mr Banerjee shared insights on Singapore’s finance industry through the years, and why global investment firm The Blackstone Group decided to open an office in Singapore. Mr Banerjee also shared his personal Singapore story and insights on education, social cohesion and inequality in Singapore, and addressed questions on the slowing economy, impact investing and how we can continue to upskill in the digital economy. 
 
 Missed out on this session? Stay connected to find out more about upcoming events in your area by signing up [here](https://go.gov.sg/sgnsignup). 
 

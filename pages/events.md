@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: Events
 permalink: /events/
 ---
 
@@ -7,13 +7,13 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| TCM TeleHealth  | 7 May, 12.30pm  |  [Find out more](/events/may2020-tcmtelehealth.md) |
+| TCM TeleHealth  | 7 May, 12.30pm  |  [Find out more](https://www.singaporeglobalnetwork.com/events/may2020-tcmtelehealth) |
 
 ### Past Events
 
 | Event  | Date & Time | Event Highlight |
 |---|---|---|
-| Singapore Speakers Series in New York | 4 Nov 2019 | [Find out what you've missed](/events/nov2019-sssny.md) |
-| Singapore Speakers Series in Sydney  | 13 Nov 2019 | [Find out what you've missed](/events/nov2019-ssssyd.md) |
-| Singapore Speakers Series in Shanghai | 29 Nov 2019 | [Find out what you've missed](/events/nov2019-ssssh.md) |
-| Singapore Speakers Series in London  | 7 Feb 2020 | [Find out what you've missed](/events/ssslondon-feb2020.md) |
+| Singapore Speakers Series in New York | 4 Nov 2019 | [Find out what you've missed](https://www.singaporeglobalnetwork.com/events/nov2019-sssny) |
+| Singapore Speakers Series in Sydney  | 13 Nov 2019 | [Find out what you've missed](https://www.singaporeglobalnetwork.com/events/nov2019-ssssyd) |
+| Singapore Speakers Series in Shanghai | 29 Nov 2019 | [Find out what you've missed](https://www.singaporeglobalnetwork.com/events/nov2019-ssssh) |
+| Singapore Speakers Series in London  | 7 Feb 2020 | [Find out what you've missed](/events/feb2020-ssslondon/) |

@@ -1,8 +1,14 @@
 ---
-title: Singapore Speakers Series in London (7 Feb)
-permalink: /events/sss-in-ldn-feb2020/
-third_nav_title: February 2020
+title: Past Events
+permalink: /events/past-events
+third_nav_title: Past Events
 ---
+
+| Event Description  |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 ![Image](/images/events/SSS/2020-london/london1.jpeg)
 

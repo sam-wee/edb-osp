@@ -11,7 +11,7 @@ links:
   - title: About us
     collection: aboutus
   - title: Things to do
-    collection: events
+    url: /events/
   - title: Food for thought
     resource_room: true
   - title: Resources

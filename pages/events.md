@@ -7,7 +7,7 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| TCM TeleHealth  | 7 May, 12.30pm  |  [Find out more](/events/may2020-tcmtelehealth.md) |
+| TCM TeleHealth  | 7 May, 12.30pm  |  [Find out more](url: /events/may2020-tcmtelehealth/) |
 
 ### Past Events
 

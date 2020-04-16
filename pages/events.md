@@ -13,8 +13,9 @@ permalink: /events/
 
 ### Past Events
 
-| Event  | Date & Time | Details |
+| Event  | Date & Time | Event Highlight |
 |---|---|---|
-| Singapore Speakers Series in London  | 7 Feb |  [Find out more](/events/ssslondon-feb2020.md) |
-|   |   |   |
-|   |   |   |
+| Singapore Speakers Series in New York | 4 Nov 2019 | [Find out what you've missed](/events/nov2019-sssny.md) |
+| Singapore Speakers Series in Sydney  | 13 Nov 2019 | [Find out what you've missed](/events/nov2019-ssssyd.md) |
+| Singapore Speakers Series in Shanghai | 29 Nov 2019 | [Find out what you've missed](/events/nov2019-ssssh.md) |
+| Singapore Speakers Series in London  | 7 Feb 2020 | [Find out what you've missed](/events/ssslondon-feb2020.md) |

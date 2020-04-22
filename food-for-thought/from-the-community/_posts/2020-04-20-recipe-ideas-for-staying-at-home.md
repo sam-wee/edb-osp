@@ -17,14 +17,14 @@ By SGN
 ### Recipe 1: 5-ingredient Sambal Grilled Chicken 
 (adapted from [MyFoodStory.com](https://myfoodstory.com/grilled-sambal-chicken-skewers-5-ingredient/))
 
-1 kg boneless, skinless Chicken Thighs (cut into 1 inch pieces)
-2 tablespoons Sambal Oelek
-1/4 cup Soy Sauce
-3 tablespoons Honey
-1 tablespoon Fish Sauce
-1 tablespoon finely chopped Lemongrass
-2 tablespoons minced Garlic
-2 tablespoons Oil
+- 1 kg boneless, skinless Chicken Thighs (cut into 1 inch pieces)
+- 2 tablespoons Sambal Oelek
+- 1/4 cup Soy Sauce
+- 3 tablespoons Honey
+- 1 tablespoon Fish Sauce
+- -1 tablespoon finely chopped Lemongrass
+- 2 tablespoons minced Garlic
+- 2 tablespoons Oil
 
 **Instructions:**
 1.	Mix sambal oelek, soy sauce, honey, fish sauce, lemongrass and garlic. 
@@ -34,13 +34,13 @@ By SGN
 ### Recipe 2: Laksa Prawn Spaghetti 
 (adapted from [Prima Taste](https://www.primataste.com/recipes/laksa-spaghetti))
 
-6 deshelled Prawns 
-320g cooked Spaghetti 
-6g chopped Garlic 
-2 tablespoons Oil
-112g Cooking Cream
-180ml Water 
-Laksa Fried Rice Sauce (Prima Taste)
+- 6 deshelled Prawns 
+- 320g cooked Spaghetti 
+- 6g chopped Garlic 
+- 2 tablespoons Oil
+- 112g Cooking Cream
+- 180ml Water 
+- Laksa Fried Rice Sauce (Prima Taste)
 *This serves 3 people
 
 **Instructions:**
@@ -52,9 +52,9 @@ Laksa Fried Rice Sauce (Prima Taste)
 ### Recipe 3: 4-ingredient Brown Sugar Milk 
 (recipe from Cooking In Chinglish)
 
-3⁄4 cup Tapioca Flour (plus more for dusting)
-5 tablespoons + 2 tablespoons Muscovado sugar (or dark brown sugar)
-1⁄4 cup water
+- 3⁄4 cup Tapioca Flour (plus more for dusting)
+- 5 tablespoons + 2 tablespoons Muscovado sugar (or dark brown sugar)
+- 1⁄4 cup water
 Milk
 
 **Instructions:**

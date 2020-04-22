@@ -6,8 +6,9 @@ permalink: /food-for-thought/from-the-community/recipe-ideas-for-staying-at-home
 
 # Recipe Ideas for Staying at Home
 
-*Many of us are starting to get into cooking our own meals this stay-home season – if you’re craving for some good sambal, laksa or even bubble tea from home, we’ve got you covered with these super easy, quick recipes that will surely impress your taste buds! 
-Tried any of our recipes? We’d love to see your versions – tag us on our socials!
+_Many of us are starting to get into cooking our own meals this stay-home season – if you’re craving for some good sambal, laksa or even bubble tea from home, we’ve got you covered with these super easy, quick recipes that will surely impress your taste buds!_
+
+_Tried any of our recipes? We’d love to see your versions – tag us on our socials!_
 
 By SGN
 

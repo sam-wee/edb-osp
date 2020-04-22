@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Economic Freedom: Ben Chan on Singapore’s future as a global blockchain hub
+title:  Economic Freedom - Ben Chan on Singapore’s future as a global blockchain hub
 permalink: /food-for-thought/tech-me-to-sg/ben-chan-bitgo
 ---
 

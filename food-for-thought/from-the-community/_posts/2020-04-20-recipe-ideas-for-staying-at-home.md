@@ -50,7 +50,7 @@ By SGN
 4.	When prawns are almost cooked, add in cooked spaghetti and flip occasionally until the sauce lightly coats the spaghetti and is slightly thickened. 
 
 ### Recipe 3: 4-ingredient Brown Sugar Milk 
-(recipe from Cooking In Chinglish)
+(recipe from [Cooking In Chinglish](https://cookinginchinglish.com/2019/12/21/3-ingredient-easy-homemade-boba-tapioca-pearl/))
 
 - 3⁄4 cup Tapioca Flour (plus more for dusting)
 - 5 tablespoons + 2 tablespoons Muscovado sugar (or dark brown sugar)

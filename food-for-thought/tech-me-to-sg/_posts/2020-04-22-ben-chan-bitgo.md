@@ -55,7 +55,7 @@ In this vein, Ben shared that Singapore has become increasingly attractive for f
 ![Image](/images/stories/2020/Apr/benchan-4.jpg)
 _Ben holding an interview about blockchain in Singapore (source: Bloomberg, 16 September 2019)_
 
-The Future of Blockchain in Singapore
+### The Future of Blockchain in Singapore
 
 Ben foresees Singapore's blockchain industry growing in the years to come. “For financial services players in the short term, digital assets will still be treated akin to other assets for storage and trading purposes, like gold and silver. In the longer term, I hope that the true benefits of blockchain assets can be harnessed to enable disintermediation and lower counterparty risk globally. Everyone will be able to take control of their property: even 4th graders will be able to harness the permissionless ledger to create an account for their school clubs.”
 

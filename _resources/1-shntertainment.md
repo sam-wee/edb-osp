@@ -58,6 +58,10 @@ Is music your only company this month? Check out our very own SGN work from home
 ![Image](/images/shntertainment-resources/SHNtertainment-recipe-1.jpg)
 Stuck at home? Then there is no better time than to be a masterchef. Check out some of theses recipes that we have put together so that you can have a chance at being the next Michelin chef! If you have a signature dish, write to us a hello@singaporeglobalnetwork so we can share your recipe with the rest!
 
+- [Recipe Ideas for Staying at Home](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/recipe-ideas-for-staying-at-home)
+
+Many of us are starting to get into cooking our own meals this stay-home season – if you’re craving for some good sambal, laksa or even bubble tea from home, we’ve got you covered with these super easy, quick recipes that will surely impress your taste buds!
+
 ![Image](/images/shntertainment-resources/SHNtertainment-recipe-3.jpg)
 - [Sugee Cookies and Chicken Dum Briyani](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/dum-briyani-in-the-prairies)
 

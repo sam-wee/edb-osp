@@ -15,7 +15,7 @@ By SGN
 <hr>
 
 ![Image](/images/stories/2020/Apr/benchan-1.png)
-_Benedict Chan, CTO, BitGo_
+<p align="center"><i> Benedict Chan, CTO, BitGo </i></p>
 
 ### The Backdrop: Engineering in Silicon Valley and Singapore
 

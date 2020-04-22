@@ -30,7 +30,7 @@ By SGN
 2.	Add chicken pieces and marinate for at least 2 hours or overnight.
 3.	Heat oil on your pan. Place the chicken (reserve the marinade) and cook for 8-10 minute, while regularly glazing the pan with the marinade. 
 
-### Recipe 2: Laksa Prawn Spaghetti (adapted from (Prima Taste)[https://www.primataste.com/recipes/laksa-spaghetti))
+### Recipe 2: Laksa Prawn Spaghetti (adapted from [Prima Taste](https://www.primataste.com/recipes/laksa-spaghetti))
 6 deshelled Prawns 
 320g cooked Spaghetti 
 6g chopped Garlic 

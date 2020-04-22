@@ -13,7 +13,7 @@ By SGN
 
 <hr>
 
-###Recipe 1: 5-ingredient Sambal Grilled Chicken (adapted from [MyFoodStory.com](https://myfoodstory.com/grilled-sambal-chicken-skewers-5-ingredient/))
+### Recipe 1: 5-ingredient Sambal Grilled Chicken (adapted from [MyFoodStory.com](https://myfoodstory.com/grilled-sambal-chicken-skewers-5-ingredient/))
 
 1 kg boneless, skinless Chicken Thighs (cut into 1 inch pieces)
 2 tablespoons Sambal Oelek
@@ -29,7 +29,7 @@ By SGN
 2.	Add chicken pieces and marinate for at least 2 hours or overnight.
 3.	Heat oil on your pan. Place the chicken (reserve the marinade) and cook for 8-10 minute, while regularly glazing the pan with the marinade. 
 
-###Recipe 2: Laksa Prawn Spaghetti (adapted from (Prima Taste)[https://www.primataste.com/recipes/laksa-spaghetti))
+### Recipe 2: Laksa Prawn Spaghetti (adapted from (Prima Taste)[https://www.primataste.com/recipes/laksa-spaghetti))
 6 deshelled Prawns 
 320g cooked Spaghetti 
 6g chopped Garlic 
@@ -45,7 +45,7 @@ Laksa Fried Rice Sauce (Prima Taste)
 3.	Add cooking cream, mix well and simmer for 30 seconds. Add prawns and simmer further.
 4.	When prawns are almost cooked, add in cooked spaghetti and flip occasionally until the sauce lightly coats the spaghetti and is slightly thickened. 
 
-###Recipe 3: 4-ingredient Brown Sugar Milk (recipe from Cooking In Chinglish)
+### Recipe 3: 4-ingredient Brown Sugar Milk (recipe from Cooking In Chinglish)
 3⁄4 cup Tapioca Flour (plus more for dusting)
 5 tablespoons + 2 tablespoons Muscovado sugar (or dark brown sugar)
 1⁄4 cup water

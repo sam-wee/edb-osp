@@ -7,7 +7,8 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| LKYSPP Asia Thinker Series: Covid-19 – How will increased tension on US-China relations implicate the region | 28 Apr, 5.15pm  |  [Find out more](http://www.fb.com/nuslkyspp/live) |
+| LKYSPP Asia Thinker Series: Covid-19 – 
+How will increased tension on US-China relations implicate the region | 28 Apr, 5.15pm  |  [Find out more](http://www.fb.com/nuslkyspp/live) |
 | Mental Wellness - Workshop on how to deal with Covid-19 disruption | 2 May, 8.00pm  | [Find out more](https://www.singaporeglobalnetwork.com/events/mentalwellness2) |
 | Pints & Prata x SYNC - Women in Tech | 2 May, 10.00pm  |  [Find out more](https://www.singaporeglobalnetwork.com/events/pintsprata1) |
 | Tech +65: What does being a good product manager in Singapore mean?  | 5 May, 10.00pm  | [Find out more](https://go.gov.sg/tech65-liveama) |

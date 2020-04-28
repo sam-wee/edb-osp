@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Women in Tech - Annabelle Kwok
+title: "Women in Tech: Annabelle Kwok"
 permalink: /food-for-thought/tech-me-to-sg/women-in-tech-annabelle-kwok
 image: /images/stories/2020/Apr/annabellekwok-3.jpg
 ---

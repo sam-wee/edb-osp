@@ -102,6 +102,20 @@ Useful resources to prepare pre-enlistees for National Service, and information 
 
 For pre-enlistees and parents, learn more about NS registration, medical screening, enlistment dates, deferment for studies and exit permits.
 
+
+##	SG University Alumni News
+
+*	[Lee Kuan Yew School of Public Policy](https://lkyspp.nus.edu.sg/news-events/news)
+*	[LKYSPP global-is-asian](https://lkyspp.nus.edu.sg/gia)
+
+*	[Nanyang Technological University](https://www.ntu.edu.sg/Alumni/publications/Pages/default.aspx)
+*	[NTU Hey!](http://www.hey.ntu.edu.sg/issue44/index.html)
+
+*	[National University of Singapore](http://www.nus.edu.sg/alumnet/publications)
+
+*	[Singapore Management University](https://alumni.smu.edu.sg/smu-circle)
+
+
 ##	OTHER USEFUL LINKS
 
 *	[Eye on Asia](http://www.eyeonasia.sg/)

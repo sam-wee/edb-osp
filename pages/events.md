@@ -7,10 +7,9 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| Covid-19: Strategies for Startups to cope and continue growing in Singapore and SEA | 28 Apr, 5.00pm  |  [Find out more](https://event.edb.gov.sg/startup-covid-strategies?source=Partner) |
-| LKYSPP Asia Thinker Series: Covid-19 – How will increased tension on US-China relations implicate the region | 28 Apr, 5.15pm  |  [Find out more](http://www.fb.com/nuslkyspp/live) |
 | Mental Wellness - Workshop on how to deal with Covid-19 disruption | 2 May, 8.00pm  | [Find out more](https://www.singaporeglobalnetwork.com/events/mentalwellness2) |
 | Pints & Prata x SYNC - Women in Tech | 2 May, 10.00pm  |  [Find out more](https://www.singaporeglobalnetwork.com/events/pintsprata1) |
+| Flavours of Product Management: Live AMA with Zhibo & Zhong Nan | 5 May, 10.00pm  |  [Find out more](https://go.gov.sg/tech65-liveama) |
 | TCM TeleHealth | 7 May, 12.30pm  | [Find out more](https://www.singaporeglobalnetwork.com/events/tcm-telehealth) |
 
 ### Past Events
@@ -19,6 +18,7 @@ permalink: /events/
 
 | Event  | Date & Time | Event Highlight |
 |---|---|---| 
+| LKYSPP Asia Thinker Series: Covid-19 – How will increased tension on US-China relations implicate the region | 28 Apr | [Watch here](https://www.facebook.com/singaporeglobalnetwork/posts/3439500522744732) |
 | Mental Wellness Webinar: Insights And Tools To Cope with Covid-19 Disruptions | 21 Apr | [Watch here](https://youtu.be/l1jOD4KvSK8) |
 | Facing a pandemic: Tech in the time of Coronavirus | 16 Apr | [Watch here](https://youtu.be/ltsAlBM6Gvs) |
 | LKYSPP Asia Thinker Series: Covid19 - Lessons Learned? What Comes Next? | 14 Apr | [Watch here](https://www.facebook.com/nuslkyspp/videos/515163069176839/) |

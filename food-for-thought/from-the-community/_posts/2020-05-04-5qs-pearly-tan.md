@@ -2,7 +2,7 @@
 layout: post
 title: "5Qs with Pearly Tan"
 permalink: /food-for-thought/from-the-community/5qs-pearly-tan
-image: /images/stories/2020/May/parenting-tips.jpg
+image: /images/stories/2020/May/pearlytan-1.jpg
 ---
 
 

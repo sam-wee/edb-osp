@@ -26,7 +26,7 @@ The UC Berkeley campus, where we frequently hang out as a family. With two littl
 
 One of our family’s favorite places to eat is House of Curries on Solano Ave. The small restaurant serves up piping hot lamb curry that’s tender and well-spiced, a cheese naan that is filled with stretchy, delicious mozzarella and a cream pepper chicken that is completely worth the 15 minutes it takes to cook. But honestly, give me fried black carrot cake any day. For that, Shiok Singapore Kitchen in Menlo Park is our go-to. 
 
-![Image](/images/stories/2020/Mar/pearlytan-2.png)
+![Image](/images/stories/2020/May/pearlytan-2.png)
 _Pearly before she devoured her black carrot cake from Shiok Singapore Kitchen_
 
 #### What is the most exciting thing that you do? 
@@ -35,7 +35,7 @@ I have a few things going on! I am the web editor for Facebook Business News whe
 
 Brian and I started a family business in 2014, [Spokes Bike Lounge](https://www.spokes.bike/homepage), specialising in community mobility. We are proud to say that we are the only bicycle shop in the world with bicycles from the top four kids’ brands in one spot - Woom, Cleary, Frog, and Islabike. We have also created an upcycling program that makes it affordable for families to keep their kids on size-appropriate bicycles and teach children to ride bicycles every second Sunday of the month. 
 
-![Image](/images/stories/2020/Mar/pearlytan-3.jpg)
+![Image](/images/stories/2020/May/pearlytan-3.jpg)
 _Brian teaching 16-month-old Nicholas to ride a bicycle_
 
 #### What do you miss most about Singapore? 
@@ -46,7 +46,7 @@ I miss my mother. We have our differences but becoming a mom has led me to reali
 
 I miss my aunt’s amazing New Year’s noodles with abalone. I miss fried Hokkien mee with pork lard and contemplating what to get at the Indian Rojak store. 
 
-![Image](/images/stories/2020/Mar/pearlytan-4.jpg)
+![Image](/images/stories/2020/May/pearlytan-4.jpg)
 _Pearly’s parents with Pearly, Brian and their 1-year-old daughter Katherine at the Singapore Zoo in 2016_
 
 #### Tell us one fun fact about yourself! 

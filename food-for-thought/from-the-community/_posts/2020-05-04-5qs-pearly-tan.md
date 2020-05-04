@@ -53,6 +53,6 @@ _Pearly’s parents with Pearly, Brian and their 1-year-old daughter Katherine a
 
 I began playing the piano at the age of two and have spent years taking group and private lessons, competing and performing in concerts. When I moved to the US, I had to choose between a piano and a bed in my room. I chose the bed, but I bought a piano soon after. 
 
-It’s impossible to take away a part of me that forms my earliest memories. The same goes for Singapore. I may live abroad but Singapore is my home. I teach my children Mandarin at home, and often tell them news and stories about Singapore while feeding them chicken rice and roti prata that I cook.
+It’s impossible to take away a part of me that forms my earliest memories. The same goes for Singapore. I may live abroad but Singapore is my home. I teach my children Mandarin at home, and often tell them news and stories about Singapore while feeding them chicken rice and _roti prata_ that I cook.
 
 _(Photo credit: Pearly Tan)_

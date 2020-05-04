@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Love Letters from the U.S. to SG"
-permalink: /food-for-thought/from-the-community/love-letters-from-us-to-sg
+permalink: /food-for-thought/from-the-community/love-letters-from-the-us-to-sg
 image: /images/stories/2020/May/lovelettersus-header.jpg
 ---
 

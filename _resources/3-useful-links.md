@@ -7,8 +7,25 @@ permalink: /resources/useful-links/
 *	[Ministry of Manpower (MOM)](https://www.mom.gov.sg/)
 
 Get information about Singapore's labour market, employment practices, training & development and more.
- 
 
+*	[(My Working Title) Career-fitness assessment to free consultation services](https://myworkingtitle.xyz/resources-career-resilience/)
+
+My Working Title are career design advocates who help participants drive their own careers. 
+ 
+ *	SkillsFuture Courses + CET courses by SG Aus 
+
+Attend subsidised short courses by accredited providers to equip yourself with the necessary skills perform better  in your career.
+
+NUS: [https://stmi.nus.edu.sg/events/](https://stmi.nus.edu.sg/events/)
+
+NTU: [http://pace.ntu.edu.sg/Documents/PaCENTU_CourseCalendar_Jan-Jun_2020.pdf](http://pace.ntu.edu.sg/Documents/PaCENTU_CourseCalendar_Jan-Jun_2020.pdf)
+
+SMU: [https://academy.smu.edu.sg/](https://academy.smu.edu.sg/)
+
+SUTD: [https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses](https://www.sutd.edu.sg/Education/Academy/Our-Offerings/SkillsFuture-Series-Courses)
+
+SUSS: [https://www.suss.edu.sg/courses](https://www.suss.edu.sg/courses)
+ 
 ## CITIZENSHIP AND CITIZEN SERVICES
 *	[Staying Connected](https://www.gov.sg/)
 

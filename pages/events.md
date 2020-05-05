@@ -11,7 +11,7 @@ permalink: /events/
 | Pints & Prata x SYNC - Women in Tech | 2 May, 10.00pm  |  [Find out more](https://www.singaporeglobalnetwork.com/events/pintsprata1) |
 | Flavours of Product Management: Live AMA with Zhibo & Zhong Nan | 5 May, 10.00pm  |  [Find out more](https://go.gov.sg/tech65-liveama) |
 | TCM TeleHealth | 7 May, 12.30pm  | [Find out more](https://www.singaporeglobalnetwork.com/events/tcm-telehealth) |
-| #codeForCorona: Students Against COVID | 9th - 10th May, 8:00am  | [Find out more](https://www.eventbrite.sg/e/codeforcorona-students-against-covid-tickets-101453431946) |
+| #codeForCorona: Students Against COVID | 9 - 10 May, 8:00am  | [Find out more](https://www.eventbrite.sg/e/codeforcorona-students-against-covid-tickets-101453431946) |
 
 ### Past Events
 

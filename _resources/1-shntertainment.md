@@ -5,12 +5,14 @@ permalink: /resources/shntertainment/
 
 ![Image](/images/shntertainment-resources/SHNtertainment-Header.png)
 
-We know that it is not easy to be indoors, and never in our wildest imaginations did we expect that in Singapore, we aren't able to eat out, or even go to our friends’ houses. But with the escalating covid-19 pandemic, we all have to play a part in keeping Singapore safe, and that is to STAY HOME. We have put together this page, to hopefully keep you entertained during your SHN period and through these circuit breaker measures. Keep checking back, we will try to update it as often as we can! THANK YOU for keeping us safe!
+We know that it is not easy to be indoors, and never in our wildest imaginations did we expect that in Singapore, we aren't able to eat out, or even go to our friends’ houses. But with the escalating covid-19 pandemic, we all have to play a part in keeping Singapore safe, and that is to STAY HOME. We have put together this page, to hopefully keep you entertained during your SHN period and through these circuit breaker measures. Keep checking back, we will try to update it as often as we can! THANK YOU for keeping us safe! 
 
 * [For the Kiddos](#kid-activities)  
 * [For the Bored](#fun-stuff)
 * [For the Discoverers](#shn-learning)
 * [For the Bookworms](#reading-pleasure)
+
+Visit [here](https://www.sgunited.gov.sg/) to find out more on how you can stay connected and be SGUnited.
 
 <hr>
 
@@ -35,6 +37,10 @@ _[Click here](https://www.singaporeglobalnetwork.com/resources/resources-for-kid
 <hr>
 
 ### <a id="fun-stuff"></a> For the Bored
+
+##### I am a CCB (Community Circuit Breaker)
+
+This site features reliable content, deals, workout routines, as well as a collection of sentiments of how Singaporeans feel during this ”circuit breaker” period. Check it out [here](https://iamaccb.sg/).
 
 ##### No one's life is as perfect as their instagram feed
 
@@ -103,4 +109,3 @@ Living her entire life everywhere except for Singapore hasn’t stopped Cheryl L
 -	**[Love Actually](https://www.singaporeglobalnetwork.com/food-for-thought/from-the-community/love-actually)**
 
 Expressing love through words is often difficult for Asians. Eve Wee-Ang shares why as she pens her own love letter to Singapore.
-

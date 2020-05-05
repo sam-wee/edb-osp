@@ -76,6 +76,18 @@ Everything you need to know with regard to healthy living and disease prevention
 *	[Ministry of Health (MOH)](https://www.moh.gov.sg/)
 
 For health news, facts, online forms and relevant links.
+
+
+## PERSONAL WELLNESS
+*	[On the Line](http://theinsidespace.com/on-the-line/)
+
+20 trained facilitators from different professions and backgrounds whom you can chat with for personal and professional development advice.
+
+
+##	VOLUNTEERING OPPORTUNITIES
+*	[Help combat Covid 19 together](https://www.giving.sg/sgunited-volunteers)
+
+Be an SG United Volunteer and support the community.
  
 
 ##	HOUSING & PROPERTY

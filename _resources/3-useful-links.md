@@ -83,6 +83,10 @@ For health news, facts, online forms and relevant links.
 
 20 trained facilitators from different professions and backgrounds whom you can chat with for personal and professional development advice.
 
+*	[LET'S TALK: A Youth Conversations Blog](https://bit.ly/nyccov-19)
+
+Let’s Talk is a youth conversation website which helps youths navigate through these tough times.
+
 
 ##	VOLUNTEERING OPPORTUNITIES
 *	[Help combat Covid 19 together](https://www.giving.sg/sgunited-volunteers)

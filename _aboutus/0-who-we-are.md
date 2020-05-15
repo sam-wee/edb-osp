@@ -104,12 +104,86 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/><i> David covers cities in the West Coast, as well as the western part of Canada.</i>
 
-  <br/><br/> Contact her <a href="mailto:David_ho@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/david-ho-2aaaa317">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact him <a href="mailto:David_ho@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/david-ho-2aaaa317">LinkedIn</a>! <br/><br/></td>
 </tr>
 </table>
 
 #### North East Asia
 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<br>
+<td style="width: 180px;"><img src="/images/region-reps/koi.png" alt="Koi" /></td>
+<td><strong>Ho Koi Foong</strong>
+  
+  <br/><br/> Based in Shanghai, Koi enjoys building meaningful partnerships and making new friends across East China, Japan, Korea and Taiwan. 
+
+  <br/><br/> Outside of work, you can find him preparing for the next Spartan race, serving the life support community as an adjunct medical instructor, honing his French and training to be an Advanced Sommelier. Koi loves a good conversation as much as a bottle of wine, so ping him any time for a chat!
+
+  <br/><br/> Contact him <a href="mailto:Ho_koi_foong@edb.gov.sg">here</a> or via WeChat (<i>legendarykoi</i>) or add him on <a href="https://www.linkedin.com/in/koi-foong-ho-何凱豐-15704064/">LinkedIn</a>! <br/><br/></td>
+</tr>
+</table>
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<br>
+<td style="width: 180px;"><img src="/images/region-reps/shelly.png" alt="Shelly" /></td>
+<td><strong>Shelly Yeo</strong>
+  
+  <br/><br/> Shelly enjoys meeting people from all walks of life and loves bringing like-minded people together. Some of her best memories from her 3+ years in Shanghai were working with fellow Singaporeans on projects for the community and picnics at the West Bund!
+
+  <br/><br/> Naturally curious, Shelly makes it a point to learn something new every year! And this year, she hopes to rediscover Singapore on foot, explore the art of kombucha-making, and expand her knowledge on digital marketing.
+  
+  <br/><br/><i>Shelly covers cities in North and West China.</i>
+
+  <br/><br/> Contact her <a href="mailto:Shelly_yeo@edb.gov.sg">here</a> or via WeChat (<i>oslchina</i>) or add her on <a href="https://www.linkedin.com/in/shellyyeo/?originalSubdomain=sg">LinkedIn</a>! <br/><br/></td>
+</tr>
+</table>
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<br>
+<td style="width: 180px;"><img src="/images/region-reps/shelly.png" alt="Shelly" /></td>
+<td><strong>Joanna Tay</strong>
+  
+  <br/><br/> Nothing bores Joanna more than having a quiet meal by
+herself. She is energized by having people around her, be it
+over catching up with a bunch of close buddies over her favourite “mala” hotpot, or fostering stronger ties with partners and associates at work events. Joanna looks forward to meeting new friends in China and getting their advice on authentic Southern Chinese cuisine.
+  
+  <br/><br/><i>Joanna covers cities in South China.</i>
+
+  <br/><br/> Contact her <a href="mailto:Joanna_tay@edb.gov.sg">here</a> or via WeChat (<i>joannathf</i>) or add her on <a href="https://www.linkedin.com/in/joanna-tay-11551818b/">LinkedIn</a>! <br/><br/></td>
+</tr>
+</table>
+
+
 #### South East Asia, South Asia and Middle East
 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<br>
+<td style="width: 180px;"><img src="/images/region-reps/eleen.png" alt="Eleen" /></td>
+<td><strong>Eleen Tay</strong>
+  
+  <br/><br/> Eleen loves to explore the cities of Southeast Asia and immerse herself in the fascinating culture that each city brings. She enjoys interacting with people and listening to them. Drop her note if you would like to chat with her! In her free time, you can find Eleen volunteering for humanitarian relief or trying out new things such as learning a new language or creating a new craft! 
+  
+  <br/><br/><i>Eleen covers cities in South East Asia.</i>
 
+  <br/><br/> Contact her <a href="mailto:Eleen_tay@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/eleen-tay/">LinkedIn</a>! <br/><br/></td>
+</tr>
+</table>
+
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<br>
+<td style="width: 180px;"><img src="/images/region-reps/gavin.png" alt="Gavin" /></td>
+<td><strong>Gavin Goh</strong>
+  
+  <br/><br/> Gavin has always been fascinated by the diverse culture and rich heritage of Asian countries. He has found that the best way to understand a culture is through its food. While culture and history maybe subjective to the viewpoints of the individual you speak too, traditional dishes transcends time and political views revealing the true essence of a country.
+  
+  <br/><br/><i>Gavin covers cities in South East Asia, South Asia and Middle East..</i>
+
+  <br/><br/> Contact him <a href="mailto:Gavin_goh@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/gavin-goh-b4146654/">LinkedIn</a>! <br/><br/></td>
+</tr>
+</table>

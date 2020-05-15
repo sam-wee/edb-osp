@@ -2,7 +2,7 @@
 title: Who We Are
 permalink: /aboutus/who-we-are/
 ---
-## Who we are, and what we do
+### Who we are, and what we do
 
 **Who is SGN and what does SGN do?**
 
@@ -12,7 +12,7 @@ The Singapore Global Network (SGN) is a division in the Economic Development Boa
 
 You will be regularly updated with the latest news and developments relating to Singapore and our network of Singaporeans and friends of Singapore living abroad. You will also be invited to attend events, workshops and seminars relevant to you in your area.
 
-Check out our upcoming programmes under "Things to Do" or get in touch with [a SGN representative in your region](#regional-reps) near you for more information.
+Check out our upcoming programmes under "Things to Do" or get in touch with [an SGN representative in a region](#regional-reps) near you for more information.
 
 ### <a id="regional-reps"></a>Meet our Representatives in your region
 
@@ -40,7 +40,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [a S
   <br/><br/> Brenda covers the UK and Ireland.
   <br/><br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! </td>
 </tr>
-  
+  <br/><br/>
   <tr>
 <br>
 <td style="width: 180px;">
@@ -52,6 +52,21 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [a S
 </table>
 
 #### North America
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<br>
+<td style="width: 180px;"><img src="/images/region-reps/karen.png" alt="Karen" /></td>
+<td><strong>Karen Tay</strong>
+  <br/><br/> Karen enjoys nature, convening communities with common purpose, creating (whether it’s writing, painting, or cooking), reading and coaching. 
+
+  <br/><br/> In addition to her role in the Singapore Global Network, she also works for the Smart Nation and Digital Government Group. Her focus is on growing and connecting technology communities across the U.S., U.K. and Singapore, and attracting technology talent to Singapore and Southeast Asia. 
+
+  <br/><br/> She has worked in policy, strategy, communications and talent management across the education, finance and technology sectors. She is mom to two little girls.
+
+  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/karenzytay">LinkedIn</a>! </td>
+</tr>
+</table>
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tr>

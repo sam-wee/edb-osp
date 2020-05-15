@@ -43,7 +43,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
     
   <br/><br/><i> Brenda covers the UK and Ireland. </i>
   
-  <br/><br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -76,7 +76,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/> She has worked in policy, strategy, communications and talent management across the education, finance and technology sectors. She is mom to two little girls.
 
-  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/karenzytay">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/karenzytay">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -90,7 +90,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/><i> Michelle covers cities in the East Coast, as well as Canada. </i>
 
-  <br/><br/> Contact her <a href="mailto:Michelle_loh@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/lohmichelle/">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact her <a href="mailto:Michelle_loh@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/lohmichelle/">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -104,7 +104,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/><i> David covers cities in the West Coast, as well as the western part of Canada.</i>
 
-  <br/><br/> Contact him <a href="mailto:David_ho@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/david-ho-2aaaa317">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact him <a href="mailto:David_ho@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/david-ho-2aaaa317">LinkedIn</a>! </td>
 </tr>
 </table>
 
@@ -120,7 +120,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/> Outside of work, you can find him preparing for the next Spartan race, serving the life support community as an adjunct medical instructor, honing his French and training to be an Advanced Sommelier. Koi loves a good conversation as much as a bottle of wine, so ping him any time for a chat!
 
-  <br/><br/> Contact him <a href="mailto:Ho_koi_foong@edb.gov.sg">here</a> or via WeChat (<i>legendarykoi</i>) or add him on <a href="https://www.linkedin.com/in/koi-foong-ho-何凱豐-15704064/">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact him <a href="mailto:Ho_koi_foong@edb.gov.sg">here</a> or via WeChat (<i>legendarykoi</i>) or add him on <a href="https://www.linkedin.com/in/koi-foong-ho-何凱豐-15704064/">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -136,7 +136,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
   
   <br/><br/><i>Shelly covers cities in North and West China.</i>
 
-  <br/><br/> Contact her <a href="mailto:Shelly_yeo@edb.gov.sg">here</a> or via WeChat (<i>oslchina</i>) or add her on <a href="https://www.linkedin.com/in/shellyyeo/?originalSubdomain=sg">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact her <a href="mailto:Shelly_yeo@edb.gov.sg">here</a> or via WeChat (<i>oslchina</i>) or add her on <a href="https://www.linkedin.com/in/shellyyeo/?originalSubdomain=sg">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -152,7 +152,7 @@ over catching up with a bunch of close buddies over her favourite “mala” hot
   
   <br/><br/><i>Joanna covers cities in South China.</i>
 
-  <br/><br/> Contact her <a href="mailto:Joanna_tay@edb.gov.sg">here</a> or via WeChat (<i>joannathf</i>) or add her on <a href="https://www.linkedin.com/in/joanna-tay-11551818b/">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact her <a href="mailto:Joanna_tay@edb.gov.sg">here</a> or via WeChat (<i>joannathf</i>) or add her on <a href="https://www.linkedin.com/in/joanna-tay-11551818b/">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -169,7 +169,7 @@ over catching up with a bunch of close buddies over her favourite “mala” hot
   
   <br/><br/><i>Eleen covers cities in South East Asia.</i>
 
-  <br/><br/> Contact her <a href="mailto:Eleen_tay@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/eleen-tay/">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact her <a href="mailto:Eleen_tay@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/eleen-tay/">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -184,6 +184,6 @@ over catching up with a bunch of close buddies over her favourite “mala” hot
   
   <br/><br/><i>Gavin covers cities in South East Asia, South Asia and Middle East..</i>
 
-  <br/><br/> Contact him <a href="mailto:Gavin_goh@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/gavin-goh-b4146654/">LinkedIn</a>! <br/><br/></td>
+  <br/><br/> Contact him <a href="mailto:Gavin_goh@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/gavin-goh-b4146654/">LinkedIn</a>! <br/></td>
 </tr>
 </table>

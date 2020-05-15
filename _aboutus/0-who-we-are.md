@@ -35,8 +35,8 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [a S
 <td style="width: 180px;">
   <img src="/images/Brenda.png" alt="Brenda" /></td>
   <td><strong>Brenda Tan</strong><br/><br/>Brenda is your quintessential ENTP who is energized by interactions and challenges. She has an innate ability to see the grand potential in any situation and enjoys working with people to explore collaborations and new ideas. Brenda has 20 years of experience in Banking and Finance, International Relations and PR/Relationship Management. 
-  <br/> Brenda covers the UK and Ireland. <br /></td>
-  <td> Contact <a href="mailto:Brenda_tan@edb.gov.sg"><img src="/images/region-reps/contact.png" alt="contact" /></a></td>
+  <br/> Brenda covers the UK and Ireland. <br />
+  <br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! </td>
 </tr>
 </table>
 

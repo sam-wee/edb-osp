@@ -182,7 +182,7 @@ over catching up with a bunch of close buddies over her favourite “mala” hot
   
   <br/><br/> Gavin has always been fascinated by the diverse culture and rich heritage of Asian countries. He has found that the best way to understand a culture is through its food. While culture and history maybe subjective to the viewpoints of the individual you speak too, traditional dishes transcends time and political views revealing the true essence of a country.
   
-  <br/><br/><i>Gavin covers cities in South East Asia, South Asia and Middle East..</i>
+  <br/><br/><i>Gavin covers cities in South East Asia, South Asia and Middle East.</i>
 
   <br/><br/> Contact him <a href="mailto:Gavin_goh@edb.gov.sg">here</a> or add him on <a href="https://www.linkedin.com/in/gavin-goh-b4146654/">LinkedIn</a>! <br/></td>
 </tr>

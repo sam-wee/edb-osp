@@ -143,7 +143,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tr>
 <br>
-<td style="width: 180px;"><img src="/images/region-reps/shelly.png" alt="Shelly" /></td>
+<td style="width: 180px;"><img src="/images/region-reps/joanna.png" alt="Joanna" /></td>
 <td><strong>Joanna Tay</strong>
   
   <br/><br/> Nothing bores Joanna more than having a quiet meal by

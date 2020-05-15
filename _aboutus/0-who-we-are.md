@@ -120,7 +120,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/> Outside of work, you can find him preparing for the next Spartan race, serving the life support community as an adjunct medical instructor, honing his French and training to be an Advanced Sommelier. Koi loves a good conversation as much as a bottle of wine, so ping him any time for a chat!
 
-  <br/><br/> Contact him <a href="mailto:Ho_koi_foong@edb.gov.sg">here</a> or via WeChat (<i>legendarykoi</i>) or add him on <a href="https://www.linkedin.com/in/koi-foong-ho-何凱豐-15704064/">LinkedIn</a>! <br/></td>
+  <br/><br/> Contact him <a href="mailto:Ho_koi_foong@edb.gov.sg">here</a> or via WeChat: <i>legendarykoi</i> or add him on <a href="https://www.linkedin.com/in/koi-foong-ho-何凱豐-15704064/">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -136,7 +136,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
   
   <br/><br/><i>Shelly covers cities in North and West China.</i>
 
-  <br/><br/> Contact her <a href="mailto:Shelly_yeo@edb.gov.sg">here</a> or via WeChat (<i>oslchina</i>) or add her on <a href="https://www.linkedin.com/in/shellyyeo/?originalSubdomain=sg">LinkedIn</a>! <br/></td>
+  <br/><br/> Contact her <a href="mailto:Shelly_yeo@edb.gov.sg">here</a> or via WeChat: <i>oslchina</i> or add her on <a href="https://www.linkedin.com/in/shellyyeo/?originalSubdomain=sg">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 
@@ -152,7 +152,7 @@ over catching up with a bunch of close buddies over her favourite “mala” hot
   
   <br/><br/><i>Joanna covers cities in South China.</i>
 
-  <br/><br/> Contact her <a href="mailto:Joanna_tay@edb.gov.sg">here</a> or via WeChat (<i>joannathf</i>) or add her on <a href="https://www.linkedin.com/in/joanna-tay-11551818b/">LinkedIn</a>! <br/></td>
+  <br/><br/> Contact her <a href="mailto:Joanna_tay@edb.gov.sg">here</a> or via WeChat: <i>joannathf</i> or add her on <a href="https://www.linkedin.com/in/joanna-tay-11551818b/">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 

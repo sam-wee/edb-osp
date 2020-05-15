@@ -14,7 +14,7 @@ You will be regularly updated with the latest news and developments relating to 
 
 Check out our upcoming programmes under "Things to Do" or get in touch with [a SGN representative in your region](#regional-reps) near you for more information.
 
-## <a id="regional-reps"></a>Meet our Representatives in your region
+### <a id="regional-reps"></a>Meet our Representatives in your region
 
 
 #### Australasia
@@ -23,7 +23,9 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [a S
 <tr>
 <br>
 <td style="width: 180px;"><img src="/images/region-reps/leanne.png" alt="Leanne" /></td>
-<td><strong>Leanne Lim</strong><br/><br/>Leanne comes from a communications background, and enjoys all things media related. She is particularly interested in how thoughtful content and messaging works towards social good. She loves #supportinglocal wherever she goes, and appreciates the role of technology that allows her to continue supporting her favourite causes and businesses back in Singapore.<br /></td>
+<td><strong>Leanne Lim</strong>
+  <br/><br/> Leanne comes from a communications background, and enjoys all things media related. She is particularly interested in how thoughtful content and messaging works towards social good. She loves #supportinglocal wherever she goes, and appreciates the role of technology that allows her to continue supporting her favourite causes and businesses back in Singapore.
+  <br/><br/> Contact her <a href="mailto:Leanne_lim@edb.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/leanne-lim">LinkedIn</a>! </td>
 </tr>
 </table>
 
@@ -32,11 +34,20 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [a S
 <table style="width: 100%;" border="0" cellpadding="10">
 <tr>
 <br>
+<td style="width: 180px;"><img src="/images/Brenda.png" alt="Brenda" /></td>
+  <td><strong>Brenda Tan</strong>
+  <br/><br/>Brenda is your quintessential ENTP who is energized by interactions and challenges. She has an innate ability to see the grand potential in any situation and enjoys working with people to explore collaborations and new ideas. Brenda has 20 years of experience in Banking and Finance, International Relations and PR/Relationship Management. 
+  <br/><br/> Brenda covers the UK and Ireland.
+  <br/><br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! </td>
+</tr>
+  
+  <tr>
+<br>
 <td style="width: 180px;">
-  <img src="/images/Brenda.png" alt="Brenda" /></td>
-  <td><strong>Brenda Tan</strong><br/><br/>Brenda is your quintessential ENTP who is energized by interactions and challenges. She has an innate ability to see the grand potential in any situation and enjoys working with people to explore collaborations and new ideas. Brenda has 20 years of experience in Banking and Finance, International Relations and PR/Relationship Management. 
-  <br/> Brenda covers the UK and Ireland. <br />
-  <br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! </td>
+  <img src="/images/region-reps/anna.png" alt="Anna" /></td>
+  <td><strong>Anna Tan</strong><br/><br/>With an innate entrepreneurial spirit, Anna constantly strives to build meaningful relationships and partnerships. Always up for conversations over a good cuppa, she looks forward to meeting and catching up with friends regularly as she finds inspiration in every encounter. So feel free to drop her a note anytime, to just chat!
+  <br/><br/> Anna covers Continental Europe 
+  <br/><br/> Contact her <a href="mailto:Anna_tan@edb.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/anna-tan-aaa850b1">LinkedIn</a>! </td>
 </tr>
 </table>
 

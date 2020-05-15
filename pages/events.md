@@ -30,7 +30,7 @@ permalink: /events/
 
 | Event  | Date & Time | Event Highlight |
 |---|---|---|
-| Singapore Speakers Series in Shanghai | 29 Nov | [Read more](https://www.singaporeglobalnetwork.com/events/ssssh-nov2019) |
+| Singapore Speakers Series in Shanghai | 29 Nov | [Read more](https://www.singaporeglobalnetwork.com/events/ssssha-nov2019) |
 | Singapore Speakers Series in Sydney  | 13 Nov | [Read more](https://www.singaporeglobalnetwork.com/events/ssssyd-nov2019) |
 | Singapore Speakers Series in New York | 4 Nov | [Read more](https://www.singaporeglobalnetwork.com/events/sssny-nov2019) |
 

@@ -38,10 +38,12 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
   <td><strong>Brenda Tan</strong>
   <br/><br/>Brenda is your quintessential ENTP who is energized by interactions and challenges. She has an innate ability to see the grand potential in any situation and enjoys working with people to explore collaborations and new ideas. Brenda has 20 years of experience in Banking and Finance, International Relations and PR/Relationship Management. 
   <br/><br/> Brenda covers the UK and Ireland.
-  <br/><br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! </td>
+  <br/><br/> Contact her <a href="mailto:Brenda_tan@edb.gov.sg">here</a> or add her on <a href="https://uk.linkedin.com/in/brenda-tan-075b38180">LinkedIn</a>! <br/><br/></td>
 </tr>
-  <br/><br/>
-  <tr>
+</table>
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
 <br>
 <td style="width: 180px;">
   <img src="/images/region-reps/anna.png" alt="Anna" /></td>
@@ -64,7 +66,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/> She has worked in policy, strategy, communications and talent management across the education, finance and technology sectors. She is mom to two little girls.
 
-  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/karenzytay">LinkedIn</a>! </td>
+  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/karenzytay">LinkedIn</a>! <br/><br/></td>
 </tr>
 </table>
 

@@ -12,7 +12,7 @@ The Singapore Global Network (SGN) is a division in the Economic Development Boa
 
 You will be regularly updated with the latest news and developments relating to Singapore and our network of Singaporeans and friends of Singapore living abroad. You will also be invited to attend events, workshops and seminars relevant to you in your area.
 
-Check out our upcoming programmes under "Things to Do" or get in touch with [an SGN representative in a region](#regional-reps) near you for more information.
+Check out our upcoming programmes under "Things to Do" or get in touch with [an SGN representative in a region near you](#regional-reps) for more information.
 
 ### <a id="regional-reps"></a>Meet our Representatives in your region
 

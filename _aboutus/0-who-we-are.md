@@ -27,7 +27,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
   
   <br/><br/> Leanne comes from a communications background, and enjoys all things media related. She is particularly interested in how thoughtful content and messaging works towards social good. She loves #supportinglocal wherever she goes, and appreciates the role of technology that allows her to continue supporting her favourite causes and businesses back in Singapore.
   
-  <br/><br/> Contact her <a href="mailto:Leanne_lim@edb.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/leanne-lim">LinkedIn</a>! </td>
+  <br/><br/> Contact her <a href="mailto:Leanne_lim@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/leanne-lim">LinkedIn</a>! </td>
 </tr>
 </table>
 
@@ -58,7 +58,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
     
   <br/><br/><i> Anna covers Continental Europe </i>
   
-  <br/><br/> Contact her <a href="mailto:Anna_tan@edb.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/anna-tan-aaa850b1">LinkedIn</a>! </td>
+  <br/><br/> Contact her <a href="mailto:Anna_tan@edb.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/anna-tan-aaa850b1">LinkedIn</a>! </td>
 </tr>
 </table>
 
@@ -76,7 +76,7 @@ Check out our upcoming programmes under "Things to Do" or get in touch with [an 
 
   <br/><br/> She has worked in policy, strategy, communications and talent management across the education, finance and technology sectors. She is mom to two little girls.
 
-  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="www.linkedin.com/in/karenzytay">LinkedIn</a>! <br/></td>
+  <br/><br/> Contact her <a href="mailto:Karen_tay@pmo.gov.sg">here</a> or add her on <a href="https://www.linkedin.com/in/karenzytay">LinkedIn</a>! <br/></td>
 </tr>
 </table>
 

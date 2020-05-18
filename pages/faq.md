@@ -49,4 +49,4 @@ Youtube:  [https://www.youtube.com/SingaporeGlobalNetwork](https://www.youtube.c
 Wechat ID: SGGlobalNetwork
 
 ### How can I contact SGN?
-Please email us at hello@singaporeglobalnetwork.com.
+Please email us at hello@singaporeglobalnetwork.sg.

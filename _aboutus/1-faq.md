@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /aboutus/faq/
+permalink: /faq/
 ---
 
 ## **FAQ**
@@ -23,6 +23,7 @@ For members who previously subscribed to Overseas Singaporean Unit’s e-newslet
 
 Due to data and privacy regulations, members of the previous OSU mailing list who do not re-subscribe with SGN, will no longer be able to receive news, updates and event invitations from us after April 2020.
 
+
 ### As an individual, what can I look forward to by connecting with SGN?
 
 You will be regularly updated with the latest news and developments relating to Singapore and our network of Singaporeans and friends of Singapore living abroad. You will also be invited to attend events, workshops and seminars relevant to you in your area.
@@ -41,9 +42,11 @@ LinkedIn: [https://www.linkedin.com/company/SingaporeGlobalNetwork](https://www.
 
 Facebook: [https://www.fb.com/SingaporeGlobalNetwork](https://www.fb.com/SingaporeGlobalNetwork) 
 
+Instagram: [https://www.instagram.com/singaporeglobalnetwork](https://www.instagram.com/singaporeglobalnetwork/) 
+
 Youtube:  [https://www.youtube.com/SingaporeGlobalNetwork](https://www.youtube.com/SingaporeGlobalNetwork) 
 
 Wechat ID: SGGlobalNetwork
 
 ### How can I contact SGN?
-Please email us at hello@singaporeglobalnetwork.com.
+Please email us at hello@singaporeglobalnetwork.sg.

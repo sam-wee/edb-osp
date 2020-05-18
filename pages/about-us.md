@@ -46,3 +46,5 @@ Check out our upcoming programmes under "Things to Do" or get in touch with a [R
 </tr>
 
 </table>
+
+Please email to hello@singaporeglobalnetwork.sg if you live outside of these regions, and have any further queries, we will be happy to connect with you!

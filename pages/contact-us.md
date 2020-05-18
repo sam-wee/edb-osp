@@ -17,5 +17,5 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - email: singaporeglobalnetwork@edb.gov.sg
+    - email: hello@singaporeglobalnetwork.sg
 ---

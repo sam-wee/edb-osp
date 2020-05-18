@@ -49,13 +49,13 @@ The virtual space is also used for other purposes – for the casual fitness jun
 
 #### The pros’ tips to keep fit at home
 
-1)	A resistance band and yoga mat can go a long way.
+##### 1)	A resistance band and yoga mat can go a long way.
 
 Yoga mats can be used for core strength training, and resistance bands are useful to achieve a full-body workout. Herlene reckons that a resistance band is the most important equipment.
 
 “Even without any weights available, the resistance band provides resistance and allows one to simulate exercises that can be done in the gym. This definitely helps to keep one’s momentum going despite not having any access to the gym or fitness equipment.” 
 
-2)	No equipment? No problem. 
+##### 2)	No equipment? No problem. 
 
 ![Image](/images/stories/2020/May/nolimits3.png)
 _Radeem (pictured) demonstrates how he uses household items as a substitute weight for a Turkish Get Up._
@@ -64,7 +64,7 @@ Radeem acknowledges that not everyone has access to workout equipment at home an
 
 Ming Wei shares the same view. He recommends for body-weight exercises, which can be done anywhere and at any intensity. Household products can be used as additional weight to supplement the training. 
 
-3)	Always clock in a ‘full-body, balanced’ workout
+##### 3)	Always clock in a ‘full-body, balanced’ workout
 
 Ming Wei advises for one to have a balanced and consistent approach to fitness and to ensure that they work on the major muscle groups. He says that this will help prevent muscular imbalance and consequent injury. For example, one can focus on arms every Monday while leaving to train the legs on Tuesday. 
 

@@ -8,6 +8,7 @@ permalink: /events/
 | Event  | Date & Time | Details |
 |---|---|---|
 | Stories From The Frontline In New York | 24 May, 8.00 am | [Find out more](https://www.singaporeglobalnetwork.com/events/frontlinestories-newyork) |
+| Shopee Code League 2020 | 8 June | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
 
 ### Past Events
 

@@ -7,7 +7,7 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| Stories From The Frontline In New York | 24 May, 8.00 am | [Find out more](https://www.singaporeglobalnetwork.com/events/frontlinestories-newyork) |
+| Stories From The Frontline In New York | 24 May, 8.00am | [Find out more](https://www.singaporeglobalnetwork.com/events/frontlinestories-newyork) |
 | Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May, 8.45am | [Find out more](https://www.singaporeglobalnetwork.com/events/exclusive-conversation-covid19-response/) |
 | Shopee Code League 2020 | 8 June | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
 

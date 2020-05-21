@@ -33,3 +33,4 @@ This offer (the “Offer”) is organised by the Singapore Global Network (the �
 8.    The Organiser (including its employees, officers, agents and assigns) shall not be responsible or liable for any loss or damage relating to or arising from the Offer (including cancellation of the Offer) or the reward, regardless of the cause and reason, to the extent permitted by law.
 
 9.    These Terms and Conditions shall be governed by the laws of the Republic of Singapore and individuals hereby agree to submit to the exclusive jurisdiction of the Singapore courts.
+

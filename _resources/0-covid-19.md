@@ -57,6 +57,8 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
+* [Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate](#reopen-borders)
+* [Travellers allowed to transit through Changi Airport from Jun 2](#transit-travellers)
 * [Covid-19 circuit breaker to be extended by one month](#extend-cb)
 * [Expansion of the Stay-Home Noticed requirements to returnees from all countries](#shn-all)
 * [DPM Heng Swee Keat announces further COVID-19 support measures in new 'Solidarity Budget'](#solidarity-budget)
@@ -82,6 +84,19 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+
+#### <a id="reopen-borders"></a> Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate
+
+Singapore will gradually reopen its borders with safeguards in place to allow Singaporeans to conduct essential activities abroad and for foreigners to enter and transit through the country, the Ministry of Health said on Tuesday (May 19). 
+
+Read more [here](https://www.channelnewsasia.com/news/singapore/covid-19-singapore-reopen-borders-resume-essential-travel-12749534)
+
+#### <a id="transit-travellers"></a> Travellers allowed to transit through Changi Airport from Jun 2
+
+Singapore will gradually allow travellers to transit through Changi Airport from Jun 2, as it prepares to ease some COVID-19 restrictions and reopen its borders. CAAS said that "stringent measures" will be put in place to ensure that the passengers remain in designated facilities in the transit area and do not mix with other passengers at the airport.
+
+Read more [here](https://www.channelnewsasia.com/news/singapore/covid-19-travel-passengers-transit-changi-airport-jun-2-12753104)
+
 #### <a id="extend-cb"></a> Tighter measures and extension of Circuit Breaker to June 1
 
 In his fourth national address on April 21, PM Lee said that the circuit breaker will be extended by another month to June 1, and existing measures will be tightened.

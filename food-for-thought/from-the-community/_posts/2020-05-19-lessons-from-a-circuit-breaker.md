@@ -62,7 +62,7 @@ _Peering into the neighbour’s homes_
 
 My mother has lived in her HDB flat for ten years but each time I return, I have never once thought to pause and observe the surroundings until now. I was either looking down at my phone or rushing to busy myself during my limited time in Singapore. 
 
-Now, when everything is stripped away, what remains is what matters most. Our time on earth is limited. This will pass as with everything in life. One day soon, life in Singapore will return to normal. We can choose to spend the rest of our life in a flash or we can take this rare circuit breaker time as a reset to mindfully ask ourselves what matters to us most. 
+Now, when everything is stripped away, what remains is what matters most. Our time on earth is limited. This will pass as with everything in life. One day soon, life in Singapore will return to normal. We can choose to spend the rest of our life in a flash or we can take this rare circuit breaker time as a reset to mindfully ask ourselves what matters to us most. For me, I am praying for China's borders to be lifted soon so that my family will be reunited.
 
 ![Image](/images/stories/2020/May/lessonsfromcb-5.jpg)
 _A brilliant sunset in front of my mother’s home_

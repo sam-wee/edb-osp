@@ -57,6 +57,7 @@ Volunteering can also be as simple and light as sharing your domain knowledge wi
 During this COVID-19 outbreak, the team saw a demand for tools to support healthcare professionals as they interacted with migrant workers. One of our accomplished tool-developers, Jason Leow, worked with Shaina Tan and a team of illustrators to develop [visualaid.sg](https://visualaid.sg/), a graphic-based communication tool. 
 
 ![Image](/images/stories/2020/May/communitysgunited-4.jpg)
+_Meet the team behind MaskGoWhere, one of the many tools hosted on Better.sg. From left: Better.sg member, Antariksh; Better.sg Co-founder, Gaurav; and Tech advisor, Nikhil._
 
 This, Gaurav enthuses, is a clear example of how the tech for good community is keen to connect and solve problems together. “We also saw the community come together organically to build tools to help smaller F&B establishments survive the CB, tools to help hawkers connect to delivery riders so they continue business despite the lower customer traffic.”
 

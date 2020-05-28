@@ -6,7 +6,7 @@ image: /images/stories/2020/May/nadiaann-1.png
 ---
 
 
-### 5Qs with Pearly Tan
+### 5Qs with Nadia Ann Huifang
 
 _Our 5Qs series is a chance for you to get to know more about folks in the Singapore Global Network community, where we pose 5 questions to exciting individuals to find out more about what they do!_
 

@@ -65,8 +65,6 @@ This, Gaurav enthuses, is a clear example of how the tech for good community is 
 
 Visit the [Better.sg](https://better.sg/) website and use the tools available. Provide your feedback to help improve them. If you would like to offer your skills in app development or other domain knowledge, you can also sign up to be a member of the team. Finally, do share the tools and updates from Better.sg on your social networks to help the movement drive greater awareness.
 
-_Meet the team behind MaskGoWhere, one of the many tools hosted on Better.sg. From left: Better.sg member, Antariksh; Better.sg Co-founder, Gaurav; and Tech advisor, Nikhil._
-
 #### 3.	[SUPERHERO ME](https://www.superherome.sg/)
 
 If the pandemic is confusing for us as adults, one can only imagine how much uncertainty and distress the evolving outbreak can cause the youngest among us — children. This is where [Superhero Me](https://www.superherome.sg/) comes in. 

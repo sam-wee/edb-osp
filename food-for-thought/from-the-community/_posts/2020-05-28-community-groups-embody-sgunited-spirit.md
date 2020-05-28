@@ -17,7 +17,7 @@ From healthcare to the economy, the COVID-19 crisis has left an indelible impact
 
 With COVID-19’s impact unlikely to ease any time soon and with resources stretched, charity and non-profit community initiatives are a key source of support for the less fortunate. We met the people behind three, of the many, community initiatives to understand more about their COVID-19 efforts.
 
-#### [1.	PROJECT STABLE STAPLES](https://projectstablestaples.sg/)
+#### 1.	[PROJECT STABLE STAPLES](https://projectstablestaples.sg/)
 
 Started by a group of individuals who actively volunteer with other initiatives and organisations like [I Am Talented](https://iamtalented.sg/) and [Bringing Love to Every Single Soul (BLESS)](https://sg-bless.org/), the members of [Project Stable Staples](https://projectstablestaples.sg/) (PSS) are no stranger to the difficulties faced by the less-privileged in Singapore.
 
@@ -41,7 +41,7 @@ The circuit breaker measures also meant PSS volunteers couldn’t conduct door-t
 
 PSS is still [raising funds to meet its target of about $140,000](https://projectstablestaples.sg/) in order to support another 1,500 individuals from over 500 families. Otherwise, Gillian also advises you to look out for neighbours who may need assistance and ask them to reach out to any of the social support groups. There is also a large group of beneficiaries who are unable to access or afford essential items like milk powder, diapers, and masks. Hence, corporate or personal donors who are willing to donate such items [should reach out to PSS](https://projectstablestaples.sg/).
 
-#### [2.	BETTER.SG](https://better.sg/)
+#### 2.	[BETTER.SG](https://better.sg/)
 
 While most community initiatives may face obstacles posed by the enhanced circuit breaker measures on their outreach efforts, Gaurav Keerthi, Co-founder of Better.sg and Civil Servant, points out that COVID-19 has been a “tremendous silver lining for tech for good initiatives [like [Better.sg](https://better.sg/)].”
 

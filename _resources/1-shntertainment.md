@@ -42,6 +42,19 @@ _[Click here](https://www.singaporeglobalnetwork.com/resources/resources-for-kid
 
 This site features reliable content, deals, workout routines, as well as a collection of sentiments of how Singaporeans feel during this ”circuit breaker” period. Check it out [here](https://iamaccb.sg/).
 
+##### For those WFH
+
+Up your video calling game with SGN’s very own video call backgrounds! Featuring some of Singapore’s beloved icons, you can now add a little local flavour to your video calls with your friends and families back home!
+
+![Image](/images/shntertainment-resources/wfh-background-preview-1.png)
+[Download here](https://d33wubrfki0l68.cloudfront.net/2e8e0e876f45b2be343a8a1b67c0b609b2541a1c/b0e58/images/shntertainment-resources/sgn-26may-zoom-bg-r3-01.jpg)
+ 
+![Image](/images/shntertainment-resources/wfh-background-preview-2.png)
+[Download here](https://d33wubrfki0l68.cloudfront.net/9a75efd10bf6434c1207b8f5a45bc03e2dd5605e/495a6/images/shntertainment-resources/sgn-26may-zoom-bg-r3-02.jpg)
+ 
+![Image](/images/shntertainment-resources/wfh-background-preview-3.png)
+[Download here](https://d33wubrfki0l68.cloudfront.net/bbfe3f827d5ef794757585a8fcc5763127bac24f/374a4/images/shntertainment-resources/sgn-26may-zoom-bg-r3-03.jpg)
+
 ##### No one's life is as perfect as their instagram feed
 
 Bored? Why not tell the world? After all, social distancing does not mean social isolation. Keep your friends and family updated with these templates. Share them on your social media channels and tag us on [Facebook](https://www.facebook.com/singaporeglobalnetwork/) or [Instagram](https://www.instagram.com/singaporeglobalnetwork/) @singaporeglobalnetwork, cos yknow, we get bored too ;)

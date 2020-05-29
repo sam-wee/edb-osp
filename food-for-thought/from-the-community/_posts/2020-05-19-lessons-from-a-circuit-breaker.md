@@ -2,7 +2,7 @@
 layout: post
 title: "Lessons from a circuit breaker."
 permalink: /food-for-thought/from-the-community/lessons-from-a-circuit-breaker
-image: /images/stories/2020/May/lessonsfromcb-3.jpg
+image: /images/stories/2020/May/lessonsfromcb-5.jpg
 ---
 
 ### Lessons from a circuit breaker.

@@ -7,12 +7,28 @@ permalink: /resources/shntertainment/
 
 We know that it is not easy to be indoors, and never in our wildest imaginations did we expect that in Singapore, we aren't able to eat out, or even go to our friends’ houses. But with the escalating covid-19 pandemic, we all have to play a part in keeping Singapore safe, and that is to STAY HOME. We have put together this page, to hopefully keep you entertained during your SHN period and through these circuit breaker measures. Keep checking back, we will try to update it as often as we can! THANK YOU for keeping us safe! 
 
+* [For the WFH](#wfh-stuff) 
 * [For the Kiddos](#kid-activities)  
 * [For the Bored](#fun-stuff)
 * [For the Discoverers](#shn-learning)
 * [For the Bookworms](#reading-pleasure)
 
 Visit [here](https://www.sgunited.gov.sg/) to find out more on how you can stay connected and be SGUnited.
+
+<hr>
+
+##### <a id="wfh-stuff"></a> For the WFH
+
+Up your video calling game with SGN’s very own video call backgrounds! Featuring some of Singapore’s beloved icons, you can now add a little local flavour to your video calls with your friends and families back home!
+
+![Image](/images/shntertainment-resources/wfh-background-preview-1.png)
+[Download here](https://d33wubrfki0l68.cloudfront.net/2e8e0e876f45b2be343a8a1b67c0b609b2541a1c/b0e58/images/shntertainment-resources/sgn-26may-zoom-bg-r3-01.jpg)
+ 
+![Image](/images/shntertainment-resources/wfh-background-preview-2.png)
+[Download here](https://d33wubrfki0l68.cloudfront.net/9a75efd10bf6434c1207b8f5a45bc03e2dd5605e/495a6/images/shntertainment-resources/sgn-26may-zoom-bg-r3-02.jpg)
+ 
+![Image](/images/shntertainment-resources/wfh-background-preview-3.png)
+[Download here](https://d33wubrfki0l68.cloudfront.net/bbfe3f827d5ef794757585a8fcc5763127bac24f/374a4/images/shntertainment-resources/sgn-26may-zoom-bg-r3-03.jpg)
 
 <hr>
 
@@ -41,19 +57,6 @@ _[Click here](https://www.singaporeglobalnetwork.com/resources/resources-for-kid
 ##### I am a CCB (Community Circuit Breaker)
 
 This site features reliable content, deals, workout routines, as well as a collection of sentiments of how Singaporeans feel during this ”circuit breaker” period. Check it out [here](https://iamaccb.sg/).
-
-##### For those WFH
-
-Up your video calling game with SGN’s very own video call backgrounds! Featuring some of Singapore’s beloved icons, you can now add a little local flavour to your video calls with your friends and families back home!
-
-![Image](/images/shntertainment-resources/wfh-background-preview-1.png)
-[Download here](https://d33wubrfki0l68.cloudfront.net/2e8e0e876f45b2be343a8a1b67c0b609b2541a1c/b0e58/images/shntertainment-resources/sgn-26may-zoom-bg-r3-01.jpg)
- 
-![Image](/images/shntertainment-resources/wfh-background-preview-2.png)
-[Download here](https://d33wubrfki0l68.cloudfront.net/9a75efd10bf6434c1207b8f5a45bc03e2dd5605e/495a6/images/shntertainment-resources/sgn-26may-zoom-bg-r3-02.jpg)
- 
-![Image](/images/shntertainment-resources/wfh-background-preview-3.png)
-[Download here](https://d33wubrfki0l68.cloudfront.net/bbfe3f827d5ef794757585a8fcc5763127bac24f/374a4/images/shntertainment-resources/sgn-26may-zoom-bg-r3-03.jpg)
 
 ##### No one's life is as perfect as their instagram feed
 

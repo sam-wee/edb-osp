@@ -26,5 +26,3 @@ _Jason Teo is Director of Product at Carousell. He was with 701Search for 8 year
 ##### About Our Moderator
 
 _Junxu is the Chief Product Officer at Endowus.com, Singapore's first and only digital financial advisor where you can invest your CPF, Cash and SRS in one place. Before returning to Singapore, Jx held a variety of Product roles at Bytedance (Shanghai), Lyft and Dropbox (San Francisco). Jx grew up in Singapore and went to Penn/Stanford (where he first met Jason back in 2010)._ 
-
-_

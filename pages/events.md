@@ -7,8 +7,8 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
-| Stories From The Frontline In New York | 24 May, 8.00am | [Find out more](https://www.singaporeglobalnetwork.com/events/frontlinestories-newyork) |
-| Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May, 8.45am | [Find out more](https://www.singaporeglobalnetwork.com/events/exclusive-conversation-covid19-response/) |
+| Decision Trees | 3 Jun, 8pm | [Find out more](https://www.singaporeglobalnetwork.com/events/decision-trees) |
+| Threats & Opportunities Presented by COVID-19 for Cybersecurity Businesses & Start-ups | 4 Jun, 4.45pm | [Find out more](https://www.singaporeglobalnetwork.com/events/covid-19-cybersecurity/) |
 | Shopee Code League 2020 | 8 June | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
 
 
@@ -28,6 +28,8 @@ permalink: /events/
 | Singapore Speakers Series in London | 7 Feb | [Read more](https://www.singaporeglobalnetwork.com/events/ssslondon-feb2020) |
 | #codeForCorona: Students Against COVID | 9 & 10 May | [Find out more](https://www.eventbrite.sg/e/codeforcorona-students-against-covid-tickets-101453431946) |
 | LKYSPP Asia Thinker Series: Covid-19 – Lessons, Consequences on Global Climate, Biodiversity Crises and Health | 12 May | [Find out more](https://lkyspp.nus.edu.sg/news-events/events/details/covid-19-lessons-consequences-on-global-climate-biodiversity-crises-and-health) |
+| Stories From The Frontline In New York | 24 May | [Watch here](https://www.singaporeglobalnetwork.com/) |
+| Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May | [Watch here](https://www.singaporeglobalnetwork.com/) |
 
 #### 2019
 

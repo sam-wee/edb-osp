@@ -90,4 +90,4 @@ Funds will be disbursed via wire bank transfer within a month, after the satisfa
 
 Please note that non-compliance with the terms and conditions for SGNFP or late submission of post-event documents may negatively affect your current and future funding requests. For example, your application may be voided, face reduction of the disbursement amount, delay in disbursement of funds, and/or be issued warnings that may affect future SGNFP applications.
 
-For further queries, check out some [Frequently Asked Questions](https://edbsing-my.sharepoint.com/:w:/g/personal/ng_xiuling_edb_sg/Ecri68JPHVlIuo3v__aPGkwBJgua8Kk1wk5iorvgjnYnwQ?e=z7QQfu) as follows, or write in to us at [eleen_tay@singaporeglobalnetwork.sg](mailto:eleen_tay@singaporeglobalnetwork.sg). 
+For further queries, check out some [Frequently Asked Questions](https://edbsing-my.sharepoint.com/:b:/g/personal/eleen_tay_edb_sg/ER1PvwG7b0ZDtY0I8B3mqXEB2Mannrr1KCYFFb6-cQsR0A?e=yNqvI4) as follows, or write in to us at [eleen_tay@singaporeglobalnetwork.sg](mailto:eleen_tay@singaporeglobalnetwork.sg). 

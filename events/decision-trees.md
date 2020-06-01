@@ -1,7 +1,7 @@
 ---
 title: "Decision Trees"
 permalink: /events/decision-trees/
-image: /images/events/2020/decision-trees.png
+image: /images/events/2020/Decision_Trees.png
 ---
 
 #### Decision Trees
@@ -25,4 +25,4 @@ _Jason Teo is Director of Product at Carousell. He was with 701Search for 8 year
 
 ##### About Our Moderator
 
-_Junxu is the Chief Product Officer at Endowus.com, Singapore's first and only digital financial advisor where you can invest your CPF, Cash and SRS in one place. Before returning to Singapore, Jx held a variety of Product roles at Bytedance (Shanghai), Lyft and Dropbox (San Francisco). Jx grew up in Singapore and went to Penn/Stanford (where he first met Jason back in 2010)._ 
+_Junxu is the Chief Product Officer at Endowus.com, Singapore's first and only digital financial advisor where you can invest your CPF, Cash and SRS in one place. Before returning to Singapore, he held a variety of Product roles at Bytedance (Shanghai), Lyft and Dropbox (San Francisco). Jx grew up in Singapore and went to Penn/Stanford (where he first met Jason back in 2010)._ 

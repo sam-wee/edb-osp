@@ -58,7 +58,7 @@ Funding is capped at the committed costs of the initiatives upon approval of app
  
 You can submit your funding application [here](https://form.gov.sg/5ecc7b04acd2650011515f0d), and follow the steps below if you wish to apply. 
 
-![Funding Application Process](/images/funding/sgnfp-process.png)
+![image](/images/funding/sgnfp-process.png)
 
 
 ### Report Submission and Disbursement of Funding Quantum

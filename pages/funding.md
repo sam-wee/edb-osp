@@ -6,7 +6,9 @@ image: /images/funding/sgnfp-process.png
 
 ## Apply for the Singapore Global Network Funding Programme now
 
-Have ideas on how to grow Singapore’s global network of family and friends? Keen to organise events or projects that bring communities together and encourage connections with Singapore? Find out if you are eligible to apply for the Singapore Global Network Funding Programme.
+Have ideas on how to grow Singapore’s global network of family and friends? Keen to organise events or projects that bring communities together and encourage connections with Singapore?
+
+Find out if you are eligible to apply for the Singapore Global Network Funding Programme.
 
 ### Funding support for initiatives by family and friends of Singapore
 

@@ -18,6 +18,7 @@ _* Previously known as the Overseas Singaporean Funding Programme (OSFP), which 
 ### Fund details
 
 Who can apply:
+
 -	Overseas Singaporean organisations (such as student associations and professional clubs)
 -	Informal overseas Singaporean or friends of Singapore groups;
 -	Overseas Alumni associations/chapters of Singapore education institutions
@@ -26,10 +27,12 @@ Who can apply:
 -	Minimum group size of 30 attendees. 
 
 What is supported:
+
 -	Physical events or virtual/digital initiatives or events 
 -	Resources (including digital tools) to enable these initiatives 
 
 What eligibility criteria do initiatives or events need to fulfil: 
+
 -	Celebrate connections and a sense of community with Singapore (e.g. festive celebrations, intervarsity games); and/or
 -	Promote networking and sharing between Singaporeans and/or friends of Singapore (e.g. networking sessions); and/or
 -	Promote sharing about opportunities and developments in Singapore and Southeast Asia (e.g. events related to ASEAN)   

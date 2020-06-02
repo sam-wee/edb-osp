@@ -28,7 +28,7 @@ permalink: /events/
 | Singapore Speakers Series in London | 7 Feb | [Read more](https://www.singaporeglobalnetwork.com/events/ssslondon-feb2020) |
 | #codeForCorona: Students Against COVID | 9 & 10 May | [Find out more](https://www.eventbrite.sg/e/codeforcorona-students-against-covid-tickets-101453431946) |
 | LKYSPP Asia Thinker Series: Covid-19 – Lessons, Consequences on Global Climate, Biodiversity Crises and Health | 12 May | [Find out more](https://lkyspp.nus.edu.sg/news-events/events/details/covid-19-lessons-consequences-on-global-climate-biodiversity-crises-and-health) |
-| Stories From The Frontline In New York | 24 May | [Watch here](https://www.singaporeglobalnetwork.com/) |
+| Stories From The Frontline In New York | 24 May | [Watch here](https://youtu.be/O5wgsIsV2zs) |
 | Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May | [Watch here](https://www.singaporeglobalnetwork.com/) |
 
 #### 2019

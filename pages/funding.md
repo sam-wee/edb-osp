@@ -6,7 +6,7 @@ image: /images/funding/sgnfp-process.png
 
 ## Apply for the Singapore Global Network Funding Programme now
 
-Have ideas on how to grow Singapore’s global network of family and friends? Keen to organise events or projects that bring communities together and encourage connections with Singapore?
+Have ideas on how to grow Singapore’s global network of family and friends? Keen to organise events or projects that bring communities together and encourage connections with Singapore? 
 
 Find out if you are eligible to apply for the Singapore Global Network Funding Programme.
 
@@ -24,7 +24,6 @@ Who can apply:
 -	Overseas Singaporean organisations (such as student associations and professional clubs)
 -	Informal overseas Singaporean or friends of Singapore groups;
 -	Overseas Alumni associations/chapters of Singapore education institutions
-
 -	Initiatives should target involvement from: Overseas family and friends of Singapore
 -	Minimum group size of 30 attendees. 
 
@@ -54,7 +53,7 @@ Funding is capped at the committed costs of the initiatives upon approval of app
 
 ### How to apply
 
--	Applications are open throughout the year and must be submitted to SGN at least 3 weeks before the event. The processing timeline required may be longer for complex cases or cases with incomplete information.  
+-	Applications are open throughout the year and must be submitted to SGN at least **3 weeks before the event**. The processing timeline required may be longer for complex cases or cases with incomplete information.  
 -	Ground-up initiatives that have already taken place or generate profits will not be eligible for funding. 
 -	Funding requests for multiple initiatives may be included within each application.  
  
@@ -76,7 +75,7 @@ c)	Digital documentation (provide link to post-event publicity) of event/project
 d)	Statement of Accounts (final expenditure and income earned)*
 _*Receipts to be kept for one year for random audit checks by SGN_
 
-e)	Bank Details form (template [here](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing))
+e)	Bank Details form (template [here](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing)
 
 For applicants who have submitted multiple events during applications, you may choose to submit the post-event report after the end of each event or after the last event ends. The funds allocated will be disbursed upon submission of the corresponding post-event report. 
 
@@ -91,3 +90,12 @@ Funds will be disbursed via wire bank transfer within a month, after the satisfa
 Please note that non-compliance with the terms and conditions for SGNFP or late submission of post-event documents may negatively affect your current and future funding requests. For example, your application may be voided, face reduction of the disbursement amount, delay in disbursement of funds, and/or be issued warnings that may affect future SGNFP applications.
 
 For further queries, check out some [Frequently Asked Questions](https://edbsing-my.sharepoint.com/:b:/g/personal/eleen_tay_edb_sg/ER1PvwG7b0ZDtY0I8B3mqXEB2Mannrr1KCYFFb6-cQsR0A?e=yNqvI4) as follows, or write in to us at [eleen_tay@singaporeglobalnetwork.sg](mailto:eleen_tay@singaporeglobalnetwork.sg). 
+
+### Useful links:
+
+-	[Submission of SGNFP application](https://form.gov.sg/5ecc7b04acd2650011515f0d)
+-	[Submission of SGNFP post-event report](https://form.gov.sg/5ecc7be90a6127001147cf0f)
+-	[Template for Registration and Walk-in Attendee Data](https://edbsing-my.sharepoint.com/:x:/g/personal/eleen_tay_edb_sg/EbL4Y0pZLyJNiyQ5DTYwzoUBkonOV11ktARfm6hLvWYFNg)
+-	[Bank Details Form](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing)
+-	[Frequently Asked Questions on SGNFP](https://edbsing-my.sharepoint.com/:b:/g/personal/eleen_tay_edb_sg/ER1PvwG7b0ZDtY0I8B3mqXEB2Mannrr1KCYFFb6-cQsR0A?e=yNqvI4)
+

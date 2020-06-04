@@ -73,9 +73,10 @@ b)	Walk-in Attendee Data (for physical events only). Template as per a).
 c)	Digital documentation (provide link to post-event publicity) of event/project.
 
 d)	Statement of Accounts (final expenditure and income earned)*
+
 _*Receipts to be kept for one year for random audit checks by SGN_
 
-e)	Bank Details form (template [here](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing)
+e)	Bank Details form (template [here](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing))
 
 For applicants who have submitted multiple events during applications, you may choose to submit the post-event report after the end of each event or after the last event ends. The funds allocated will be disbursed upon submission of the corresponding post-event report. 
 

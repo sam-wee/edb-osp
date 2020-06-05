@@ -17,7 +17,7 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - **It is mandatory for all Singaporeans, permanent residents and long-term pass holders arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.**  Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](https://www.moh.gov.sg/covid-19/faqs) for more information.
 
-- If you have completed your 14-day SHN, and need a short-term accommodation during this period. You may consider a temporary accommodation; view the special rates we've negotiated with the hotels [here](https://go.gov.sg/sgn-shorttermaccom).
+- If you have completed your 14-day SHN, and need a short-term accommodation during this period. You may consider a temporary accommodation; view the special rates we've negotiated with the hotels [here](https://go.gov.sg/sgn-shorttermaccomm).
 
 - Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
 

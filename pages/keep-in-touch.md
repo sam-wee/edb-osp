@@ -10,5 +10,5 @@ If you're accessing this form from China, you can fill it in <a href="https://go
 
 <figure class="video_container">
 <!-- Change the width and height values to suit you best -->
-<iframe id="iframe" src="https://form.gov.sg/5da53497e397fc0013f6d4b0" style="width:100%;height:500px"></iframe>
+<iframe id="iframe" src="https://cloud.email.singaporeglobalnetwork.com/signup" style="width:100%;height:500px"></iframe>
 </figure>

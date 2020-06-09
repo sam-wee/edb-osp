@@ -1,7 +1,7 @@
 ---
 title: Funding
 permalink: /funding/
-image: /images/funding/sgnfp-process.png
+image: /images/funding/sgnfp.jpg
 ---
 
 ## Apply for the Singapore Global Network Funding Programme now

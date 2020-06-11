@@ -20,8 +20,8 @@ Register here: [https://go.gov.sg/pintsandprata2](https://go.gov.sg/pintsandprat
 
 ##### About Our Speakers
 
-_Mr Nicholas Foo, Head of Business Development at Duffel
-https://www.linkedin.com/in/nicfoo
+_Mr Nicholas Foo, Head of Business Development at Duffel_
+[https://www.linkedin.com/in/nicfoo](https://www.linkedin.com/in/nicfoo)
 
 Nic began his career in the Singapore Government at the Singapore Tourism Board. There, he oversaw as head of department the strategy and development of Singapore tourism districts. He also spent 3 years in New Delhi, India looking after Singapore’s tourism marketing strategy and partnerships in the region. Nic also started and ran a social enterprise in New Delhi. 
  
@@ -32,8 +32,8 @@ Nic took a year-long sabbatical to start his own e-commerce businesses. He start
 In his spare time, he loves going on country walks with his wife, cycling on his own, travelling (who doesn’t?) and dabbling in photography. Nic has had his own solo photography exhibition and curated a few others. Nic has a BSc Philosophy, Politics, Economics (First Class) from the University of Warwick.
 
 
-_Ms Elizabeth Ho, Business Finance Analyst at Google
-https://uk.linkedin.com/in/elizabethho11
+_Ms Elizabeth Ho, Business Finance Analyst at Google_
+[https://uk.linkedin.com/in/elizabethho11](https://uk.linkedin.com/in/elizabethho11)
 
 Elizabeth studied Law at the University of Leicester and worked as a Technology consultant at Accenture for 4 years. During this time, she built expertise in, and led global data and regulatory reform projects. She won the Future Stars of Tech in Data award in 2018, for managing and implementing the Markets in Financial Directive II (MiFID II) data requirements for her client investment bank.
  

@@ -79,7 +79,7 @@ I hope that this month’s recipes will appease some of your cravings too! Next 
 -	Confectioners’ sugar (for dusting) <br/>
 -	8” x 8” baking dish
 <br /><br/></td>
-<td style="width: 180px;"><img src="/images/stories/2020/Jun/lockdowncooking-7.jpg" /></td>
+<td style="width: 500px;"><img src="/images/stories/2020/Jun/lockdowncooking-7.jpg" /></td>
 </tr>
 </table>
 

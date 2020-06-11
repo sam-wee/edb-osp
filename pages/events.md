@@ -18,8 +18,6 @@ permalink: /events/
 
 | Event  | Date & Time | Event Highlight |
 |---|---|---| 
-
-| Impact of Covid-19 on visas and immigration | 7 Jun |
 | Threats & Opportunities Presented by COVID-19 for Cybersecurity Businesses & Start-ups | 4 Jun | [Watch here](https://www.youtube.com/watch?v=iSTgrO_TaaE&t=11s) |
 | Decision Trees in Product Management | 3 Jun | [Watch here](https://www.youtube.com/watch?v=ht-kMF0AisA&t=3s) |
 | Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May | 

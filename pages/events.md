@@ -7,8 +7,8 @@ permalink: /events/
 
 | Event  | Date & Time | Details |
 |---|---|---|
+| Singapore Hour - community call with OS in the US | 12 Jun | 
 | Pints and Prata #2 - Pivoting to Tech | 13 Jun | [Find out more](https://www.singaporeglobalnetwork.com/events/pintsprata2/) |
-| Singapore Hour - community call with OS in the US | 12 June | 
 | SGN x VGC: Lunch chat with Steve Melhuish, Founder of PropertyGuru | 19 June | [Find out more](https://www.singaporeglobalnetwork.com/events/sgn-vgc-property-guru/) |
 
 

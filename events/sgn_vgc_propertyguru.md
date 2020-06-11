@@ -1,6 +1,6 @@
 ---
 title: "SGN x VGC: Lunch chat with Steve Melhuish, Founder of PropertyGuru"
-permalink: /events/sgn-vgc-propertyguru/
+permalink: /events/sgn-vgc-property-guru/
 image: /images/events/2020/sgnvgc_propertyguru.png
 ---
 

@@ -41,7 +41,7 @@ In the Philippines, the pandemic was a catalyst for widespread e-commerce adopti
 
 He explains that these two consumer trends have shaped IRVINS’ plans and directions to keep up with the changing demands in at least the next few months. Specifically, the key priorities for its Philippines’ business is to enter products into supermarkets and increase its presence on the e-commerce front. 
 
-Staying agile for an unpredictable future
+#### Staying agile for an unpredictable future
 
 Benjamin shares the same sentiments that building an online presence is ever important today. “Now, more than ever, the digital shopfront is in many ways, more important than a physical shopfront,” he stresses. 
 

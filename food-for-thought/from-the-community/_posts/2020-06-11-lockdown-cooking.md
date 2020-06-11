@@ -33,7 +33,7 @@ This started me thinking: what about those of us who lived far away from family?
 
 Baking seems to be the number one new activity that, wherever we are in the world, we all seem to have tried our hands at. As late as April, nearly two months after many countries went into lockdown, there were still news reports of supermarkets running out of flour. Plain, self-raising, wholemeal, spelt... the shelves across the world emptied as quickly as they were stocked. It looked as if for once, the world was in agreement: baking was an essential part of “lockdown cooking”. 
 
-Mashizan Masjum, who runs his own luxury footwear brand in Paris (France), confessed that he had never baked prior to the confinement. “While I cook a lot, I always find baking daunting. You need to be precise and there seems to be no room for error. But with the confinement, I've learnt that baking is as much an art as it is science. I recently made an ondeh-ondeh pandan cake after seeing a picture posted by a friend on Facebook.” 
+_Mashizan Masjum_, who runs his own luxury footwear brand in Paris (France), confessed that he had never baked prior to the confinement. “While I cook a lot, I always find baking daunting. You need to be precise and there seems to be no room for error. But with the confinement, I've learnt that baking is as much an art as it is science. I recently made an ondeh-ondeh pandan cake after seeing a picture posted by a friend on Facebook.” 
 
 ![Image](/images/stories/2020/Jun/lockdowncooking-1.png)
 _Mashizan presents his ondeh-ondeh pandan cake_
@@ -44,12 +44,12 @@ Very soon however, this activity became more like the BBC’s “The Great Briti
 
 Be it sourdough bread or chocolate cakes, or even a basic banana bread, nearly all of us were rolling and dusting, then keeping our fingers crossed that no smoke alarm would go off in our kitchens. We then presented our creations to the critical (and only) judges: our family. 
 
-Dora Yip who moved with her husband to his hometown in Dunedin (New Zealand) recounted the success of a recent bake. “The best thing I’ve made in lockdown – from an audience reaction perspective – is a simple Jewish challah bread. My kids rated it 100 out of 10. It was that good! I made it as part of a #breadsoftheworld challenge. The braiding of the bread is very calming and therapeutic. We eat it fresh with anything, and the next day, it makes the best French toast." 
+_Dora Yip_ who moved with her husband to his hometown in Dunedin (New Zealand) recounted the success of a recent bake. “The best thing I’ve made in lockdown – from an audience reaction perspective – is a simple Jewish challah bread. My kids rated it 100 out of 10. It was that good! I made it as part of a #breadsoftheworld challenge. The braiding of the bread is very calming and therapeutic. We eat it fresh with anything, and the next day, it makes the best French toast." 
 
 ![Image](/images/stories/2020/Jun/lockdowncooking-2.png)
 _Dora and her success bake – a simple Jewish challah bread_
 
-Sometimes, even when our ovens break down, we find a way to produce a cake. This is just what happened to Yan Teo-Maya, in El Retiro, Antioquia (Colombia). Owner-chef of an Asian restaurant, Yan used the extra time that she had during the crisis to experiment. “I found new and creative ways to bake. I tried to use existing recipes and steamed them instead of baking. Banana cake and chocolate cake was a success. Steaming results in a much spongier and softer texture compared to traditional baking where the cake turns out drier and denser. I also baked matcha green tea biscuits and chocolate chip cookies using a steamer (dry method).”
+Sometimes, even when our ovens break down, we find a way to produce a cake. This is just what happened to _Yan Teo-Maya_, in El Retiro, Antioquia (Colombia). Owner-chef of an Asian restaurant, Yan used the extra time that she had during the crisis to experiment. “I found new and creative ways to bake. I tried to use existing recipes and steamed them instead of baking. Banana cake and chocolate cake was a success. Steaming results in a much spongier and softer texture compared to traditional baking where the cake turns out drier and denser. I also baked matcha green tea biscuits and chocolate chip cookies using a steamer (dry method).”
 
 ![Image](/images/stories/2020/Jun/lockdowncooking-4.jpg)
 _Yan at her restaurant in Colombia with the Singapore Minister of National Development Lawrence Wong_
@@ -61,25 +61,27 @@ _Grace and her daughter, who takes part in the cake-making process!_
 
 I hope that this month’s recipes will appease some of your cravings too! Next month, I speak to more overseas Singaporeans about how they coped with the lockdown, and bring you some of their cooking hacks. 
 
+<hr>
+
 #### Made-In-The-Pan Chocolate Cake
 
 <table style="width: 100%;" border="0" cellpadding="10">
 <tr>
 <td> <strong>Ingredients:</strong><br/><br/> 
-- 160g all-purpose flour <br/>
--	200g granulated sugar <br/>
--	30g unsweetened cocoa powder <br/>
--	¾ tsp baking soda <br/>
--	½ tsp kosher salt <br/>
--	80 ml canola oil <br/>
--	1 tsp vanilla extract <br/>
--	1 tsp apple cider vinegar or white vinegar <br/>
--	1 cup water <br/>
--	2 tbsp semi-sweet or vegan chocolate chips <br/>
--	Confectioners’ sugar (for dusting) <br/>
--	8” x 8” baking dish <br/>
+•	160g all-purpose flour <br/>     
+•	200g granulated sugar <br/> 
+•	30g unsweetened cocoa powder <br/> 
+•	¾ tsp baking soda <br/> 
+•	½ tsp kosher salt <br/> 
+•	80 ml canola oil <br/> 
+•	1 tsp vanilla extract <br/> 
+•	1 tsp apple cider vinegar or white vinegar <br/> 
+•	1 cup water <br/> 
+•	2 tbsp semi-sweet or vegan chocolate chips <br/>  
+•	Confectioners’ sugar (for dusting) <br/> 
+•	8” x 8” baking dish <br/> 
 </td>
-<td style="width: 300px;"><img src="/images/stories/2020/Jun/lockdowncooking-7.jpg" /></td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jun/lockdowncooking-7.jpg" /></td>
 </tr>
 </table>
 
@@ -93,4 +95,80 @@ I hope that this month’s recipes will appease some of your cravings too! Next 
 6.	Carefully transfer the dish to the oven and bake for about 30 minutes. 
 7.	Remove from the oven and leave to cool. Cut the cake into squares. Dust the top with confectioners’ sugar.
 
+<hr>
 
+#### Double Chocolate Cake (Steamed)
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<td> <strong>Ingredients:</strong><br/><br/> 
+LIST A <br/> 
+•	225g flour <br/>       
+•	280g sugar <br/> 
+•	¾ cup cocoa powder <br/> 
+•	1.5 tsp baking powder <br/> 
+•	1.5 tsp baking soda <br/> 
+•	1 tsp salt <br/><br/>  
+LIST B <br/> 
+•	2 eggs <br/> 
+•	113g melted butter <br/> 
+•	1 tbsp vanilla extract <br/> 
+•	1 cup buttermilk <br/> 
+•	1 cup hot coffee <br/><br/>  
+LIST C <br/> 
+•	200g cream cheese <br/> 
+•	100g cooking cream <br/> 
+•	70g sugar <br/> 
+•	¼ cup cocoa powder <br/> 
+</td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jun/lockdowncooking-8.jpg" /></td>
+</tr>
+</table>
+
+#### Instructions:
+
+1.	Mix the ingredients from LIST A in a bowl.
+2.	In a separate bowl, whisk the ingredients LIST B together on medium speed. Add the ingredients from LIST A and combine well. Pour into a baking pan and steam for 40 minutes.
+3.	To make the buttercream, whisk the ingredients from LIST C together until a stiff peak is formed.
+4.	When the cake is steamed and ready, cut in half and spread some of the buttercream in between the two layers. Spread the remaining buttercream over the top and sides of the double-layered cake.
+
+<hr>
+
+#### Jewish Challah Bread
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tr>
+<td> <strong>Ingredients:</strong><br/><br/> 
+•	1 cup lukewarm water <br/>
+•	2 teaspoons active dry or instant yeast <br/>
+•	4 to 4 1/2 cups all-purpose flour <br/>
+•	1/4 cup granulated sugar <br/>
+•	2 teaspoons salt <br/>
+•	2 large eggs <br/>
+•	1 large egg yolk (reserve the white for the egg wash) <br/>
+•	1/4 cup neutral-flavoured vegetable oil, such as canola <br/>
+</td>
+<td style="width: 250px;"><img src="/images/stories/2020/Jun/lockdowncooking-9.jpg" /></td>
+</tr>
+</table>
+
+#### Instructions:
+
+1.	Place the water in a small bowl, sprinkle with the yeast and a healthy pinch of sugar, and stir to combine. Let stand until you see a thin frothy layer across the top, 5 to 10 minutes.
+2.	Place 4 cups of the flour, sugar, and salt in the bowl of a stand mixer and whisk to combine.
+3.	Make a well in the centre of the flour and add the eggs, egg yolk, and oil. Whisk to form a slurry, pulling in a little flour from the sides of the bowl.
+4.	Pour the yeast mixture over the egg slurry. Mix the yeast, eggs, and flour with a wooden spoon or rubber spatula until a shaggy dough that is difficult to mix forms.
+5.	Fit the mixer with the hook attachment and knead on low speed for 6 to 8 minutes until the dough is soft, smooth, and holds a ball-shape. (Alternatively, turn out the dough onto a floured work surface and knead by hand for about 10 minutes.) 
+6.	Place the dough in an oiled bowl, cover with plastic wrap, and place somewhere warm. Let the dough rise until doubled in bulk, about 1.5 to 2 hours.
+7.	Divide the dough into 3 equal pieces. Roll each piece of dough into a long rope about 40cm long. 
+8.	Gather the ropes and squeeze them together at the very top. Braid the ropes together like braiding hair and squeeze the ends together when complete.
+9.	Line a baking sheet with parchment paper. Place the braided loaf on top and sprinkle with a little flour. Cover with a clean kitchen towel. Let rise in a warm place away from drafts until puffed, about 1 hour.
+10.	About 20 minutes before baking, arrange a rack in the middle of the oven and heat to 180°C. When ready to bake, whisk the reserved egg white with 1 tablespoon of water and brush it all over the challah.
+11.	Bake for about 30-35 minutes, until the challah is deeply browned.
+12.	Let the challah cool on a cooling rack until just barely warm before slicing. 
+
+<hr>
+
+#### About the Author
+
+![Image](/images/stories/2020/Jun/lockdowncooking-bio.png)

@@ -77,9 +77,9 @@ I hope that this month’s recipes will appease some of your cravings too! Next 
 -	1 cup water <br/>
 -	2 tbsp semi-sweet or vegan chocolate chips <br/>
 -	Confectioners’ sugar (for dusting) <br/>
--	8” x 8” baking dish
-<br /><br/></td>
-<td style="width: 500px;"><img src="/images/stories/2020/Jun/lockdowncooking-7.jpg" /></td>
+-	8” x 8” baking dish <br/>
+</td>
+<td style="width: 300px;"><img src="/images/stories/2020/Jun/lockdowncooking-7.jpg" /></td>
 </tr>
 </table>
 

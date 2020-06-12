@@ -3,7 +3,7 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news). For further queries, drop us an email [here](mailto:hello@singaporeglobalnetwork.com).
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news). For further queries, drop us an email [here](mailto:hello@singaporeglobalnetwork.sg).
 
 ### <a id="returning-home"></a> If you're returning home
 

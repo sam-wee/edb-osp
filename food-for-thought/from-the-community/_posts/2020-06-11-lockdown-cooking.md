@@ -9,8 +9,6 @@ image: /images/stories/2020/Jun/lockdowncooking-4.jpg
 
 _In the very first of our three-part series on Lockdown Cooking, Lim Monica Devi, a Singaporean in Belgium seeks out the Singaporean community around the world to share a common love – food! Over the next few months, she will be speaking to them about their journeys and joys during the global lockdown, including their favourite dishes to make and memories of the Little Red Dot. Dig in as she rolls out this month’s flavours: baking recipes. Start with the truly simple one-pan, rise to a cake made without an oven, then crank up the heat with a slightly more complicated braided beauty. The recipes here will entice both circuit bakers and circuit eaters!_
 
-By SGN
-
 <hr>
 
 “The NTUC ran out of cakes! My oven was not working either. Panic!!” a friend remarked over WhatsApp recently. 

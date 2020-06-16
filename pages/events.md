@@ -8,7 +8,6 @@ permalink: /events/
 | Event  | Date & Time | Details |
 |---|---|---|
 | Shopee Code League 2020 | 8 Jun - 1 Aug | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
-| Pints and Prata #2 - Pivoting to Tech | 13 Jun | [Find out more](https://www.singaporeglobalnetwork.com/events/pints-and-prata-pivoting-to-tech/) |
 | SGN x VGC: Lunch chat with Steve Melhuish, Founder of PropertyGuru | 19 Jun | [Find out more](https://www.singaporeglobalnetwork.com/events/sgn-vgc-property-guru/) |
 
 
@@ -18,6 +17,7 @@ permalink: /events/
 
 | Event  | Date & Time | Event Highlight |
 |---|---|---| 
+| Pints and Prata #2 - Pivoting to Tech | 13 Jun | [Watch here]() |
 | Threats & Opportunities Presented by COVID-19 for Cybersecurity Businesses & Start-ups | 4 Jun | [Watch here](https://www.youtube.com/watch?v=iSTgrO_TaaE&t=11s) |
 | Decision Trees in Product Management | 3 Jun | [Watch here](https://www.youtube.com/watch?v=ht-kMF0AisA&t=3s) |
 | Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May | 

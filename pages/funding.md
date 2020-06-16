@@ -27,6 +27,8 @@ Who can apply:
 -	Initiatives should target involvement from: Overseas family and friends of Singapore
 -	Minimum group size of 30 attendees. 
 
+For organisations based in Singapore, you may write in to [Eleen Tay](mailto:eleen_tay@singaporeglobalnetwork.sg) with details of your initiative to check if it is eligible for SGNFP.
+
 What is supported:
 
 -	Physical events or virtual/digital initiatives or events 
@@ -76,9 +78,9 @@ d)	Statement of Accounts (final expenditure and income earned)*
 
 _*Receipts to be kept for one year for random audit checks by SGN_
 
-e)	Bank Details form (template [here](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing))
+e)	Bank Details Form (template [here](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing))
 
-For applicants who have submitted multiple events during applications, you may choose to submit the post-event report after the end of each event or after the last event ends. The funds allocated will be disbursed upon submission of the corresponding post-event report. 
+For applicants who have submitted multiple events during applications, you may choose to submit the post-event report after the end of each event or after the last event ends. The funds allocated will be disbursed upon submission of the corresponding post-event report. In addition, SGN's support should be acknowledged on all publicity materials (e.g. brochures, emailers and posters).
 
 Reimbursement will be computed based on total actual income and expenditure. The final amount you will receive will be either 
 
@@ -99,4 +101,3 @@ For further queries, check out some [Frequently Asked Questions](https://edbsing
 -	[Template for Registration and Walk-in Attendee Data](https://edbsing-my.sharepoint.com/:x:/g/personal/eleen_tay_edb_sg/EbL4Y0pZLyJNiyQ5DTYwzoUBkonOV11ktARfm6hLvWYFNg)
 -	[Bank Details Form](https://drive.google.com/file/d/1mwsCF7ZOmz5xFIqasHfSwUEcd15vsmIF/view?usp=sharing)
 -	[Frequently Asked Questions on SGNFP](https://edbsing-my.sharepoint.com/:b:/g/personal/eleen_tay_edb_sg/ER1PvwG7b0ZDtY0I8B3mqXEB2Mannrr1KCYFFb6-cQsR0A?e=yNqvI4)
-

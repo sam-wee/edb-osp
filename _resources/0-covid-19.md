@@ -15,7 +15,9 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. 
 
-- **It is mandatory for all Singaporeans, permanent residents and long-term pass holders arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period.**  Those who are affected do not need to apply or make any bookings. You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](https://www.moh.gov.sg/covid-19/faqs) for more information.
+- **It is mandatory for all Singaporeans, permanent residents and long-term pass holders arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period. However, from 17 June 2020, 2359 hours, all travellers entering Singapore. and who had remained in Australia, Brunei Darussalam, Hong Kong, Japan, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry, will no longer have to serve their SHN at dedicated SHN facilities.** You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](https://go.gov.sg/weareinthistgt) for more information. 
+
+- Besides the SHN, there will be a test for all incoming travellers before the end of their SHN, and this applies to all travellers entering Singapore from 17 June 2020, 2359 hours. It is an additional precautionary measure to detect the virus, especially given the risks of asymptomatic cases. More information [here](https://www.moh.gov.sg/news-highlights/details/gradual-re-opening-of-travel-and-changes-to-border-measures)
 
 - If you have completed your 14-day SHN, and need a short-term accommodation during this period. You may consider a temporary accommodation; view the special rates we've negotiated with the hotels [here](https://go.gov.sg/sgn-shorttermaccomm).
 
@@ -57,6 +59,7 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
+* [Phase 2 of Singapore's reopening: What you can do from June 19](#phase-2)
 * [Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate](#reopen-borders)
 * [Travellers allowed to transit through Changi Airport from Jun 2](#transit-travellers)
 * [Covid-19 circuit breaker to be extended by one month](#extend-cb)
@@ -84,6 +87,11 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+#### <a id="phase-2"></a> Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate
+
+Most businesses and social activities will be allowed to resume from Friday (June 19), the second phase of Singapore's reopening after the circuit breaker period, the authorities announced on Monday (June 15).
+
+Read more [here](https://www.channelnewsasia.com/news/singapore/covid-19-singapore-reopen-borders-resume-essential-travel-12749534)
 
 #### <a id="reopen-borders"></a> Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate
 

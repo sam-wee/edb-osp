@@ -13,7 +13,7 @@ By SGN
 
 <hr>
 
-As a well-connected international hub, [Singapore has been a preferred choice for expats hailing from all corners of the world. In 2019, Singapore had ranked 2nd in the top countries to live and work in, in a survey done by over 18,000 expats](https://www.businessinsider.sg/best-countries-to-live-and-work-hsbc-expat-study-2019-7). 
+As a well-connected international hub, [Singapore has been a preferred choice for expats hailing from all corners of the world. In 2019, Singapore had ranked 2nd in the top countries to live and work in, in a survey done by over 18,000 expats](https://www.businessinsider.com/best-countries-to-live-and-work-hsbc-expat-study-2019-7). 
 
 We speak with [Monique Fillion](https://www.linkedin.com/in/monique-fillon/) from the Philippines, [Sebastian Muller](https://www.linkedin.com/in/smueller1512/) from Germany, [James Gwyther](https://www.linkedin.com/in/jsgwyther/) from the United Kingdom, and [Katsuto Akimichi](https://www.instagram.com/katsuto.akimichii/) from Japan, on their roaring experience on life in the Lion City. 
 

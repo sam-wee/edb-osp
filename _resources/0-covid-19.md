@@ -59,6 +59,7 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 
 ### <a id="latest-news"></a> Latest news
 
+* [Cost of Covid-19 tests to be waived for returning Singaporeans and PRs](#covid-test-waive)
 * [Phase 2 of Singapore's reopening: What you can do from June 19](#phase-2)
 * [Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate](#reopen-borders)
 * [Travellers allowed to transit through Changi Airport from Jun 2](#transit-travellers)
@@ -87,6 +88,16 @@ It’s a trying time for everyone now, and I hope I can assuage some of your wor
 We will keep this page updated on important developments on the COVID situation in Singapore. Please do not listen to or spread rumours and untrue reports, sharing news responsibly is an important way we can protect ourselves. Most of all, continue to look out for one another and take care of yourselves!
 
 <hr>
+#### <a id="covid-test-waive"></a> Cost of Covid-19 tests to be waived for Singaporeans and PRs
+
+Singaporeans and permanent residents who left Singapore before an advisory against travelling out of the country was issued on March 27 and who are returning in the near future will not have to pay for their Covid-19 tests.
+
+But this holds only if they enter Singapore by Aug 31, the Ministry of Health (MOH) said on Wednesday (June 17).
+
+Read more [here]
+
+https://www.straitstimes.com/singapore/cost-of-covid-19-tests-to-be-waived-for-sporeans-prs-who-left-spore-before-march-27-travel?cx_testId=20&cx_testVariant=cx_1&cx_artPos=4#cxrecs_s
+
 #### <a id="phase-2"></a> Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate
 
 Most businesses and social activities will be allowed to resume from Friday (June 19), the second phase of Singapore's reopening after the circuit breaker period, the authorities announced on Monday (June 15).

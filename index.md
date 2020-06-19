@@ -13,7 +13,7 @@ sections:
         button: Keep in Touch
         url: /keep-in-touch/
         key_highlights:
-            - title: COVID-19
+            - title: COVID-19 & FAQs
               description: Stay safe and informed
               url: /resources/covid-19/
             - title: Things to do

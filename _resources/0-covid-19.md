@@ -3,25 +3,25 @@ title: COVID-19
 permalink: /resources/covid-19/
 ---
 
-In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that YOU, as a Singaporean or a friend of Singapore, are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news). For more information, refer to our FAQs on the latest border control measures [here](https://go.gov.sg/weareinthistgt) or drop us an email [here](mailto:hello@singaporeglobalnetwork.sg) if you have further queries.
+In light of the COVID-19 situation, please stay safe wherever you are. Our priority is to make sure that you are well-supported in this time of uncertainty, wherever you may be. Here's what you need to know [if you're returning home](#returning-home), [based overseas](#based-overseas), or if you want to be keep abreast of [Singapore's COVID-19 situation](#latest-news). You may refer to [our FAQs in response to the latest border control measures here](https://go.gov.sg/weareinthistgt) for more information, or drop us an email [here](mailto:hello@singaporeglobalnetwork.sg) if you have further queries.
 
 ### <a id="returning-home"></a> If you're returning home
 
-- Singaporeans and PRs will always be welcome home, however, please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
+- Singaporeans and permanent residents (PRs) will always be welcome home, but please take note of [Singapore's latest border control measures](https://www.ica.gov.sg/covid-19). 
 
-- All long-term pass holders will require an entry approval before entering or returning to Singapore from 29 Mar, 11.59pm, [submit your application for entry to ICA via email](mailto:ICA_nCoV_request@ica.gov.sg).
+- All long-term pass holders (LTVPs) will require an entry approval before entering or returning to Singapore from 29 Mar, 11.59pm, [submit your application for entry to ICA via email](mailto:ICA_nCoV_request@ica.gov.sg).
 
-- Travellers (residents and long-term pass holders included) must submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
+- Travellers (residents and LTVPs included) must submit their declaration via the [SG Arrival Card (SGAC) e-Service](https://icaeservices.ica.gov.sg/sgarrivalcard/). Comply with requests for nasal swab tests at immigration checkpoints if you are asked to, even if you are asymptomatic.
 
 - Serve out your 14-day Stay-Home Notice (SHN) upon entering Singapore. We know you miss your loved ones, but please practice safe distancing. 
 
-- **It is mandatory for all Singaporeans, permanent residents and long-term pass holders arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period. However, from 17 June 2020, 2359 hours, all travellers entering Singapore, and who had remained in Australia, Brunei Darussalam, Hong Kong, Japan, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry, will no longer have to serve their SHN at dedicated SHN facilities.** You may contact the SHN helpline at +65 6812 5555 for more information. Refer to our FAQs [here](https://go.gov.sg/weareinthistgt) for more information. 
+- **It is mandatory for all Singaporeans, PRs and LTVPs arriving from 9 Apr, 11.59pm onwards to stay at dedicated hotels for the duration of their SHN period. However, from 17 Jun, 11.59pm, all travellers entering Singapore, and who had remained in Australia, Brunei Darussalam, Hong Kong, Japan, Macao, Mainland China, New Zealand, Republic of Korea, Taiwan and Vietnam in the last consecutive 14 days prior to their entry, will no longer have to serve their SHN at dedicated SHN facilities.** You may contact the SHN helpline at +65 6812 5555 or refer to [our FAQs here](https://go.gov.sg/weareinthistgt) for more information. 
 
-- Besides the SHN, there will be a test for all incoming travellers before the end of their SHN, and this applies to all travellers entering Singapore from 17 June 2020, 2359 hours. It is an additional precautionary measure to detect the virus, especially given the risks of asymptomatic cases. More information [here](https://www.moh.gov.sg/news-highlights/details/gradual-re-opening-of-travel-and-changes-to-border-measures)
+- Besides the SHN, there will be a test for all incoming travellers before the end of their SHN, and this applies to all travellers entering Singapore from 17 June 2020, 2359 hours. More details [here](https://www.moh.gov.sg/news-highlights/details/gradual-re-opening-of-travel-and-changes-to-border-measures).
 
 - If you need alternative accommodation to serve your 14-day SHN, or have completed your SHN and need short-term accommodation during this period, you may consider the special rates we’ve negotiated with hotels [here](https://go.gov.sg/sgn-shorttermaccomm).
 
-- Maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number.
+- Upon arrival in Singapore, maintain a record of who you come into close contact with. Example: Take note of the taxi or private hire vehicle number. [Download TraceTogether](http://go.gov.sg/traceapp) for better contact tracing efforts if you have a SG number. This can be your friend /parent's phone number. Please also [use SafeEntry](https://www.safeentry.gov.sg/) for contact tracing purposes.
 
 - Many countries have imposed entry restrictions and border closures. Please refer to the [International Air Transport Association (IATA) Travel Centre website](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) when planning your travel routes.
 
@@ -42,18 +42,6 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 - Subscribe to our official [Telegram channel](https://t.me/SGNchannel) (Tap on "JOIN" to subscribe) or join our regional Telegram chats to get advice and support from those in similar predicaments as you.
 
 - Keep updated with the latest news resources and public statements [below](#latest-news).
-
-<hr>
-
-### Meet Codee
-
-![Image](/images/Codee_Thumbnail.png)
-
-Hello World! I’m Codee, and I was born out of a need to save the world. I’m here to answer some of your commonly-asked questions on COVID-19. I’m also still young and learning, and I may not have all the answers that you need, so please give me some time to learn the ropes.
-
-“I’m only one call away~” Opps, I got a little carried away,  but you can definitely reach me at [go.gov.sg/asksgn](https://go.gov.sg/asksgn) or on [Telegram @SGNetwork_bot](https://t.me/SGNetwork_bot) 🤖
-
-It’s a trying time for everyone now, and I hope I can assuage some of your worries and concerns. You know what they say, tough times makes for stronger people, you and I both 😊 Take care and stay safe! And remember, I’m always here for you. ❤️
 
 <hr>
 
@@ -94,9 +82,7 @@ Singaporeans and permanent residents who left Singapore before an advisory again
 
 But this holds only if they enter Singapore by Aug 31, the Ministry of Health (MOH) said on Wednesday (June 17).
 
-Read more [here]
-
-https://www.straitstimes.com/singapore/cost-of-covid-19-tests-to-be-waived-for-sporeans-prs-who-left-spore-before-march-27-travel?cx_testId=20&cx_testVariant=cx_1&cx_artPos=4#cxrecs_s
+Read more [here](https://str.sg/JWc7)
 
 #### <a id="phase-2"></a> Singapore to gradually reopen borders, plans to resume essential travel among countries with low COVID-19 transmission rate
 
@@ -313,4 +299,4 @@ Singapore has been effectively curbing the Covid-19 outbreak from assimilating f
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fp8ahoyuRzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_All articles updated as of 10 Apr 2020, 4.30pm(GMT+8:00)_
+_All articles and information updated as of 20 Jun 2020, 1.00pm(GMT+8:00)_

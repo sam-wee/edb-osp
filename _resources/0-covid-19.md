@@ -45,18 +45,6 @@ In light of the COVID-19 situation, please stay safe wherever you are. Our prior
 
 <hr>
 
-### Meet Codee
-
-![Image](/images/Codee_Thumbnail.png)
-
-Hello World! I’m Codee, and I was born out of a need to save the world. I’m here to answer some of your commonly-asked questions on COVID-19. I’m also still young and learning, and I may not have all the answers that you need, so please give me some time to learn the ropes.
-
-“I’m only one call away~” Opps, I got a little carried away,  but you can definitely reach me at [go.gov.sg/asksgn](https://go.gov.sg/asksgn) or on [Telegram @SGNetwork_bot](https://t.me/SGNetwork_bot) 🤖
-
-It’s a trying time for everyone now, and I hope I can assuage some of your worries and concerns. You know what they say, tough times makes for stronger people, you and I both 😊 Take care and stay safe! And remember, I’m always here for you. ❤️
-
-<hr>
-
 ### <a id="latest-news"></a> Latest news
 
 * [Cost of Covid-19 tests to be waived for returning Singaporeans and PRs](#covid-test-waive)

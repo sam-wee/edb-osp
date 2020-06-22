@@ -7,7 +7,7 @@ image: /images/stories/2020/Jun/expats-sg-1.jpg
 
 ### “Singapore ah?” – What expats really think of life in the little red dot 
 
-_Singapore is a stewing crockpot of diverse cultures that serves up the best experiences Asia has to offer. The sunny island houses many expats who came to experience life and work in the heart of the bustling city-state. We speak to four expats on their thoughts of life in the little red dot, and if it hits the mark!_
+_Want to know what it's really like to live in Singapore? Four expats spill the tea on what it's really like to live in the sunny island-state._
 
 By SGN
 

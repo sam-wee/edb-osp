@@ -25,7 +25,7 @@ Here’s a look at Singapore’s A-Zs! Take time to recall the stories and memor
 
 Many are familiar with the 12-year Chinese Zodiac cycle, in which each year is represented by one of 12 animals: rat, ox, tiger, rabbit, dragon, snake, horse, goat, monkey, chicken, dog and pig. This story has its roots in Chinese mythology, where the Jade Emperor – the ruler of all gods – hosted a big race to choose his twelve gate guards. But do you remember how each animal got their spot?
 
-We’ve decided to put a fun, Singaporean twist to this folk tale! Round up your younger family members and friends to hear the story of how the Chinese Zodiac – as we know it – came to be. [Download](https://drive.google.com/file/d/1tXezBbNxxn5xws3SCjUfqYorG38LL7Sx/view?usp=sharing) the colouring book here and unleash your creative streak!
+We’ve decided to put a fun, Singaporean twist to this folk tale! Round up your younger family members and friends to hear the story of how the Chinese Zodiac – as we know it – came to be. [Download](/docs/AtoZ_A3 Printable_Web.pdf) the colouring book here and unleash your creative streak!
 
 
 ## <a id="indoor-fun"></a>Indoor Fun
@@ -36,20 +36,20 @@ When it rains, and you have to stay indoors, it does not mean you have to get bo
 
 If you like something a little more kinesthetically challenging, Five Stones is bound to throw any residual boredom out of the window.
 
-[Download](https://drive.google.com/file/d/1Wy6qFL9ccd201Bs2Q9KqpTa4OZ9A3AF2/view?usp=sharing) the Indoor Fun instructional and educational booklet for you and your kids!
+[Download](/docs/Indoor_Fun.pdf) the Indoor Fun instructional and educational booklet for you and your kids!
 
 
 ## <a id="sg-hidden-gems"></a>Singapore's Hidden Gems
 
 ![SG Hidden Gems](/images/kids-resources/sg-hidden-gem-coverimage.png)
 
-Singapore – we think we’ve seen it all, but there really is still much more to discover on our Little Red Dot! On your next trip home, why not bring your family on an adventure around Singapore? We’ve uncovered some ‘hidden gems’ in various parts of our island – take a look at what’s in your neighbourhood, or try going somewhere new! Bring out [this printable map](https://drive.google.com/file/d/1vAYzkmMCNfr7cZnr_gIr1-vYl2BTCOWh/view?usp=sharing) as you go exploring!
+Singapore – we think we’ve seen it all, but there really is still much more to discover on our Little Red Dot! On your next trip home, why not bring your family on an adventure around Singapore? We’ve uncovered some ‘hidden gems’ in various parts of our island – take a look at what’s in your neighbourhood, or try going somewhere new! Bring out [this printable map](/docs/SG_Hidden_Gems_Printable_Map.pdf) as you go exploring!
 
 ## <a id="sg-cityscape"></a>Singapore Cityscape Pop-Up Display
 
 ![Singapore Cityscape Pop-Up Display](/images/kids-resources/sg-cityscape-popup.png)
 
-How do you and your child envision the future cityscape of Singapore to look like in the years to come? Create your version of the Singapore cityscape and bring your imagination to life! Aside from familiar locations like Changi Airport, Marina Bay Sands and the Singapore Flyer, you can also draw your interpretations of Singapore’s future buildings and transportation. Display the finished work at home. Print the instructions and template [here](https://drive.google.com/file/d/1eBau02Qw6Zb4VrZAB9SO9CwGEwR5Qqr8/view?usp=sharing).
+How do you and your child envision the future cityscape of Singapore to look like in the years to come? Create your version of the Singapore cityscape and bring your imagination to life! Aside from familiar locations like Changi Airport, Marina Bay Sands and the Singapore Flyer, you can also draw your interpretations of Singapore’s future buildings and transportation. Display the finished work at home. Print the instructions and template [here](/docs/SingaporePopUpCraft.pdf).
 
 
 ## <a id="snakes-and-ladders"></a>Snakes and Ladders - Singapore Edition!
@@ -62,4 +62,4 @@ This version of Snakes and Ladders works similarly to any other version of the b
 
 However, this game board does come with a slight twist! As you make your way through the board, you may encounter tiles that have Singaporean trivia questions on them. If you get the answer right, you can move your game piece forward. Get it wrong and you’ll find yourself stuck on that square!
 
-What are you waiting for? [Print out](https://drive.google.com/file/d/1jpyVXqNEeJKFPKFdgxzicyOV6UsVNiMz/view?usp=sharing) your very own Singaporean Snakes and Ladders here and see who amongst your friends and family is most knowledgeable about Singapore!
+What are you waiting for? [Print out](/docs/Snakes_Ladders_Printable.pdf) your very own Singaporean Snakes and Ladders here and see who amongst your friends and family is most knowledgeable about Singapore!

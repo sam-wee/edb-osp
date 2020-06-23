@@ -8,7 +8,7 @@ permalink: /events/
 | Event  | Date & Time | Details |
 |---|---|---|
 | Shopee Code League 2020 | 8 Jun - 1 Aug | [Find out more](https://www.singaporeglobalnetwork.com/events/shopee-code-league-2020/) |
-| SGN x VGC: Lunch chat with Steve Melhuish, Founder of PropertyGuru | 19 Jun | [Find out more](https://www.singaporeglobalnetwork.com/events/sgn-vgc-property-guru/) |
+| Exclusive: Fireside chat between LinkedIn Co-founder Allen Blue and Singapore Senior Minister of State Dr Janil Puthucheary | 14 Jul, 9am SGT | [Find out more](https://go.gov.sg/postcovid) |
 
 
 ### Past Events
@@ -17,7 +17,9 @@ permalink: /events/
 
 | Event  | Date & Time | Event Highlight |
 |---|---|---| 
-| Pints and Prata #2 - Pivoting to Tech | 13 Jun | [Watch here]() |
+| SGN x VGC: Lunch chat with Steve Melhuish, Founder of PropertyGuru | 19 Jun | [Watch here]() |
+| Pints and Prata #2 - Pivoting to Tech | 13 Jun | [Watch here](https://youtu.be/PryoruCOHjg) |
+| Impact of COVID-19 on Singapore to USA Visas and Immigration | 7 Jun | [Watch here](https://www.facebook.com/163610613667089/posts/3603916642969785/) |
 | Threats & Opportunities Presented by COVID-19 for Cybersecurity Businesses & Start-ups | 4 Jun | [Watch here](https://www.youtube.com/watch?v=iSTgrO_TaaE&t=11s) |
 | Decision Trees in Product Management | 3 Jun | [Watch here](https://www.youtube.com/watch?v=ht-kMF0AisA&t=3s) |
 | Behind the Scenes: Join This Exclusive Conversation On Singapore's COVID-19 Response | 30 May | 

@@ -49,7 +49,7 @@ Singapore – we think we’ve seen it all, but there really is still much more 
 
 ![Singapore Cityscape Pop-Up Display](/images/kids-resources/sg-cityscape-popup.png)
 
-How do you and your child envision the future cityscape of Singapore to look like in the years to come? Create your version of the Singapore cityscape and bring your imagination to life! Aside from familiar locations like Changi Airport, Marina Bay Sands and the Singapore Flyer, you can also draw your interpretations of Singapore’s future buildings and transportation. Display the finished work at home. Print the instructions and template [here](/docs/SingaporePopUpCraft.pdf).
+How do you and your child envision the future cityscape of Singapore to look like in the years to come? Create your version of the Singapore cityscape and bring your imagination to life! Aside from familiar locations like Changi Airport, Marina Bay Sands and the Singapore Flyer, you can also draw your interpretations of Singapore’s future buildings and transportation. Display the finished work at home. Print the instructions and template [here](/docs/SGN-SingaporePopUpCraft.pdf).
 
 
 ## <a id="snakes-and-ladders"></a>Snakes and Ladders - Singapore Edition!

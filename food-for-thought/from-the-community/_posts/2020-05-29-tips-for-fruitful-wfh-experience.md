@@ -30,7 +30,7 @@ Unless you live alone, working from home means that your loved ones or flatmates
 
 Derrick, a Valuation Advisory Analyst, who returned from the UK, notes that as he is still working UK hours, he wakes up and goes to bed much later than the rest of his household. “I guess my routine has been inverted, having my free time in the late morning to late afternoon instead of the evening.” He adds, this has made it more challenging for him to spend time with those around him. 
 
-[Cheryl Tan, a New York-based writer](https://cheryllulientan.com/) who has moved back temporarily following her parent’s advice, points out, “It's all about navigating your work and eating schedule so it fits with those you are sharing a living space with. It's just a natural and necessary part of this new epoch.” 
+[Cheryl Lu-Lien Tan, a New York-based writer](https://cheryllulientan.com/) who has moved back temporarily following her parent’s advice, points out, “It's all about navigating your work and eating schedule so it fits with those you are sharing a living space with. It's just a natural and necessary part of this new epoch.” 
 
 She adds that she had to convince her mum to let her skip lunch. “It makes me more relaxed if she's more relaxed about me not eating lunch. And I told her it is good for my health, too — (to practise) intermittent fasting!”
 
